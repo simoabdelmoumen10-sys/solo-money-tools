@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Habit Tracker</title>
+<link rel="manifest" href="./manifest.json">
+<meta name="theme-color" content="#1b1a17">
+<link rel="icon" href="./icon.svg" type="image/svg+xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Fira+Sans:wght@400;500;600;700&family=Fira+Code:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+<header class="masthead">
+  <div class="wordmark">HABIT<b>_TRACK</b></div>
+  <div class="date" id="today-label"></div>
+</header>
+<main>
+  <div class="add-row">
+    <input id="new-habit" placeholder="New habit — e.g. Drink water, 10 pushups…">
+    <select id="new-freq">
+      <option value="daily">Daily</option>
+      <option value="weekday">Weekdays</option>
+    </select>
+    <button class="btn primary" id="btn-add">Add</button>
+  </div>
+  <div id="habits"></div>
+  <div class="card summary">
+    <div class="label">Today</div>
+    <div class="value" id="today-count">0 / 0</div>
+    <div class="bar"><div id="today-bar"></div></div>
+  </div>
+</main>
+<footer>Habit Tracker · free · data stays on your device</footer>
+<script src="./app.js"></script>
+</body>
+</html>
