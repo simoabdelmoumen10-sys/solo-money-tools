@@ -32,3 +32,18 @@
 - Store URL: https://simoabdel.gumroad.com
 - All products ship with a 30-day money-back guarantee.
 - Product files are verified before listing; no invented sales numbers are published anywhere.
+
+## Premium toolkits (paid, instant download)
+
+- [House Cleaning Business OS](https://simoabdelmoumen10-sys.github.io/solo-money-tools/products/house-cleaning-business-os.html): pricing calculator, first-30-days plan and full client system for cleaning businesses. $129.
+- [Trader's Risk & Journal OS (pro)](https://simoabdelmoumen10-sys.github.io/solo-money-tools/products/traders-risk-journal-os.html): position sizer + trade journaling pro toolkit. $79.
+- [Trading Plan Architect](https://simoabdelmoumen10-sys.github.io/solo-money-tools/products/trading-plan-architect.html): write the plan you will actually follow. $49.
+- [Freelancer Second Brain](https://simoabdelmoumen10-sys.github.io/solo-money-tools/products/freelancer-second-brain-notion.html): entire solo business in one Notion workspace. $29.
+- [AI Agent Arsenal](https://simoabdelmoumen10-sys.github.io/solo-money-tools/products/ai-agent-arsenal.html): 90 battle-tested plugin suites for Claude Code. $29.
+- [Client Onboarding OS](https://simoabdelmoumen10-sys.github.io/solo-money-tools/products/client-onboarding-os-notion.html): the 14-step flow from signed to kickoff. $24.
+- [Content Creator OS](https://simoabdelmoumen10-sys.github.io/solo-money-tools/products/content-creator-os-notion.html): never face a blank calendar again. $29.
+- [Claude Code Revenue Pack](https://simoabdelmoumen10-sys.github.io/solo-money-tools/products/claude-code-revenue-pack.html): 50 revenue workflows as slash commands. $19.
+- [Marketing Skills Vault](https://simoabdelmoumen10-sys.github.io/solo-money-tools/products/marketing-skills-vault.html): installable AI marketing skills collection. $19.
+- [Local SEO Audit Kit](https://simoabdelmoumen10-sys.github.io/solo-money-tools/products/local-seo-audit-kit.html): the 28-point checklist that finds ranking problems. $19.
+
+Full catalog: https://simoabdel.gumroad.com
