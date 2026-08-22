@@ -1,0 +1,6 @@
+interface:
+  display_name: "Solo Money Tools"
+  short_description: "Repo-specific patterns and workflows for solo-money-tools"
+  default_prompt: "Use the solo-money-tools repo skill to follow existing architecture, testing, and workflow conventions."
+policy:
+  allow_implicit_invocation: true
