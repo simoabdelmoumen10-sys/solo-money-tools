@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="theme-color" content="#0b0e14">
+<title>Trader's Risk & Journal OS</title>
+<link rel="manifest" href="manifest.json">
+<link rel="icon" href="icon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header class="topbar">
+  <div class="brand"><span class="logo">▲</span> RiskOS</div>
+  <nav class="tabs">
+    <button class="tab active" data-tab="calculator">Position Sizer</button>
+    <button class="tab" data-tab="journal">Journal</button>
+    <button class="tab" data-tab="stats">Stats</button>
+    <button class="tab" data-tab="settings">Settings</button>
+  </nav>
+</header>
+
+<main>
+<section id="calculator" class="panel active">
+  <h2>Position Size Calculator</h2>
+  <p class="hint">Never risk more than your plan allows. Size every trade before you enter.</p>
+  <form id="calc-form" autocomplete="off">
+    <div class="grid2">
+      <label>Account balance ($)
+        <input type="number" id="c-balance" step="0.01" min="0" required>
+      </label>
+      <label>Risk per trade (%)
+        <input type="number" id="c-risk" step="0.1" min="0.1" max="100" value="1" required>
+      </label>
+      <label>Entry price ($)
+        <input type="number" id="c-entry" step="0.00001" min="0" required>
+      </label>
+      <label>Stop loss ($)
+        <input type="number" id="c-stop" step="0.00001" min="0" required>
+      </label>
+      <label>Target price ($) <span class="opt">(optional)</span>
+        <input type="number" id="c-target" step="0.00001" min="0">
+      </label>
+      <label>Direction
+        <select id="c-direction"><option value="long">Long</option><option value="short">Short</option></select>
+      </label>
+    </div>
+    <button type="submit" class="btn-primary">Calculate Position</button>
+  </form>
+  <div id="calc-result" class="result hidden"></div>
+</section>
+
+<section id="journal" class="panel">
+  <div class="panel-head">
+    <h2>Trade Journal</h2>
+    <button id="add-trade" class="btn-secondary">+ Log Trade</button>
+  </div>
+  <div id="trade-list" class="trade-list"></div>
+  <dialog id="trade-dialog">
+    <form id="trade-form" method="dialog" autocomplete="off">
+      <h3>Log Trade</h3>
+      <div class="grid2">
+        <label>Symbol
+          <input type="text" id="t-symbol" placeholder="AAPL / BTC / EURUSD" required>
+        </label>
+        <label>Direction
+          <select id="t-direction"><option>Long</option><option>Short</option></select>
+        </label>
+        <label>Entry ($)
+          <input type="number" id="t-entry" step="any" required>
+        </label>
+        <label>Exit ($)
+          <input type="number" id="t-exit" step="any" required>
+        </label>
+        <label>Size (units/shares)
+          <input type="number" id="t-size" step="any" required>
+        </label>
+        <label>Date
+          <input type="date" id="t-date" required>
+        </label>
+      </div>
+      <label>Setup / notes
+        <textarea id="t-notes" rows="2" placeholder="Why did you take this trade?"></textarea>
+      </label>
+      <div class="dialog-actions">
+        <button type="button" class="btn-ghost" id="t-cancel">Cancel</button>
+        <button type="submit" class="btn-primary" id="t-save">Save Trade</button>
+      </div>
+    </form>
+  </dialog>
+</section>
+
+<section id="stats" class="panel">
+  <h2>Performance</h2>
+  <div id="stat-cards" class="stat-cards"></div>
+  <canvas id="equity-chart" width="720" height="260"></canvas>
+  <div class="chart-label">Equity curve (cumulative R and $ P&L)</div>
+  <button id="export-json" class="btn-ghost">Export data (JSON)</button>
+</section>
+
+<section id="settings" class="panel">
+  <h2>Settings</h2>
+  <form id="settings-form" autocomplete="off">
+    <label>Default account balance ($)
+      <input type="number" id="s-balance" step="0.01" min="0">
+    </label>
+    <label>Default risk %
+      <input type="number" id="s-risk" step="0.1" min="0.1" max="100">
+    </label>
+    <fieldset>
+      <legend>Danger zone</legend>
+      <button type="button" id="wipe" class="btn-danger">Erase ALL local data</button>
+      <p class="hint">Everything is stored locally on this device. Nothing leaves your browser.</p>
+    </fieldset>
+  </form>
+  <div class="about">
+    <p><strong>Trader's Risk & Journal OS</strong> v1.0 — offline-first risk management and trade journaling.</p>
+    <p>Companion guide: <em>The Trading Discipline Playbook</em> (included with purchase).</p>
+  </div>
+</section>
+</main>
+
+<script src="app.js"></script>
+</body>
+</html>
