@@ -1,0 +1,31 @@
+:root{
+  --bg:#1b1a17; --surface:#211f1c; --surface-2:#272521;
+  --ink:#f2f0ea; --ink-2:rgba(242,240,234,.62); --ink-3:rgba(242,240,234,.5); --ink-4:rgba(242,240,234,.36);
+  --line:rgba(242,240,234,.12); --line-2:rgba(242,240,234,.07);
+  --up:#34d399; --warn:#e0a72e; --down:#f87171;
+  --accent:#7da6ff; --accent-bg:rgba(125,166,255,.13); --accent-bd:rgba(125,166,255,.34);
+  --mono:'Fira Code',ui-monospace,monospace; --sans:'Fira Sans',system-ui,sans-serif;
+}
+*{margin:0;padding:0;box-sizing:border-box}
+body{background:var(--bg);color:var(--ink);font-family:var(--sans);font-size:15px;line-height:1.6;min-height:100vh;display:flex;flex-direction:column}
+.masthead{display:flex;align-items:center;justify-content:space-between;padding:16px 24px;border-bottom:1px solid var(--line-2)}
+.wordmark{font-weight:700;font-size:15px;letter-spacing:.16em;text-transform:uppercase}
+.wordmark b{color:var(--accent)}
+main{flex:1;padding:24px;max-width:900px;width:100%;margin:0 auto}
+.grid{display:grid;grid-template-columns:1fr 1fr;gap:14px}
+.card{background:var(--surface);border:1px solid var(--line-2);border-radius:2px;padding:16px}
+.label{font-size:10.5px;letter-spacing:.14em;text-transform:uppercase;color:var(--ink-3);margin-top:10px}
+.label:first-child{margin-top:0}
+input,textarea{width:100%;background:var(--surface-2);border:1px solid var(--line-2);color:var(--ink);font-family:var(--sans);font-size:13.5px;padding:8px 10px;border-radius:2px;margin-top:4px}
+textarea{resize:vertical;font-family:var(--mono);font-size:12px;line-height:1.6}
+input:focus,textarea:focus{outline:none;border-color:var(--accent)}
+.tabs{display:flex;gap:6px;margin-top:8px}
+.tab{appearance:none;background:var(--surface-2);border:1px solid var(--line-2);color:var(--ink-2);font-family:var(--sans);font-size:11px;letter-spacing:.08em;text-transform:uppercase;padding:6px 12px;border-radius:2px;cursor:pointer}
+.tab.active{background:var(--accent-bg);border-color:var(--accent-bd);color:var(--accent)}
+.actions{display:flex;gap:8px;margin-top:10px}
+.btn{appearance:none;background:var(--surface-2);border:1px solid var(--line-2);color:var(--ink);font-family:var(--sans);font-size:12.5px;padding:8px 14px;border-radius:2px;cursor:pointer}
+.btn:hover{border-color:var(--line)}
+.btn.primary{background:var(--accent-bg);border-color:var(--accent-bd);color:var(--accent)}
+.note{font-size:11px;color:var(--ink-3);margin-top:10px}
+footer{border-top:1px solid var(--line-2);padding:14px 24px;font-size:11px;color:var(--ink-3)}
+@media(max-width:640px){.grid{grid-template-columns:1fr}}
