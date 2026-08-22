@@ -1,0 +1,54 @@
+name: Quality
+
+on:
+  push:
+    branches: [master]
+  pull_request:
+    branches: [master]
+
+permissions:
+  contents: read
+
+jobs:
+  build-pwas:
+    name: Build ${{ matrix.app }}
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        app:
+          - client-boundary-coach
+          - client-onboarding-kit
+          - cold-email-gen
+          - contract-redline
+          - focus-timer
+          - freelancer-toolkit
+          - habit-tracker
+    defaults:
+      run:
+        working-directory: ${{ matrix.app }}
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: ${{ matrix.app }}/package-lock.json
+
+      - name: Install locked dependencies
+        run: npm ci --ignore-scripts
+
+      - name: Run type checking when available
+        shell: bash
+        run: |
+          if npm run | grep -qE '^  typecheck'; then
+            npm run typecheck
+          else
+            echo "No typecheck script for ${{ matrix.app }}"
+          fi
+
+      - name: Build production bundle
+        run: npm run build
