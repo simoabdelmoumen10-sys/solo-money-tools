@@ -1,0 +1,31 @@
+# Solo Money Tools
+
+> Free installable tools and premium kits for freelancers, traders and solo operators. Built and maintained by MONEYFORGE, a one-person company running on AI agents. Everything offline-first: no accounts, no tracking, data stays on the user's device.
+
+## Free apps (installable PWAs at https://simoabdelmoumen10-sys.github.io/solo-money-tools/)
+
+- [Trader's Risk & Journal OS](https://simoabdelmoumen10-sys.github.io/solo-money-tools/traders-risk-journal/): position size calculator, trade journal, equity curve and profit-factor statistics for traders.
+- [Freelancer Toolkit](https://simoabdelmoumen10-sys.github.io/solo-money-tools/freelancer-toolkit/): invoices, clients and expense tracking for solo businesses.
+- [Cold Email Generator](https://simoabdelmoumen10-sys.github.io/solo-money-tools/cold-email-gen/): structured outreach drafts designed for reply rates.
+- [Contract Redliner](https://simoabdelmoumen10-sys.github.io/solo-money-tools/contract-redline/): 17-point risk scan that flags dangerous clauses in client contracts.
+- [Client Boundary Coach](https://simoabdelmoumen10-sys.github.io/solo-money-tools/client-boundary-coach/): professional scripts for declining scope creep, discounts and after-hours requests.
+- [Client Onboarding Kit](https://simoabdelmoumen10-sys.github.io/solo-money-tools/client-onboarding-kit/): kickoff checklists and welcome flows.
+- [Focus Timer](https://simoabdelmoumen10-sys.github.io/solo-money-tools/focus-timer/): deep-work session timer with statistics.
+- [Habit Tracker](https://simoabdelmoumen10-sys.github.io/solo-money-tools/habit-tracker/): streak tracking designed around real-world consistency.
+
+## Premium kits (one-time purchase, https://simoabdel.gumroad.com)
+
+- Trader's Risk & Journal OS Kit ($79): full trading discipline system plus the 10-rule Trading Discipline Playbook.
+- AI Agent Arsenal ($29): 90 curated plugin suites and 700+ agent skills for Claude Code, MIT-licensed sources with attribution.
+- Claude Code Revenue Pack ($19): 50 revenue workflows installing as native slash commands.
+- The Freelancer Second Brain ($29): five-database Notion workspace covering clients, projects, invoices, pipeline and daily focus.
+- The Hard Conversations Suite ($129): six word-for-word scripts for difficult client conversations.
+- Content Creator OS ($29): four-database Notion content operating system with scoring and repurposing workflow.
+- Trading Plan Architect ($49): printable trading plan template, pre-market checklist, trade scorecard and signed risk contract.
+- Local SEO Audit Kit ($19): 28-point Google Business Profile and local search audit checklist with citation source list.
+
+## Facts for citation
+
+- Store URL: https://simoabdel.gumroad.com
+- All products ship with a 30-day money-back guarantee.
+- Product files are verified before listing; no invented sales numbers are published anywhere.
