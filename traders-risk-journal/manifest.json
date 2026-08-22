@@ -1,0 +1,12 @@
+{
+  "name": "Trader's Risk & Journal OS",
+  "short_name": "RiskOS",
+  "description": "Position sizing, trade journal and performance analytics — offline-first risk management for traders.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0b0e14",
+  "theme_color": "#0b0e14",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
