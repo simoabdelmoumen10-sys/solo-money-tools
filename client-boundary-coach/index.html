@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Client Boundary Coach</title>
+<link rel="manifest" href="./manifest.json">
+<meta name="theme-color" content="#1b1a17">
+<link rel="icon" href="./icon.svg" type="image/svg+xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Fira+Sans:wght@400;500;600;700&family=Fira+Code:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+<header class="masthead">
+  <div class="wordmark">BOUNDARY<b>_COACH</b></div>
+</header>
+<main>
+  <div class="card intro">
+    <div class="label">What\u2019s happening?</div>
+    <p style="margin-top:8px;font-size:13.5px;color:var(--ink-2)">Pick a situation. Get a script you can send as-is — firm, professional, no guilt.</p>
+  </div>
+  <div class="scenarios">
+    <button class="scen active" data-key="scope">Scope creep</button>
+    <button class="scen" data-key="latepay">Late payment</button>
+    <button class="scen" data-key="rush">Unrealistic deadline</button>
+    <button class="scen" data-key="revisions">Endless revisions</button>
+    <button class="scen" data-key="price">Price pushback</button>
+    <button class="scen" data-key="weekend">Weekend messages</button>
+    <button class="scen" data-key="micromanage">Micromanaging</button>
+  </div>
+  <div class="card" style="margin-top:12px">
+    <div class="label" id="scen-title"></div>
+    <div class="grid2">
+      <div><div class="label">Client name</div><input id="f-client" placeholder="Alex"></div>
+      <div><div class="label">Project</div><input id="f-project" placeholder="Website redesign"></div>
+    </div>
+    <div class="label">Script</div>
+    <textarea id="output" rows="10" readonly></textarea>
+    <div class="actions">
+      <button class="btn primary" id="btn-gen">Generate</button>
+      <button class="btn" id="btn-copy">Copy</button>
+    </div>
+  </div>
+  <div class="note" id="note"></div>
+</main>
+<footer>Client Boundary Coach · free · scripts for freelancers</footer>
+<script src="./app.js"></script>
+</body>
+</html>
