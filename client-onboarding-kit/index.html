@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Client Onboarding Kit</title>
+<link rel="manifest" href="./manifest.json">
+<meta name="theme-color" content="#1b1a17">
+<link rel="icon" href="./icon.svg" type="image/svg+xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Fira+Sans:wght@400;500;600;700&family=Fira+Code:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+<header class="masthead">
+  <div class="wordmark">ONBOARD<b>_KIT</b></div>
+</header>
+<main>
+  <div class="grid">
+    <div class="card">
+      <div class="label">Your name</div>
+      <input id="f-name" placeholder="Sara">
+      <div class="label">Your business</div>
+      <input id="f-business" placeholder="Sara Designs">
+      <div class="label">Client name</div>
+      <input id="f-client" placeholder="Alex">
+      <div class="label">Project</div>
+      <input id="f-project" placeholder="Website redesign">
+      <div class="label">Scope summary</div>
+      <input id="f-scope" placeholder="5-page site, copy polish, launch">
+      <div class="label">Fee (USD)</div>
+      <input id="f-fee" placeholder="2500">
+      <div class="label">Timeline</div>
+      <input id="f-timeline" placeholder="4 weeks">
+      <div class="label">Kickoff date</div>
+      <input id="f-date" type="date">
+    </div>
+    <div class="card">
+      <div class="label">Output</div>
+      <div class="tabs">
+        <button class="tab active" data-tab="proposal">Proposal</button>
+        <button class="tab" data-tab="contract">Contract</button>
+        <button class="tab" data-tab="kickoff">Kickoff</button>
+      </div>
+      <textarea id="output" rows="18" readonly></textarea>
+      <div class="actions">
+        <button class="btn primary" id="btn-gen">Generate</button>
+        <button class="btn" id="btn-copy">Copy</button>
+      </div>
+    </div>
+  </div>
+  <div class="note" id="note"></div>
+</main>
+<footer>Client Onboarding Kit · free · templates for freelancers</footer>
+<script src="./app.js"></script>
+</body>
+</html>
