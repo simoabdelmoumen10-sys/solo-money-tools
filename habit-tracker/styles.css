@@ -1,0 +1,40 @@
+:root{
+  --bg:#1b1a17; --surface:#211f1c; --surface-2:#272521;
+  --ink:#f2f0ea; --ink-2:rgba(242,240,234,.62); --ink-3:rgba(242,240,234,.5); --ink-4:rgba(242,240,234,.36);
+  --line:rgba(242,240,234,.12); --line-2:rgba(242,240,234,.07);
+  --up:#34d399; --warn:#e0a72e; --down:#f87171;
+  --accent:#7da6ff; --accent-bg:rgba(125,166,255,.13); --accent-bd:rgba(125,166,255,.34);
+  --mono:'Fira Code',ui-monospace,monospace; --sans:'Fira Sans',system-ui,sans-serif;
+}
+*{margin:0;padding:0;box-sizing:border-box}
+body{background:var(--bg);color:var(--ink);font-family:var(--sans);font-size:15px;line-height:1.6;min-height:100vh;display:flex;flex-direction:column}
+.masthead{display:flex;align-items:center;justify-content:space-between;padding:16px 24px;border-bottom:1px solid var(--line-2)}
+.wordmark{font-weight:700;font-size:15px;letter-spacing:.16em;text-transform:uppercase}
+.wordmark b{color:var(--accent)}
+.date{font-family:var(--mono);font-size:11px;color:var(--ink-3)}
+main{flex:1;padding:24px;max-width:680px;width:100%;margin:0 auto}
+.add-row{display:flex;gap:8px;margin-bottom:16px}
+input,select{background:var(--surface-2);border:1px solid var(--line-2);color:var(--ink);font-family:var(--sans);font-size:13.5px;padding:8px 10px;border-radius:2px}
+input{flex:1}
+input:focus,select:focus{outline:none;border-color:var(--accent)}
+.btn{appearance:none;background:var(--surface-2);border:1px solid var(--line-2);color:var(--ink);font-family:var(--sans);font-size:12.5px;padding:8px 14px;border-radius:2px;cursor:pointer;white-space:nowrap}
+.btn:hover{border-color:var(--line)}
+.btn.primary{background:var(--accent-bg);border-color:var(--accent-bd);color:var(--accent)}
+.habit{display:flex;align-items:center;gap:12px;background:var(--surface);border:1px solid var(--line-2);border-radius:2px;padding:12px 14px;margin-bottom:8px}
+.habit .check{width:26px;height:26px;border:1px solid var(--line-2);border-radius:2px;cursor:pointer;display:flex;align-items:center;justify-content:center;font-size:14px;color:transparent;flex-shrink:0;transition:all .2s}
+.habit.done .check{background:var(--up);border-color:var(--up);color:#1b1a17}
+.habit .name{flex:1;font-weight:600}
+.habit.done .name{color:var(--ink-3);text-decoration:line-through}
+.habit .streak{font-family:var(--mono);font-size:11px;color:var(--warn)}
+.habit .del{appearance:none;background:transparent;border:none;color:var(--ink-4);font-size:14px;cursor:pointer}
+.habit .del:hover{color:var(--down)}
+.week{display:flex;gap:3px;margin-top:4px}
+.week .day{width:9px;height:9px;border-radius:1px;background:var(--surface-2)}
+.week .day.on{background:var(--up)}
+.card{background:var(--surface);border:1px solid var(--line-2);border-radius:2px;padding:16px;margin-top:16px}
+.label{font-size:10.5px;letter-spacing:.14em;text-transform:uppercase;color:var(--ink-3)}
+.value{font-family:var(--mono);font-weight:600;font-size:22px;margin-top:4px}
+.bar{height:8px;background:var(--surface-2);border-radius:2px;margin-top:10px;overflow:hidden}
+.bar div{height:100%;background:var(--up);width:0;transition:width .3s}
+footer{border-top:1px solid var(--line-2);padding:14px 24px;font-size:11px;color:var(--ink-3)}
+@media(max-width:560px){.add-row{flex-wrap:wrap}.add-row input{flex-basis:100%}}
