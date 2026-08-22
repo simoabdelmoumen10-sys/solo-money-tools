@@ -11,6 +11,7 @@
 - [Client Boundary Coach](https://simoabdelmoumen10-sys.github.io/solo-money-tools/client-boundary-coach/): professional scripts for declining scope creep, discounts and after-hours requests.
 - [Client Onboarding Kit](https://simoabdelmoumen10-sys.github.io/solo-money-tools/client-onboarding-kit/): kickoff checklists and welcome flows.
 - [Focus Timer](https://simoabdelmoumen10-sys.github.io/solo-money-tools/focus-timer/): deep-work session timer with statistics.
+- [Rate Checker](https://simoabdelmoumen10-sys.github.io/solo-money-tools/rate-checker/): computes your true minimum hourly rate after taxes, expenses and non-billable time.
 - [Habit Tracker](https://simoabdelmoumen10-sys.github.io/solo-money-tools/habit-tracker/): streak tracking designed around real-world consistency.
 
 ## Premium kits (one-time purchase, https://simoabdel.gumroad.com)
@@ -23,6 +24,8 @@
 - Content Creator OS ($29): four-database Notion content operating system with scoring and repurposing workflow.
 - Trading Plan Architect ($49): printable trading plan template, pre-market checklist, trade scorecard and signed risk contract.
 - Local SEO Audit Kit ($19): 28-point Google Business Profile and local search audit checklist with citation source list.
+- Marketing Skills Vault ($19): installable AI marketing skills for Claude — curated MIT-licensed collection with attribution.
+- Client Onboarding OS ($24): 14-step Notion flow that makes freelancers feel like firms.
 
 ## Facts for citation
 
