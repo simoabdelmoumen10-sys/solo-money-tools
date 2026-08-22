@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Cold Email Generator</title>
+<link rel="manifest" href="./manifest.json">
+<meta name="theme-color" content="#1b1a17">
+<link rel="icon" href="./icon.svg" type="image/svg+xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Fira+Sans:wght@400;500;600;700&family=Fira+Code:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+<header class="masthead">
+  <div class="wordmark">COLD_EMAIL<span style="color:var(--accent)">GEN</span></div>
+  <button class="btn" id="btn-random">Randomize</button>
+</header>
+<main>
+  <div class="grid">
+    <div class="card">
+      <div class="label">Your name</div>
+      <input id="f-name" placeholder="Sara">
+      <div class="label">Your service</div>
+      <input id="f-service" placeholder="web design">
+      <div class="label">Prospect name</div>
+      <input id="f-prospect" placeholder="Alex">
+      <div class="label">Their company</div>
+      <input id="f-company" placeholder="Brightline Studio">
+      <div class="label">Specific detail (research)</div>
+      <input id="f-detail" placeholder="saw your new product launch post">
+      <div class="label">Result you deliver</div>
+      <input id="f-result" placeholder="a landing page that converts">
+      <div class="label">Proof (project/result)</div>
+      <input id="f-proof" placeholder="tripled signups for a SaaS client">
+    </div>
+    <div class="card">
+      <div class="label">Tone</div>
+      <select id="f-tone">
+        <option value="direct">Direct</option>
+        <option value="casual">Casual</option>
+        <option value="value">Value-first</option>
+      </select>
+      <div class="label">Your email</div>
+      <input id="f-email" placeholder="sara@example.com">
+      <div class="label">Output</div>
+      <textarea id="output" rows="16" readonly></textarea>
+      <div class="actions">
+        <button class="btn primary" id="btn-gen">Generate</button>
+        <button class="btn" id="btn-copy">Copy</button>
+      </div>
+    </div>
+  </div>
+  <div class="note" id="note"></div>
+</main>
+<footer>Cold Email Generator · free · nothing leaves your device</footer>
+<script src="./app.js"></script>
+</body>
+</html>
