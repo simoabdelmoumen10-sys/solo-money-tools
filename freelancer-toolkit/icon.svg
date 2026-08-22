@@ -1,9 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
-  <rect width="128" height="128" rx="16" fill="#1b1a17"/>
-  <rect x="30" y="22" width="68" height="84" rx="4" fill="none" stroke="#7da6ff" stroke-width="5"/>
-  <line x1="42" y1="42" x2="86" y2="42" stroke="#f2f0ea" stroke-width="4"/>
-  <line x1="42" y1="56" x2="86" y2="56" stroke="#f2f0ea" stroke-width="4"/>
-  <line x1="42" y1="70" x2="70" y2="70" stroke="#f2f0ea" stroke-width="4"/>
-  <circle cx="90" cy="88" r="14" fill="#34d399"/>
-  <path d="M85 88 l4 4 l7 -8" stroke="#1b1a17" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <rect width="64" height="64" rx="8" fill="#1b1a17"/>
+  <text x="32" y="42" font-family="monospace" font-size="28" font-weight="700" fill="#7da6ff" text-anchor="middle">FK</text>
 </svg>
