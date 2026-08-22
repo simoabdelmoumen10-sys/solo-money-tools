@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Contract Redline</title>
+<link rel="manifest" href="./manifest.json">
+<meta name="theme-color" content="#1b1a17">
+<meta name="description" content="Paste a contract, get risky clauses and redline suggestions in seconds. Works offline, free.">
+<link rel="icon" href="./icon.svg" type="image/svg+xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Fira+Sans:wght@400;500;600;700&family=Fira+Code:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+
+<header class="masthead">
+  <div class="wordmark">CONTRACT<b>_REDLINE</b></div>
+  <div class="nav">
+    <button class="nav-btn active" data-view="analyze">Analyze</button>
+    <button class="nav-btn" data-view="history">History</button>
+  </div>
+</header>
+
+<main>
+  <section id="view-analyze" class="view">
+    <div class="card intro">
+      <div class="label">How it works</div>
+      <p style="margin-top:6px;font-size:13.5px;color:var(--ink-2)">Paste a contract. Get flagged risky clauses, severity, and a suggested redline. Runs on your device — nothing is uploaded.</p>
+    </div>
+    <div class="card" style="margin-top:12px">
+      <div class="label">Contract text</div>
+      <textarea id="contract-text" rows="12" placeholder="Paste the contract here…"></textarea>
+      <div class="actions" style="margin-top:10px">
+        <button class="btn primary" id="btn-analyze">Analyze</button>
+        <button class="btn" id="btn-sample">Load sample</button>
+        <button class="btn" id="btn-clear">Clear</button>
+      </div>
+    </div>
+    <div id="results" hidden>
+      <div class="toolbar" style="margin-top:20px">
+        <h2>Findings</h2>
+        <span id="score" class="score"></span>
+      </div>
+      <div id="result-list"></div>
+    </div>
+  </section>
+
+  <section id="view-history" class="view" hidden>
+    <div class="toolbar">
+      <h2>History</h2>
+      <button class="btn" id="btn-clear-history">Clear history</button>
+    </div>
+    <div id="history-list"></div>
+  </section>
+</main>
+
+<footer>Contract Redline · free · analysis stays on your device · not legal advice</footer>
+
+<script src="./app.js"></script>
+</body>
+</html>
