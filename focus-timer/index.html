@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Focus Timer</title>
+<link rel="manifest" href="./manifest.json">
+<meta name="theme-color" content="#1b1a17">
+<link rel="icon" href="./icon.svg" type="image/svg+xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Fira+Sans:wght@400;500;600;700&family=Fira+Code:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+<header class="masthead">
+  <div class="wordmark">FOCUS<b>_TIMER</b></div>
+  <button class="btn" id="btn-reset">Reset today</button>
+</header>
+<main>
+  <div class="modes">
+    <button class="mode active" data-min="25" data-label="Focus">Focus 25</button>
+    <button class="mode" data-min="50" data-label="Deep">Deep 50</button>
+    <button class="mode" data-min="5" data-label="Break">Break 5</button>
+  </div>
+  <div class="timer" id="display">25:00</div>
+  <div class="controls">
+    <button class="btn primary big" id="btn-toggle">Start</button>
+    <button class="btn big" id="btn-skip">Skip</button>
+  </div>
+  <div class="card">
+    <div class="label">Today</div>
+    <div class="value" id="stat">0 sessions · 0 min focused</div>
+    <div class="label" style="margin-top:12px">Last 7 days</div>
+    <div class="week" id="week"></div>
+  </div>
+</main>
+<footer>Focus Timer · free · Pomodoro-style · data stays on device</footer>
+<script src="./app.js"></script>
+</body>
+</html>
