@@ -5,7 +5,7 @@ import fs from 'fs';
 
 const live = JSON.parse(fs.readFileSync('catalog-data.json', 'utf8'));
 
-const esc = s => s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+const esc = s => String(s ?? '').replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
 const slugify = n => n.toLowerCase()
   .replace(/[’'""]/g, '')
   .replace(/[^a-z0-9]+/g, '-')
@@ -146,6 +146,9 @@ const SITE = 'https://simoabdelmoumen10-sys.github.io/solo-money-tools/';
 for (const p of live) {
   const lane = laneOf[p.url];
   const siblings = live.filter(x => x.url !== p.url && laneOf[x.url] === lane).slice(0, 3);
+  const cs = (p.crosssell && p.crosssell.sibling_objects) || siblings;
+  const bundle = (p.crosssell && p.crosssell.bundle_or_cross) || null;
+  const member = (p.crosssell && p.crosssell.member_sku) || null;
   let html = `<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -184,9 +187,9 @@ h1{font-size:clamp(24px,5vw,36px);line-height:1.2}
 <p style="margin-top:22px;font-size:16px">${esc(p.summary || 'Complete kit with templates, scripts and step-by-step walkthroughs. Instant download.')}</p>
 <div class="tags">${(p.tags || []).map(t => `<span>${esc(t)}</span>`).join('')}</div>
 <p class="guarantee">Instant download · Markdown/PDF files open anywhere · ${p.price === 0 ? 'No payment needed.' : '30-day money-back guarantee.'}</p>
-${siblings.length ? `<div class="more"><h2>More in ${esc(lane)}</h2><div class="grid">
-${siblings.map(s => productCard(s).replaceAll(`href="products/`, `href="`)).join('\n')}
-</div></div>` : ''}
+${((cs && cs.length) ? `<div class="more"><h2>More in ${esc(lane)}</h2><div class="grid">
+${cs.map(s => productCard(s).replaceAll(`href="products/`, `href="`)).join('\n')}
+</div></div>` : '') + (bundle ? `<p class="guarantee">Bundle: ${esc(bundle)}${member ? ' - member SKU: '+esc(member) : ''}</p>` : '')}
 <footer>MONEYFORGE · <a href="../llms.txt">llms.txt</a> · <a href="https://simoabdel.gumroad.com">Full store</a></footer>
 </div>
 </body>

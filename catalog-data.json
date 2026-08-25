@@ -11,7 +11,38 @@
    "forecasting",
    "freelance",
    "planning"
-  ]
+  ],
+  "crosssell": {
+   "lane": "business_os",
+   "siblings": [
+    "gi1DJ3eBN724xJzVDx5ZWg==",
+    "EvHU3txVE6_hFuqdX-rIhQ==",
+    "rZnbo5xaAXwtex4PzW1m_A=="
+   ],
+   "bundle_or_cross": "bundle-business_os",
+   "member_sku": "business_os-member",
+   "status": "staged",
+   "sibling_objects": [
+    {
+     "name": "Rate Increase Playbook - Templates & Scripts for Announcing Price Raises",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/hofnhx",
+     "summary": "Rate Increase Playbook - announcement frameworks, objection handlers and grandfathering scripts."
+    },
+    {
+     "name": "Burnout & Workload Rebalancing System",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/yoqxur",
+     "summary": "Burnout & Workload Rebalancing System - assessment, calculator, scripts and action plan."
+    },
+    {
+     "name": "Solo Operator Continuity Bundle: Handoff Systems for Planned Time Off and Sudden Emergencies",
+     "price": 3600,
+     "url": "https://simoabdel.gumroad.com/l/nkhfc",
+     "summary": "2 complete kits: vacation handoff templates + emergency coverage systems for solo operators."
+    }
+   ]
+  }
  },
  {
   "name": "Rate Increase Playbook - Templates & Scripts for Announcing Price Raises",
@@ -25,7 +56,38 @@
    "retainers",
    "freelance",
    "clients"
-  ]
+  ],
+  "crosssell": {
+   "lane": "business_os",
+   "siblings": [
+    "1Jiaav2Y3Si55xqkzhaHhQ==",
+    "EvHU3txVE6_hFuqdX-rIhQ==",
+    "rZnbo5xaAXwtex4PzW1m_A=="
+   ],
+   "bundle_or_cross": "bundle-business_os",
+   "member_sku": "business_os-member",
+   "status": "staged",
+   "sibling_objects": [
+    {
+     "name": "Seasonal Revenue Planning System - Smooth Income Swings",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/xmylu",
+     "summary": "Seasonal Revenue Planning System - forecast patterns, plan cash flow, price to smooth revenue."
+    },
+    {
+     "name": "Burnout & Workload Rebalancing System",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/yoqxur",
+     "summary": "Burnout & Workload Rebalancing System - assessment, calculator, scripts and action plan."
+    },
+    {
+     "name": "Solo Operator Continuity Bundle: Handoff Systems for Planned Time Off and Sudden Emergencies",
+     "price": 3600,
+     "url": "https://simoabdel.gumroad.com/l/nkhfc",
+     "summary": "2 complete kits: vacation handoff templates + emergency coverage systems for solo operators."
+    }
+   ]
+  }
  },
  {
   "name": "Price Objection Scripts Kit",
@@ -39,7 +101,38 @@
    "sales",
    "objections",
    "coaching"
-  ]
+  ],
+  "crosssell": {
+   "lane": "pricing_sales",
+   "siblings": [
+    "NkWqMqyj2PzKipBEzTv_IA==",
+    "vaqx6vJSZAX2WJCVMVZgJA==",
+    "I4t4la0QiGwh5EB9Knj_HQ=="
+   ],
+   "bundle_or_cross": "bundle-pricing_sales",
+   "member_sku": "pricing_sales-member",
+   "status": "staged",
+   "sibling_objects": [
+    {
+     "name": "45-Minute Offer & Pricing Teardown Call",
+     "price": 7900,
+     "url": "https://simoabdel.gumroad.com/l/offer-and-pricing-teardown-call",
+     "summary": "A 45-minute offer and pricing teardown call to fix packages, improve margins, and build a quoting system that holds."
+    },
+    {
+     "name": "The Local Service Price Sheet: 24 Jobs, Real Rates, Ready to Quote",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/local-service-price-sheet",
+     "summary": ""
+    },
+    {
+     "name": "The Sales Pipeline Bundle: From Cold Research to Signed Client, Every Step Scripted",
+     "price": 4400,
+     "url": "https://simoabdel.gumroad.com/l/sales-pipeline-bundle",
+     "summary": ""
+    }
+   ]
+  }
  },
  {
   "name": "Scope Guard - Prevent Creep & Protect Profit",
@@ -53,7 +146,38 @@
    "profit",
    "scripts",
    "systems"
-  ]
+  ],
+  "crosssell": {
+   "lane": "general",
+   "siblings": [
+    "UjLNR0S7QiWPgy4zxkmOAw==",
+    "XkZ9FcXq0P--pSpmXg6ouQ==",
+    "BLmC8SnbuwoBG0C_SH8aKA=="
+   ],
+   "bundle_or_cross": "UjLNR0S7QiWPgy4zxkmOAw==",
+   "member_sku": null,
+   "status": "staged",
+   "sibling_objects": [
+    {
+     "name": "Time Tracking & Rate Audit Kit",
+     "price": 2900,
+     "url": "https://simoabdel.gumroad.com/l/lnfyja",
+     "summary": "Time Tracking & Rate Audit Kit - track hours, audit rates, price on data."
+    },
+    {
+     "name": "Emergency Coverage Handoff Kit - Be Covered Before Crisis Hits",
+     "price": 2900,
+     "url": "https://simoabdel.gumroad.com/l/wyegdp",
+     "summary": "Emergency Coverage Handoff Kit - ready-to-use templates for solo operators."
+    },
+    {
+     "name": "Solo Vacation Handoff Kit - Templates for Planned Time Off",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/toorji",
+     "summary": "Solo Vacation Handoff Kit - ready-to-use templates for solo operators planning time away."
+    }
+   ]
+  }
  },
  {
   "name": "Difficult Client Conversations - Scripts & Frameworks",
@@ -67,7 +191,38 @@
    "communication",
    "freelance",
    "frameworks"
-  ]
+  ],
+  "crosssell": {
+   "lane": "client",
+   "siblings": [
+    "J-6oLNUkBh4bc85oB71i8g==",
+    "xMJaXnOYIJutYv9STpDU8A==",
+    "fgXwIT1BhFNZyoMLu37N5g=="
+   ],
+   "bundle_or_cross": "bundle-client",
+   "member_sku": "client-member",
+   "status": "staged",
+   "sibling_objects": [
+    {
+     "name": "The Hard Conversations Suite: 6 Complete Kits for Every Uncomfortable Client Moment",
+     "price": 8300,
+     "url": "https://simoabdel.gumroad.com/l/uwtfhs",
+     "summary": "6 complete kits: difficult conversations, scope guard, price objections, client exit, payment terms, invoice system."
+    },
+    {
+     "name": "The Client Relationship Ops Bundle: Keep Clients Informed, On-Track, and Buying More",
+     "price": 3400,
+     "url": "https://simoabdel.gumroad.com/l/client-relationship-ops-bundle",
+     "summary": ""
+    },
+    {
+     "name": "The Client Acquisition to Kickoff Bundle: From First Call to First Day, Fully Scripted",
+     "price": 5300,
+     "url": "https://simoabdel.gumroad.com/l/client-acquisition-to-kickoff-bundle",
+     "summary": ""
+    }
+   ]
+  }
  },
  {
   "name": "Time Tracking & Rate Audit Kit",
@@ -81,7 +236,38 @@
    "audit",
    "templates",
    "freelance"
-  ]
+  ],
+  "crosssell": {
+   "lane": "general",
+   "siblings": [
+    "fpoHyOvFNqKj0iWwMDKXhQ==",
+    "XkZ9FcXq0P--pSpmXg6ouQ==",
+    "BLmC8SnbuwoBG0C_SH8aKA=="
+   ],
+   "bundle_or_cross": "fpoHyOvFNqKj0iWwMDKXhQ==",
+   "member_sku": null,
+   "status": "staged",
+   "sibling_objects": [
+    {
+     "name": "Scope Guard - Prevent Creep & Protect Profit",
+     "price": 2900,
+     "url": "https://simoabdel.gumroad.com/l/utglcg",
+     "summary": "Scope Guard - define scope, run change requests, stop unpaid labor."
+    },
+    {
+     "name": "Emergency Coverage Handoff Kit - Be Covered Before Crisis Hits",
+     "price": 2900,
+     "url": "https://simoabdel.gumroad.com/l/wyegdp",
+     "summary": "Emergency Coverage Handoff Kit - ready-to-use templates for solo operators."
+    },
+    {
+     "name": "Solo Vacation Handoff Kit - Templates for Planned Time Off",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/toorji",
+     "summary": "Solo Vacation Handoff Kit - ready-to-use templates for solo operators planning time away."
+    }
+   ]
+  }
  },
  {
   "name": "Burnout & Workload Rebalancing System",
@@ -95,7 +281,38 @@
    "systems",
    "freelance",
    "capacity"
-  ]
+  ],
+  "crosssell": {
+   "lane": "business_os",
+   "siblings": [
+    "1Jiaav2Y3Si55xqkzhaHhQ==",
+    "gi1DJ3eBN724xJzVDx5ZWg==",
+    "rZnbo5xaAXwtex4PzW1m_A=="
+   ],
+   "bundle_or_cross": "bundle-business_os",
+   "member_sku": "business_os-member",
+   "status": "staged",
+   "sibling_objects": [
+    {
+     "name": "Seasonal Revenue Planning System - Smooth Income Swings",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/xmylu",
+     "summary": "Seasonal Revenue Planning System - forecast patterns, plan cash flow, price to smooth revenue."
+    },
+    {
+     "name": "Rate Increase Playbook - Templates & Scripts for Announcing Price Raises",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/hofnhx",
+     "summary": "Rate Increase Playbook - announcement frameworks, objection handlers and grandfathering scripts."
+    },
+    {
+     "name": "Solo Operator Continuity Bundle: Handoff Systems for Planned Time Off and Sudden Emergencies",
+     "price": 3600,
+     "url": "https://simoabdel.gumroad.com/l/nkhfc",
+     "summary": "2 complete kits: vacation handoff templates + emergency coverage systems for solo operators."
+    }
+   ]
+  }
  },
  {
   "name": "Emergency Coverage Handoff Kit - Be Covered Before Crisis Hits",
@@ -109,7 +326,38 @@
    "templates",
    "systems",
    "coverage"
-  ]
+  ],
+  "crosssell": {
+   "lane": "general",
+   "siblings": [
+    "fpoHyOvFNqKj0iWwMDKXhQ==",
+    "UjLNR0S7QiWPgy4zxkmOAw==",
+    "BLmC8SnbuwoBG0C_SH8aKA=="
+   ],
+   "bundle_or_cross": "fpoHyOvFNqKj0iWwMDKXhQ==",
+   "member_sku": null,
+   "status": "staged",
+   "sibling_objects": [
+    {
+     "name": "Scope Guard - Prevent Creep & Protect Profit",
+     "price": 2900,
+     "url": "https://simoabdel.gumroad.com/l/utglcg",
+     "summary": "Scope Guard - define scope, run change requests, stop unpaid labor."
+    },
+    {
+     "name": "Time Tracking & Rate Audit Kit",
+     "price": 2900,
+     "url": "https://simoabdel.gumroad.com/l/lnfyja",
+     "summary": "Time Tracking & Rate Audit Kit - track hours, audit rates, price on data."
+    },
+    {
+     "name": "Solo Vacation Handoff Kit - Templates for Planned Time Off",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/toorji",
+     "summary": "Solo Vacation Handoff Kit - ready-to-use templates for solo operators planning time away."
+    }
+   ]
+  }
  },
  {
   "name": "Solo Vacation Handoff Kit - Templates for Planned Time Off",
@@ -123,7 +371,38 @@
    "vacation",
    "systems",
    "solo"
-  ]
+  ],
+  "crosssell": {
+   "lane": "general",
+   "siblings": [
+    "fpoHyOvFNqKj0iWwMDKXhQ==",
+    "UjLNR0S7QiWPgy4zxkmOAw==",
+    "XkZ9FcXq0P--pSpmXg6ouQ=="
+   ],
+   "bundle_or_cross": "fpoHyOvFNqKj0iWwMDKXhQ==",
+   "member_sku": null,
+   "status": "staged",
+   "sibling_objects": [
+    {
+     "name": "Scope Guard - Prevent Creep & Protect Profit",
+     "price": 2900,
+     "url": "https://simoabdel.gumroad.com/l/utglcg",
+     "summary": "Scope Guard - define scope, run change requests, stop unpaid labor."
+    },
+    {
+     "name": "Time Tracking & Rate Audit Kit",
+     "price": 2900,
+     "url": "https://simoabdel.gumroad.com/l/lnfyja",
+     "summary": "Time Tracking & Rate Audit Kit - track hours, audit rates, price on data."
+    },
+    {
+     "name": "Emergency Coverage Handoff Kit - Be Covered Before Crisis Hits",
+     "price": 2900,
+     "url": "https://simoabdel.gumroad.com/l/wyegdp",
+     "summary": "Emergency Coverage Handoff Kit - ready-to-use templates for solo operators."
+    }
+   ]
+  }
  },
  {
   "name": "The Solo Operator Capacity & Sustainability Bundle: Know Your Limits, Protect Your Time",
@@ -137,7 +416,38 @@
    "capacity",
    "systems",
    "solo"
-  ]
+  ],
+  "crosssell": {
+   "lane": "ai_skills",
+   "siblings": [
+    "nN132GFkMyxBoY-7uj_NWQ==",
+    "p2RWGlk1oUyRL0RYjz5-gw==",
+    "0uVIfGCiWPmE7244Q2SxFg=="
+   ],
+   "bundle_or_cross": "bundle-ai_skills",
+   "member_sku": "ai_skills-member",
+   "status": "staged",
+   "sibling_objects": [
+    {
+     "name": "The Freelancer Second Brain — Your Entire Solo Business in One Notion Workspace (5 Databases, Pre-Loaded)",
+     "price": 2900,
+     "url": "https://simoabdel.gumroad.com/l/freelancer-second-brain-notion",
+     "summary": "Five connected Notion databases for clients, projects, invoices, pipeline and daily log that run your entire solo business from one workspace."
+    },
+    {
+     "name": "Marketing Skills Vault — Installable AI Marketing Skills for Claude (MIT-licensed collection, curated)",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/marketing-skills-vault",
+     "summary": "A curated vault of installable AI marketing skills for Claude Code with validation scripts — content strategy, SEO, copywriting, analytics and campaign planning in one pack."
+    },
+    {
+     "name": "AI Agent Arsenal — 90 Battle-Tested Plugin Suites (700+ Agent Skills) for Claude Code",
+     "price": 2900,
+     "url": "https://simoabdel.gumroad.com/l/ai-agent-arsenal",
+     "summary": "90 battle-tested plugin suites and 700+ Claude Code agent skills with revenue workflows, slash commands, and business automation prompts."
+    }
+   ]
+  }
  },
  {
   "name": "Solo Operator Continuity Bundle: Handoff Systems for Planned Time Off and Sudden Emergencies",
@@ -151,7 +461,38 @@
    "freelance",
    "systems",
    "solo"
-  ]
+  ],
+  "crosssell": {
+   "lane": "business_os",
+   "siblings": [
+    "1Jiaav2Y3Si55xqkzhaHhQ==",
+    "gi1DJ3eBN724xJzVDx5ZWg==",
+    "EvHU3txVE6_hFuqdX-rIhQ=="
+   ],
+   "bundle_or_cross": "bundle-business_os",
+   "member_sku": "business_os-member",
+   "status": "staged",
+   "sibling_objects": [
+    {
+     "name": "Seasonal Revenue Planning System - Smooth Income Swings",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/xmylu",
+     "summary": "Seasonal Revenue Planning System - forecast patterns, plan cash flow, price to smooth revenue."
+    },
+    {
+     "name": "Rate Increase Playbook - Templates & Scripts for Announcing Price Raises",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/hofnhx",
+     "summary": "Rate Increase Playbook - announcement frameworks, objection handlers and grandfathering scripts."
+    },
+    {
+     "name": "Burnout & Workload Rebalancing System",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/yoqxur",
+     "summary": "Burnout & Workload Rebalancing System - assessment, calculator, scripts and action plan."
+    }
+   ]
+  }
  },
  {
   "name": "The Hard Conversations Suite: 6 Complete Kits for Every Uncomfortable Client Moment",
@@ -165,7 +506,38 @@
    "freelance",
    "communication",
    "templates"
-  ]
+  ],
+  "crosssell": {
+   "lane": "client",
+   "siblings": [
+    "WCPw2MQMrux_qjbYP0IF8A==",
+    "xMJaXnOYIJutYv9STpDU8A==",
+    "fgXwIT1BhFNZyoMLu37N5g=="
+   ],
+   "bundle_or_cross": "bundle-client",
+   "member_sku": "client-member",
+   "status": "staged",
+   "sibling_objects": [
+    {
+     "name": "Difficult Client Conversations - Scripts & Frameworks",
+     "price": 2700,
+     "url": "https://simoabdel.gumroad.com/l/ohltf",
+     "summary": "Difficult Client Conversations - 7 frameworks + 20 ready-to-adapt scripts."
+    },
+    {
+     "name": "The Client Relationship Ops Bundle: Keep Clients Informed, On-Track, and Buying More",
+     "price": 3400,
+     "url": "https://simoabdel.gumroad.com/l/client-relationship-ops-bundle",
+     "summary": ""
+    },
+    {
+     "name": "The Client Acquisition to Kickoff Bundle: From First Call to First Day, Fully Scripted",
+     "price": 5300,
+     "url": "https://simoabdel.gumroad.com/l/client-acquisition-to-kickoff-bundle",
+     "summary": ""
+    }
+   ]
+  }
  },
  {
   "name": "The House Cleaning Business OS - Pricing, First 30 Clients, Scripts and Checklists",
@@ -180,7 +552,38 @@
    "service business",
    "local services",
    "residential cleaning"
-  ]
+  ],
+  "crosssell": {
+   "lane": "business_os",
+   "siblings": [
+    "1Jiaav2Y3Si55xqkzhaHhQ==",
+    "gi1DJ3eBN724xJzVDx5ZWg==",
+    "EvHU3txVE6_hFuqdX-rIhQ=="
+   ],
+   "bundle_or_cross": "bundle-business_os",
+   "member_sku": "business_os-member",
+   "status": "staged",
+   "sibling_objects": [
+    {
+     "name": "Seasonal Revenue Planning System - Smooth Income Swings",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/xmylu",
+     "summary": "Seasonal Revenue Planning System - forecast patterns, plan cash flow, price to smooth revenue."
+    },
+    {
+     "name": "Rate Increase Playbook - Templates & Scripts for Announcing Price Raises",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/hofnhx",
+     "summary": "Rate Increase Playbook - announcement frameworks, objection handlers and grandfathering scripts."
+    },
+    {
+     "name": "Burnout & Workload Rebalancing System",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/yoqxur",
+     "summary": "Burnout & Workload Rebalancing System - assessment, calculator, scripts and action plan."
+    }
+   ]
+  }
  },
  {
   "name": "Client Onboarding OS — The 14-Step Flow That Makes Freelancers Feel Like Firms (Notion)",
@@ -195,7 +598,38 @@
    "freelance workflow",
    "agency system",
    "onboarding flow"
-  ]
+  ],
+  "crosssell": {
+   "lane": "business_os",
+   "siblings": [
+    "1Jiaav2Y3Si55xqkzhaHhQ==",
+    "gi1DJ3eBN724xJzVDx5ZWg==",
+    "EvHU3txVE6_hFuqdX-rIhQ=="
+   ],
+   "bundle_or_cross": "bundle-business_os",
+   "member_sku": "business_os-member",
+   "status": "staged",
+   "sibling_objects": [
+    {
+     "name": "Seasonal Revenue Planning System - Smooth Income Swings",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/xmylu",
+     "summary": "Seasonal Revenue Planning System - forecast patterns, plan cash flow, price to smooth revenue."
+    },
+    {
+     "name": "Rate Increase Playbook - Templates & Scripts for Announcing Price Raises",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/hofnhx",
+     "summary": "Rate Increase Playbook - announcement frameworks, objection handlers and grandfathering scripts."
+    },
+    {
+     "name": "Burnout & Workload Rebalancing System",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/yoqxur",
+     "summary": "Burnout & Workload Rebalancing System - assessment, calculator, scripts and action plan."
+    }
+   ]
+  }
  },
  {
   "name": "Local SEO Audit Kit - The 28-Point Checklist That Sells $500 Audits",
@@ -210,7 +644,38 @@
    "local marketing",
    "agency tools",
    "seo checklist"
-  ]
+  ],
+  "crosssell": {
+   "lane": "general",
+   "siblings": [
+    "fpoHyOvFNqKj0iWwMDKXhQ==",
+    "UjLNR0S7QiWPgy4zxkmOAw==",
+    "XkZ9FcXq0P--pSpmXg6ouQ=="
+   ],
+   "bundle_or_cross": "fpoHyOvFNqKj0iWwMDKXhQ==",
+   "member_sku": null,
+   "status": "staged",
+   "sibling_objects": [
+    {
+     "name": "Scope Guard - Prevent Creep & Protect Profit",
+     "price": 2900,
+     "url": "https://simoabdel.gumroad.com/l/utglcg",
+     "summary": "Scope Guard - define scope, run change requests, stop unpaid labor."
+    },
+    {
+     "name": "Time Tracking & Rate Audit Kit",
+     "price": 2900,
+     "url": "https://simoabdel.gumroad.com/l/lnfyja",
+     "summary": "Time Tracking & Rate Audit Kit - track hours, audit rates, price on data."
+    },
+    {
+     "name": "Emergency Coverage Handoff Kit - Be Covered Before Crisis Hits",
+     "price": 2900,
+     "url": "https://simoabdel.gumroad.com/l/wyegdp",
+     "summary": "Emergency Coverage Handoff Kit - ready-to-use templates for solo operators."
+    }
+   ]
+  }
  },
  {
   "name": "Content Creator OS — Never Face a Blank Calendar Again (4-Database Notion System)",
@@ -225,7 +690,38 @@
    "creator economy",
    "social media",
    "solopreneur"
-  ]
+  ],
+  "crosssell": {
+   "lane": "business_os",
+   "siblings": [
+    "1Jiaav2Y3Si55xqkzhaHhQ==",
+    "gi1DJ3eBN724xJzVDx5ZWg==",
+    "EvHU3txVE6_hFuqdX-rIhQ=="
+   ],
+   "bundle_or_cross": "bundle-business_os",
+   "member_sku": "business_os-member",
+   "status": "staged",
+   "sibling_objects": [
+    {
+     "name": "Seasonal Revenue Planning System - Smooth Income Swings",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/xmylu",
+     "summary": "Seasonal Revenue Planning System - forecast patterns, plan cash flow, price to smooth revenue."
+    },
+    {
+     "name": "Rate Increase Playbook - Templates & Scripts for Announcing Price Raises",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/hofnhx",
+     "summary": "Rate Increase Playbook - announcement frameworks, objection handlers and grandfathering scripts."
+    },
+    {
+     "name": "Burnout & Workload Rebalancing System",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/yoqxur",
+     "summary": "Burnout & Workload Rebalancing System - assessment, calculator, scripts and action plan."
+    }
+   ]
+  }
  },
  {
   "name": "The Trading Plan Architect — Write the Plan Your Future Self Cannot Argue With (Template Kit)",
@@ -240,7 +736,38 @@
    "risk management",
    "stock market",
    "trading journal"
-  ]
+  ],
+  "crosssell": {
+   "lane": "trading",
+   "siblings": [
+    "xIBE1gRU_az_4E2vXTG_wA==",
+    "1Jiaav2Y3Si55xqkzhaHhQ==",
+    "gi1DJ3eBN724xJzVDx5ZWg=="
+   ],
+   "bundle_or_cross": "xIBE1gRU_az_4E2vXTG_wA==",
+   "member_sku": "trading-member",
+   "status": "staged",
+   "sibling_objects": [
+    {
+     "name": "30-Day Goal Journal Printable | Daily Affirmation & Mindset Planner",
+     "price": 700,
+     "url": "https://simoabdel.gumroad.com/l/30-day-goal-journal-template",
+     "summary": "A 30-day journal with AI affirmations written for your exact goal, not generic ones."
+    },
+    {
+     "name": "Seasonal Revenue Planning System - Smooth Income Swings",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/xmylu",
+     "summary": "Seasonal Revenue Planning System - forecast patterns, plan cash flow, price to smooth revenue."
+    },
+    {
+     "name": "Rate Increase Playbook - Templates & Scripts for Announcing Price Raises",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/hofnhx",
+     "summary": "Rate Increase Playbook - announcement frameworks, objection handlers and grandfathering scripts."
+    }
+   ]
+  }
  },
  {
   "name": "The Freelancer Second Brain — Your Entire Solo Business in One Notion Workspace (5 Databases, Pre-Loaded)",
@@ -255,7 +782,38 @@
    "client management",
    "crm",
    "solo business"
-  ]
+  ],
+  "crosssell": {
+   "lane": "ai_skills",
+   "siblings": [
+    "jMr8b0bRNPa2bgwr7AWqcw==",
+    "p2RWGlk1oUyRL0RYjz5-gw==",
+    "0uVIfGCiWPmE7244Q2SxFg=="
+   ],
+   "bundle_or_cross": "bundle-ai_skills",
+   "member_sku": "ai_skills-member",
+   "status": "staged",
+   "sibling_objects": [
+    {
+     "name": "The Solo Operator Capacity & Sustainability Bundle: Know Your Limits, Protect Your Time",
+     "price": 6400,
+     "url": "https://simoabdel.gumroad.com/l/gkjiq",
+     "summary": "5 complete kits: burnout rebalancing, time and rate audit, seasonal revenue planning, waitlist management, subcontractor delegation."
+    },
+    {
+     "name": "Marketing Skills Vault — Installable AI Marketing Skills for Claude (MIT-licensed collection, curated)",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/marketing-skills-vault",
+     "summary": "A curated vault of installable AI marketing skills for Claude Code with validation scripts — content strategy, SEO, copywriting, analytics and campaign planning in one pack."
+    },
+    {
+     "name": "AI Agent Arsenal — 90 Battle-Tested Plugin Suites (700+ Agent Skills) for Claude Code",
+     "price": 2900,
+     "url": "https://simoabdel.gumroad.com/l/ai-agent-arsenal",
+     "summary": "90 battle-tested plugin suites and 700+ Claude Code agent skills with revenue workflows, slash commands, and business automation prompts."
+    }
+   ]
+  }
  },
  {
   "name": "Trader's Risk & Journal OS — Position Sizer, Trade Journal and Equity Analytics (PWA, Offline)",
@@ -270,7 +828,38 @@
    "day trading",
    "trading tools",
    "stock trading"
-  ]
+  ],
+  "crosssell": {
+   "lane": "business_os",
+   "siblings": [
+    "1Jiaav2Y3Si55xqkzhaHhQ==",
+    "gi1DJ3eBN724xJzVDx5ZWg==",
+    "EvHU3txVE6_hFuqdX-rIhQ=="
+   ],
+   "bundle_or_cross": "bundle-business_os",
+   "member_sku": "business_os-member",
+   "status": "staged",
+   "sibling_objects": [
+    {
+     "name": "Seasonal Revenue Planning System - Smooth Income Swings",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/xmylu",
+     "summary": "Seasonal Revenue Planning System - forecast patterns, plan cash flow, price to smooth revenue."
+    },
+    {
+     "name": "Rate Increase Playbook - Templates & Scripts for Announcing Price Raises",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/hofnhx",
+     "summary": "Rate Increase Playbook - announcement frameworks, objection handlers and grandfathering scripts."
+    },
+    {
+     "name": "Burnout & Workload Rebalancing System",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/yoqxur",
+     "summary": "Burnout & Workload Rebalancing System - assessment, calculator, scripts and action plan."
+    }
+   ]
+  }
  },
  {
   "name": "Marketing Skills Vault — Installable AI Marketing Skills for Claude (MIT-licensed collection, curated)",
@@ -285,7 +874,38 @@
    "seo",
    "content strategy",
    "growth"
-  ]
+  ],
+  "crosssell": {
+   "lane": "ai_skills",
+   "siblings": [
+    "jMr8b0bRNPa2bgwr7AWqcw==",
+    "nN132GFkMyxBoY-7uj_NWQ==",
+    "0uVIfGCiWPmE7244Q2SxFg=="
+   ],
+   "bundle_or_cross": "bundle-ai_skills",
+   "member_sku": "ai_skills-member",
+   "status": "staged",
+   "sibling_objects": [
+    {
+     "name": "The Solo Operator Capacity & Sustainability Bundle: Know Your Limits, Protect Your Time",
+     "price": 6400,
+     "url": "https://simoabdel.gumroad.com/l/gkjiq",
+     "summary": "5 complete kits: burnout rebalancing, time and rate audit, seasonal revenue planning, waitlist management, subcontractor delegation."
+    },
+    {
+     "name": "The Freelancer Second Brain — Your Entire Solo Business in One Notion Workspace (5 Databases, Pre-Loaded)",
+     "price": 2900,
+     "url": "https://simoabdel.gumroad.com/l/freelancer-second-brain-notion",
+     "summary": "Five connected Notion databases for clients, projects, invoices, pipeline and daily log that run your entire solo business from one workspace."
+    },
+    {
+     "name": "AI Agent Arsenal — 90 Battle-Tested Plugin Suites (700+ Agent Skills) for Claude Code",
+     "price": 2900,
+     "url": "https://simoabdel.gumroad.com/l/ai-agent-arsenal",
+     "summary": "90 battle-tested plugin suites and 700+ Claude Code agent skills with revenue workflows, slash commands, and business automation prompts."
+    }
+   ]
+  }
  },
  {
   "name": "AI Agent Arsenal — 90 Battle-Tested Plugin Suites (700+ Agent Skills) for Claude Code",
@@ -300,7 +920,38 @@
    "developer tools",
    "ai plugins",
    "business prompts"
-  ]
+  ],
+  "crosssell": {
+   "lane": "ai_skills",
+   "siblings": [
+    "jMr8b0bRNPa2bgwr7AWqcw==",
+    "nN132GFkMyxBoY-7uj_NWQ==",
+    "p2RWGlk1oUyRL0RYjz5-gw=="
+   ],
+   "bundle_or_cross": "bundle-ai_skills",
+   "member_sku": "ai_skills-member",
+   "status": "staged",
+   "sibling_objects": [
+    {
+     "name": "The Solo Operator Capacity & Sustainability Bundle: Know Your Limits, Protect Your Time",
+     "price": 6400,
+     "url": "https://simoabdel.gumroad.com/l/gkjiq",
+     "summary": "5 complete kits: burnout rebalancing, time and rate audit, seasonal revenue planning, waitlist management, subcontractor delegation."
+    },
+    {
+     "name": "The Freelancer Second Brain — Your Entire Solo Business in One Notion Workspace (5 Databases, Pre-Loaded)",
+     "price": 2900,
+     "url": "https://simoabdel.gumroad.com/l/freelancer-second-brain-notion",
+     "summary": "Five connected Notion databases for clients, projects, invoices, pipeline and daily log that run your entire solo business from one workspace."
+    },
+    {
+     "name": "Marketing Skills Vault — Installable AI Marketing Skills for Claude (MIT-licensed collection, curated)",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/marketing-skills-vault",
+     "summary": "A curated vault of installable AI marketing skills for Claude Code with validation scripts — content strategy, SEO, copywriting, analytics and campaign planning in one pack."
+    }
+   ]
+  }
  },
  {
   "name": "Claude Code Revenue Pack — 50 Revenue Workflows as Real Slash Commands",
@@ -315,7 +966,38 @@
    "slash commands",
    "revenue workflows",
    "business automation"
-  ]
+  ],
+  "crosssell": {
+   "lane": "ai_skills",
+   "siblings": [
+    "jMr8b0bRNPa2bgwr7AWqcw==",
+    "nN132GFkMyxBoY-7uj_NWQ==",
+    "p2RWGlk1oUyRL0RYjz5-gw=="
+   ],
+   "bundle_or_cross": "bundle-ai_skills",
+   "member_sku": "ai_skills-member",
+   "status": "staged",
+   "sibling_objects": [
+    {
+     "name": "The Solo Operator Capacity & Sustainability Bundle: Know Your Limits, Protect Your Time",
+     "price": 6400,
+     "url": "https://simoabdel.gumroad.com/l/gkjiq",
+     "summary": "5 complete kits: burnout rebalancing, time and rate audit, seasonal revenue planning, waitlist management, subcontractor delegation."
+    },
+    {
+     "name": "The Freelancer Second Brain — Your Entire Solo Business in One Notion Workspace (5 Databases, Pre-Loaded)",
+     "price": 2900,
+     "url": "https://simoabdel.gumroad.com/l/freelancer-second-brain-notion",
+     "summary": "Five connected Notion databases for clients, projects, invoices, pipeline and daily log that run your entire solo business from one workspace."
+    },
+    {
+     "name": "Marketing Skills Vault — Installable AI Marketing Skills for Claude (MIT-licensed collection, curated)",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/marketing-skills-vault",
+     "summary": "A curated vault of installable AI marketing skills for Claude Code with validation scripts — content strategy, SEO, copywriting, analytics and campaign planning in one pack."
+    }
+   ]
+  }
  },
  {
   "name": "Financial Dashboard for Solopreneurs",
@@ -330,7 +1012,38 @@
    "cash flow",
    "profit tracking",
    "freelance finance"
-  ]
+  ],
+  "crosssell": {
+   "lane": "general",
+   "siblings": [
+    "fpoHyOvFNqKj0iWwMDKXhQ==",
+    "UjLNR0S7QiWPgy4zxkmOAw==",
+    "XkZ9FcXq0P--pSpmXg6ouQ=="
+   ],
+   "bundle_or_cross": "fpoHyOvFNqKj0iWwMDKXhQ==",
+   "member_sku": null,
+   "status": "staged",
+   "sibling_objects": [
+    {
+     "name": "Scope Guard - Prevent Creep & Protect Profit",
+     "price": 2900,
+     "url": "https://simoabdel.gumroad.com/l/utglcg",
+     "summary": "Scope Guard - define scope, run change requests, stop unpaid labor."
+    },
+    {
+     "name": "Time Tracking & Rate Audit Kit",
+     "price": 2900,
+     "url": "https://simoabdel.gumroad.com/l/lnfyja",
+     "summary": "Time Tracking & Rate Audit Kit - track hours, audit rates, price on data."
+    },
+    {
+     "name": "Emergency Coverage Handoff Kit - Be Covered Before Crisis Hits",
+     "price": 2900,
+     "url": "https://simoabdel.gumroad.com/l/wyegdp",
+     "summary": "Emergency Coverage Handoff Kit - ready-to-use templates for solo operators."
+    }
+   ]
+  }
  },
  {
   "name": "Client Acquisition System for Agencies",
@@ -345,7 +1058,38 @@
    "client onboarding",
    "lead management",
    "agency systems"
-  ]
+  ],
+  "crosssell": {
+   "lane": "business_os",
+   "siblings": [
+    "1Jiaav2Y3Si55xqkzhaHhQ==",
+    "gi1DJ3eBN724xJzVDx5ZWg==",
+    "EvHU3txVE6_hFuqdX-rIhQ=="
+   ],
+   "bundle_or_cross": "bundle-business_os",
+   "member_sku": "business_os-member",
+   "status": "staged",
+   "sibling_objects": [
+    {
+     "name": "Seasonal Revenue Planning System - Smooth Income Swings",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/xmylu",
+     "summary": "Seasonal Revenue Planning System - forecast patterns, plan cash flow, price to smooth revenue."
+    },
+    {
+     "name": "Rate Increase Playbook - Templates & Scripts for Announcing Price Raises",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/hofnhx",
+     "summary": "Rate Increase Playbook - announcement frameworks, objection handlers and grandfathering scripts."
+    },
+    {
+     "name": "Burnout & Workload Rebalancing System",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/yoqxur",
+     "summary": "Burnout & Workload Rebalancing System - assessment, calculator, scripts and action plan."
+    }
+   ]
+  }
  },
  {
   "name": "Local Service SEO Automator",
@@ -360,7 +1104,38 @@
    "lead generation",
    "google business",
    "local marketing"
-  ]
+  ],
+  "crosssell": {
+   "lane": "general",
+   "siblings": [
+    "fpoHyOvFNqKj0iWwMDKXhQ==",
+    "UjLNR0S7QiWPgy4zxkmOAw==",
+    "XkZ9FcXq0P--pSpmXg6ouQ=="
+   ],
+   "bundle_or_cross": "fpoHyOvFNqKj0iWwMDKXhQ==",
+   "member_sku": null,
+   "status": "staged",
+   "sibling_objects": [
+    {
+     "name": "Scope Guard - Prevent Creep & Protect Profit",
+     "price": 2900,
+     "url": "https://simoabdel.gumroad.com/l/utglcg",
+     "summary": "Scope Guard - define scope, run change requests, stop unpaid labor."
+    },
+    {
+     "name": "Time Tracking & Rate Audit Kit",
+     "price": 2900,
+     "url": "https://simoabdel.gumroad.com/l/lnfyja",
+     "summary": "Time Tracking & Rate Audit Kit - track hours, audit rates, price on data."
+    },
+    {
+     "name": "Emergency Coverage Handoff Kit - Be Covered Before Crisis Hits",
+     "price": 2900,
+     "url": "https://simoabdel.gumroad.com/l/wyegdp",
+     "summary": "Emergency Coverage Handoff Kit - ready-to-use templates for solo operators."
+    }
+   ]
+  }
  },
  {
   "name": "Notion Template Builder Kit",
@@ -375,7 +1150,38 @@
    "second brain",
    "notion crm",
    "workflow builder"
-  ]
+  ],
+  "crosssell": {
+   "lane": "general",
+   "siblings": [
+    "fpoHyOvFNqKj0iWwMDKXhQ==",
+    "UjLNR0S7QiWPgy4zxkmOAw==",
+    "XkZ9FcXq0P--pSpmXg6ouQ=="
+   ],
+   "bundle_or_cross": "fpoHyOvFNqKj0iWwMDKXhQ==",
+   "member_sku": null,
+   "status": "staged",
+   "sibling_objects": [
+    {
+     "name": "Scope Guard - Prevent Creep & Protect Profit",
+     "price": 2900,
+     "url": "https://simoabdel.gumroad.com/l/utglcg",
+     "summary": "Scope Guard - define scope, run change requests, stop unpaid labor."
+    },
+    {
+     "name": "Time Tracking & Rate Audit Kit",
+     "price": 2900,
+     "url": "https://simoabdel.gumroad.com/l/lnfyja",
+     "summary": "Time Tracking & Rate Audit Kit - track hours, audit rates, price on data."
+    },
+    {
+     "name": "Emergency Coverage Handoff Kit - Be Covered Before Crisis Hits",
+     "price": 2900,
+     "url": "https://simoabdel.gumroad.com/l/wyegdp",
+     "summary": "Emergency Coverage Handoff Kit - ready-to-use templates for solo operators."
+    }
+   ]
+  }
  },
  {
   "name": "AI Service Business OS",
@@ -390,7 +1196,38 @@
    "automation",
    "ai business",
    "service business"
-  ]
+  ],
+  "crosssell": {
+   "lane": "business_os",
+   "siblings": [
+    "1Jiaav2Y3Si55xqkzhaHhQ==",
+    "gi1DJ3eBN724xJzVDx5ZWg==",
+    "EvHU3txVE6_hFuqdX-rIhQ=="
+   ],
+   "bundle_or_cross": "bundle-business_os",
+   "member_sku": "business_os-member",
+   "status": "staged",
+   "sibling_objects": [
+    {
+     "name": "Seasonal Revenue Planning System - Smooth Income Swings",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/xmylu",
+     "summary": "Seasonal Revenue Planning System - forecast patterns, plan cash flow, price to smooth revenue."
+    },
+    {
+     "name": "Rate Increase Playbook - Templates & Scripts for Announcing Price Raises",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/hofnhx",
+     "summary": "Rate Increase Playbook - announcement frameworks, objection handlers and grandfathering scripts."
+    },
+    {
+     "name": "Burnout & Workload Rebalancing System",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/yoqxur",
+     "summary": "Burnout & Workload Rebalancing System - assessment, calculator, scripts and action plan."
+    }
+   ]
+  }
  },
  {
   "name": "45-Minute Offer & Pricing Teardown Call",
@@ -405,7 +1242,38 @@
    "value-based pricing",
    "profit margins",
    "consulting"
-  ]
+  ],
+  "crosssell": {
+   "lane": "pricing_sales",
+   "siblings": [
+    "D66IcR-X5Ai4VJbThNTfCA==",
+    "vaqx6vJSZAX2WJCVMVZgJA==",
+    "I4t4la0QiGwh5EB9Knj_HQ=="
+   ],
+   "bundle_or_cross": "bundle-pricing_sales",
+   "member_sku": "pricing_sales-member",
+   "status": "staged",
+   "sibling_objects": [
+    {
+     "name": "Price Objection Scripts Kit",
+     "price": 2700,
+     "url": "https://simoabdel.gumroad.com/l/xrvtpz",
+     "summary": "Price Objection Scripts Kit - 8 complete response scripts, direct + collaborative."
+    },
+    {
+     "name": "The Local Service Price Sheet: 24 Jobs, Real Rates, Ready to Quote",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/local-service-price-sheet",
+     "summary": ""
+    },
+    {
+     "name": "The Sales Pipeline Bundle: From Cold Research to Signed Client, Every Step Scripted",
+     "price": 4400,
+     "url": "https://simoabdel.gumroad.com/l/sales-pipeline-bundle",
+     "summary": ""
+    }
+   ]
+  }
  },
  {
   "name": "The Local Service Price Sheet: 24 Jobs, Real Rates, Ready to Quote",
@@ -419,7 +1287,38 @@
    "detailing",
    "landscaping",
    "local-seo"
-  ]
+  ],
+  "crosssell": {
+   "lane": "pricing_sales",
+   "siblings": [
+    "D66IcR-X5Ai4VJbThNTfCA==",
+    "NkWqMqyj2PzKipBEzTv_IA==",
+    "I4t4la0QiGwh5EB9Knj_HQ=="
+   ],
+   "bundle_or_cross": "bundle-pricing_sales",
+   "member_sku": "pricing_sales-member",
+   "status": "staged",
+   "sibling_objects": [
+    {
+     "name": "Price Objection Scripts Kit",
+     "price": 2700,
+     "url": "https://simoabdel.gumroad.com/l/xrvtpz",
+     "summary": "Price Objection Scripts Kit - 8 complete response scripts, direct + collaborative."
+    },
+    {
+     "name": "45-Minute Offer & Pricing Teardown Call",
+     "price": 7900,
+     "url": "https://simoabdel.gumroad.com/l/offer-and-pricing-teardown-call",
+     "summary": "A 45-minute offer and pricing teardown call to fix packages, improve margins, and build a quoting system that holds."
+    },
+    {
+     "name": "The Sales Pipeline Bundle: From Cold Research to Signed Client, Every Step Scripted",
+     "price": 4400,
+     "url": "https://simoabdel.gumroad.com/l/sales-pipeline-bundle",
+     "summary": ""
+    }
+   ]
+  }
  },
  {
   "name": "Student Second Brain: A Notion System for Coursework, Deadlines and Revision",
@@ -433,7 +1332,38 @@
    "productivity",
    "second-brain",
    "organization"
-  ]
+  ],
+  "crosssell": {
+   "lane": "business_os",
+   "siblings": [
+    "1Jiaav2Y3Si55xqkzhaHhQ==",
+    "gi1DJ3eBN724xJzVDx5ZWg==",
+    "EvHU3txVE6_hFuqdX-rIhQ=="
+   ],
+   "bundle_or_cross": "bundle-business_os",
+   "member_sku": "business_os-member",
+   "status": "staged",
+   "sibling_objects": [
+    {
+     "name": "Seasonal Revenue Planning System - Smooth Income Swings",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/xmylu",
+     "summary": "Seasonal Revenue Planning System - forecast patterns, plan cash flow, price to smooth revenue."
+    },
+    {
+     "name": "Rate Increase Playbook - Templates & Scripts for Announcing Price Raises",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/hofnhx",
+     "summary": "Rate Increase Playbook - announcement frameworks, objection handlers and grandfathering scripts."
+    },
+    {
+     "name": "Burnout & Workload Rebalancing System",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/yoqxur",
+     "summary": "Burnout & Workload Rebalancing System - assessment, calculator, scripts and action plan."
+    }
+   ]
+  }
  },
  {
   "name": "The Mobile Detailing Startup Kit: Price Your Packages and Fill Your First Month",
@@ -447,7 +1377,38 @@
    "claude",
    "automation",
    "prompts"
-  ]
+  ],
+  "crosssell": {
+   "lane": "ai_skills",
+   "siblings": [
+    "jMr8b0bRNPa2bgwr7AWqcw==",
+    "nN132GFkMyxBoY-7uj_NWQ==",
+    "p2RWGlk1oUyRL0RYjz5-gw=="
+   ],
+   "bundle_or_cross": "bundle-ai_skills",
+   "member_sku": "ai_skills-member",
+   "status": "staged",
+   "sibling_objects": [
+    {
+     "name": "The Solo Operator Capacity & Sustainability Bundle: Know Your Limits, Protect Your Time",
+     "price": 6400,
+     "url": "https://simoabdel.gumroad.com/l/gkjiq",
+     "summary": "5 complete kits: burnout rebalancing, time and rate audit, seasonal revenue planning, waitlist management, subcontractor delegation."
+    },
+    {
+     "name": "The Freelancer Second Brain — Your Entire Solo Business in One Notion Workspace (5 Databases, Pre-Loaded)",
+     "price": 2900,
+     "url": "https://simoabdel.gumroad.com/l/freelancer-second-brain-notion",
+     "summary": "Five connected Notion databases for clients, projects, invoices, pipeline and daily log that run your entire solo business from one workspace."
+    },
+    {
+     "name": "Marketing Skills Vault — Installable AI Marketing Skills for Claude (MIT-licensed collection, curated)",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/marketing-skills-vault",
+     "summary": "A curated vault of installable AI marketing skills for Claude Code with validation scripts — content strategy, SEO, copywriting, analytics and campaign planning in one pack."
+    }
+   ]
+  }
  },
  {
   "name": "The Household Operations Binder: Run Your Home Like a System, Not a Fire Drill",
@@ -461,7 +1422,38 @@
    "productivity",
    "systems",
    "automation"
-  ]
+  ],
+  "crosssell": {
+   "lane": "business_os",
+   "siblings": [
+    "1Jiaav2Y3Si55xqkzhaHhQ==",
+    "gi1DJ3eBN724xJzVDx5ZWg==",
+    "EvHU3txVE6_hFuqdX-rIhQ=="
+   ],
+   "bundle_or_cross": "bundle-business_os",
+   "member_sku": "business_os-member",
+   "status": "staged",
+   "sibling_objects": [
+    {
+     "name": "Seasonal Revenue Planning System - Smooth Income Swings",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/xmylu",
+     "summary": "Seasonal Revenue Planning System - forecast patterns, plan cash flow, price to smooth revenue."
+    },
+    {
+     "name": "Rate Increase Playbook - Templates & Scripts for Announcing Price Raises",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/hofnhx",
+     "summary": "Rate Increase Playbook - announcement frameworks, objection handlers and grandfathering scripts."
+    },
+    {
+     "name": "Burnout & Workload Rebalancing System",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/yoqxur",
+     "summary": "Burnout & Workload Rebalancing System - assessment, calculator, scripts and action plan."
+    }
+   ]
+  }
  },
  {
   "name": "The Pressure Washing Business Playbook: Start, Price, and Book Your First 30 Jobs",
@@ -476,7 +1468,38 @@
    "pricing guide",
    "local business",
    "business playbook"
-  ]
+  ],
+  "crosssell": {
+   "lane": "business_os",
+   "siblings": [
+    "1Jiaav2Y3Si55xqkzhaHhQ==",
+    "gi1DJ3eBN724xJzVDx5ZWg==",
+    "EvHU3txVE6_hFuqdX-rIhQ=="
+   ],
+   "bundle_or_cross": "bundle-business_os",
+   "member_sku": "business_os-member",
+   "status": "staged",
+   "sibling_objects": [
+    {
+     "name": "Seasonal Revenue Planning System - Smooth Income Swings",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/xmylu",
+     "summary": "Seasonal Revenue Planning System - forecast patterns, plan cash flow, price to smooth revenue."
+    },
+    {
+     "name": "Rate Increase Playbook - Templates & Scripts for Announcing Price Raises",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/hofnhx",
+     "summary": "Rate Increase Playbook - announcement frameworks, objection handlers and grandfathering scripts."
+    },
+    {
+     "name": "Burnout & Workload Rebalancing System",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/yoqxur",
+     "summary": "Burnout & Workload Rebalancing System - assessment, calculator, scripts and action plan."
+    }
+   ]
+  }
  },
  {
   "name": "The Solo Admin & Money Bundle: The Back-Office System for Running Your Business Like a Business",
@@ -491,7 +1514,38 @@
    "svc agreement",
    "cancellation",
    "meeting notes"
-  ]
+  ],
+  "crosssell": {
+   "lane": "business_os",
+   "siblings": [
+    "1Jiaav2Y3Si55xqkzhaHhQ==",
+    "gi1DJ3eBN724xJzVDx5ZWg==",
+    "EvHU3txVE6_hFuqdX-rIhQ=="
+   ],
+   "bundle_or_cross": "bundle-business_os",
+   "member_sku": "business_os-member",
+   "status": "staged",
+   "sibling_objects": [
+    {
+     "name": "Seasonal Revenue Planning System - Smooth Income Swings",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/xmylu",
+     "summary": "Seasonal Revenue Planning System - forecast patterns, plan cash flow, price to smooth revenue."
+    },
+    {
+     "name": "Rate Increase Playbook - Templates & Scripts for Announcing Price Raises",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/hofnhx",
+     "summary": "Rate Increase Playbook - announcement frameworks, objection handlers and grandfathering scripts."
+    },
+    {
+     "name": "Burnout & Workload Rebalancing System",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/yoqxur",
+     "summary": "Burnout & Workload Rebalancing System - assessment, calculator, scripts and action plan."
+    }
+   ]
+  }
  },
  {
   "name": "The Sales Pipeline Bundle: From Cold Research to Signed Client, Every Step Scripted",
@@ -506,7 +1560,38 @@
    "authority tmpl",
    "proposal close",
    "freelance sale"
-  ]
+  ],
+  "crosssell": {
+   "lane": "pricing_sales",
+   "siblings": [
+    "D66IcR-X5Ai4VJbThNTfCA==",
+    "NkWqMqyj2PzKipBEzTv_IA==",
+    "vaqx6vJSZAX2WJCVMVZgJA=="
+   ],
+   "bundle_or_cross": "bundle-pricing_sales",
+   "member_sku": "pricing_sales-member",
+   "status": "staged",
+   "sibling_objects": [
+    {
+     "name": "Price Objection Scripts Kit",
+     "price": 2700,
+     "url": "https://simoabdel.gumroad.com/l/xrvtpz",
+     "summary": "Price Objection Scripts Kit - 8 complete response scripts, direct + collaborative."
+    },
+    {
+     "name": "45-Minute Offer & Pricing Teardown Call",
+     "price": 7900,
+     "url": "https://simoabdel.gumroad.com/l/offer-and-pricing-teardown-call",
+     "summary": "A 45-minute offer and pricing teardown call to fix packages, improve margins, and build a quoting system that holds."
+    },
+    {
+     "name": "The Local Service Price Sheet: 24 Jobs, Real Rates, Ready to Quote",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/local-service-price-sheet",
+     "summary": ""
+    }
+   ]
+  }
  },
  {
   "name": "The Retention & Renewal Suite: Keep Clients, Win Back the Quiet Ones, Prove Your Worth at Renewal",
@@ -521,7 +1606,38 @@
    "retainer conv",
    "value report",
    "renewal sys"
-  ]
+  ],
+  "crosssell": {
+   "lane": "pricing_sales",
+   "siblings": [
+    "D66IcR-X5Ai4VJbThNTfCA==",
+    "NkWqMqyj2PzKipBEzTv_IA==",
+    "vaqx6vJSZAX2WJCVMVZgJA=="
+   ],
+   "bundle_or_cross": "bundle-pricing_sales",
+   "member_sku": "pricing_sales-member",
+   "status": "staged",
+   "sibling_objects": [
+    {
+     "name": "Price Objection Scripts Kit",
+     "price": 2700,
+     "url": "https://simoabdel.gumroad.com/l/xrvtpz",
+     "summary": "Price Objection Scripts Kit - 8 complete response scripts, direct + collaborative."
+    },
+    {
+     "name": "45-Minute Offer & Pricing Teardown Call",
+     "price": 7900,
+     "url": "https://simoabdel.gumroad.com/l/offer-and-pricing-teardown-call",
+     "summary": "A 45-minute offer and pricing teardown call to fix packages, improve margins, and build a quoting system that holds."
+    },
+    {
+     "name": "The Local Service Price Sheet: 24 Jobs, Real Rates, Ready to Quote",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/local-service-price-sheet",
+     "summary": ""
+    }
+   ]
+  }
  },
  {
   "name": "The Proof & Referral Bundle: Turn Finished Work Into Testimonials, Case Studies, and New Clients",
@@ -536,7 +1652,38 @@
    "client proof",
    "social proof",
    "referral sys"
-  ]
+  ],
+  "crosssell": {
+   "lane": "pricing_sales",
+   "siblings": [
+    "D66IcR-X5Ai4VJbThNTfCA==",
+    "NkWqMqyj2PzKipBEzTv_IA==",
+    "vaqx6vJSZAX2WJCVMVZgJA=="
+   ],
+   "bundle_or_cross": "bundle-pricing_sales",
+   "member_sku": "pricing_sales-member",
+   "status": "staged",
+   "sibling_objects": [
+    {
+     "name": "Price Objection Scripts Kit",
+     "price": 2700,
+     "url": "https://simoabdel.gumroad.com/l/xrvtpz",
+     "summary": "Price Objection Scripts Kit - 8 complete response scripts, direct + collaborative."
+    },
+    {
+     "name": "45-Minute Offer & Pricing Teardown Call",
+     "price": 7900,
+     "url": "https://simoabdel.gumroad.com/l/offer-and-pricing-teardown-call",
+     "summary": "A 45-minute offer and pricing teardown call to fix packages, improve margins, and build a quoting system that holds."
+    },
+    {
+     "name": "The Local Service Price Sheet: 24 Jobs, Real Rates, Ready to Quote",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/local-service-price-sheet",
+     "summary": ""
+    }
+   ]
+  }
  },
  {
   "name": "The Price & Package Your Service Bundle: Decide What to Charge, Then Build the Tiers That Sell It",
@@ -551,7 +1698,38 @@
    "pkg pricing",
    "pkg framework",
    "value pricing"
-  ]
+  ],
+  "crosssell": {
+   "lane": "general",
+   "siblings": [
+    "fpoHyOvFNqKj0iWwMDKXhQ==",
+    "UjLNR0S7QiWPgy4zxkmOAw==",
+    "XkZ9FcXq0P--pSpmXg6ouQ=="
+   ],
+   "bundle_or_cross": "fpoHyOvFNqKj0iWwMDKXhQ==",
+   "member_sku": null,
+   "status": "staged",
+   "sibling_objects": [
+    {
+     "name": "Scope Guard - Prevent Creep & Protect Profit",
+     "price": 2900,
+     "url": "https://simoabdel.gumroad.com/l/utglcg",
+     "summary": "Scope Guard - define scope, run change requests, stop unpaid labor."
+    },
+    {
+     "name": "Time Tracking & Rate Audit Kit",
+     "price": 2900,
+     "url": "https://simoabdel.gumroad.com/l/lnfyja",
+     "summary": "Time Tracking & Rate Audit Kit - track hours, audit rates, price on data."
+    },
+    {
+     "name": "Emergency Coverage Handoff Kit - Be Covered Before Crisis Hits",
+     "price": 2900,
+     "url": "https://simoabdel.gumroad.com/l/wyegdp",
+     "summary": "Emergency Coverage Handoff Kit - ready-to-use templates for solo operators."
+    }
+   ]
+  }
  },
  {
   "name": "The Launch & Grow Bundle: New Offer Models, Backed by a Plan and a Content Engine",
@@ -566,7 +1744,38 @@
    "biz planning",
    "content mktg",
    "growth kit"
-  ]
+  ],
+  "crosssell": {
+   "lane": "launch",
+   "siblings": [
+    "1Jiaav2Y3Si55xqkzhaHhQ==",
+    "gi1DJ3eBN724xJzVDx5ZWg==",
+    "EvHU3txVE6_hFuqdX-rIhQ=="
+   ],
+   "bundle_or_cross": "1Jiaav2Y3Si55xqkzhaHhQ==",
+   "member_sku": "launch-member",
+   "status": "staged",
+   "sibling_objects": [
+    {
+     "name": "Seasonal Revenue Planning System - Smooth Income Swings",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/xmylu",
+     "summary": "Seasonal Revenue Planning System - forecast patterns, plan cash flow, price to smooth revenue."
+    },
+    {
+     "name": "Rate Increase Playbook - Templates & Scripts for Announcing Price Raises",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/hofnhx",
+     "summary": "Rate Increase Playbook - announcement frameworks, objection handlers and grandfathering scripts."
+    },
+    {
+     "name": "Burnout & Workload Rebalancing System",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/yoqxur",
+     "summary": "Burnout & Workload Rebalancing System - assessment, calculator, scripts and action plan."
+    }
+   ]
+  }
  },
  {
   "name": "The Get-Paid Money Lifecycle Bundle: Deposit to Rate Increase, Every Payment Conversation Scripted",
@@ -581,7 +1790,38 @@
    "dunning email",
    "rate increase",
    "get paid fast"
-  ]
+  ],
+  "crosssell": {
+   "lane": "business_os",
+   "siblings": [
+    "1Jiaav2Y3Si55xqkzhaHhQ==",
+    "gi1DJ3eBN724xJzVDx5ZWg==",
+    "EvHU3txVE6_hFuqdX-rIhQ=="
+   ],
+   "bundle_or_cross": "bundle-business_os",
+   "member_sku": "business_os-member",
+   "status": "staged",
+   "sibling_objects": [
+    {
+     "name": "Seasonal Revenue Planning System - Smooth Income Swings",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/xmylu",
+     "summary": "Seasonal Revenue Planning System - forecast patterns, plan cash flow, price to smooth revenue."
+    },
+    {
+     "name": "Rate Increase Playbook - Templates & Scripts for Announcing Price Raises",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/hofnhx",
+     "summary": "Rate Increase Playbook - announcement frameworks, objection handlers and grandfathering scripts."
+    },
+    {
+     "name": "Burnout & Workload Rebalancing System",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/yoqxur",
+     "summary": "Burnout & Workload Rebalancing System - assessment, calculator, scripts and action plan."
+    }
+   ]
+  }
  },
  {
   "name": "The Client Relationship Ops Bundle: Keep Clients Informed, On-Track, and Buying More",
@@ -596,7 +1836,38 @@
    "upsell scripts",
    "client comms",
    "progress track"
-  ]
+  ],
+  "crosssell": {
+   "lane": "client",
+   "siblings": [
+    "WCPw2MQMrux_qjbYP0IF8A==",
+    "J-6oLNUkBh4bc85oB71i8g==",
+    "fgXwIT1BhFNZyoMLu37N5g=="
+   ],
+   "bundle_or_cross": "bundle-client",
+   "member_sku": "client-member",
+   "status": "staged",
+   "sibling_objects": [
+    {
+     "name": "Difficult Client Conversations - Scripts & Frameworks",
+     "price": 2700,
+     "url": "https://simoabdel.gumroad.com/l/ohltf",
+     "summary": "Difficult Client Conversations - 7 frameworks + 20 ready-to-adapt scripts."
+    },
+    {
+     "name": "The Hard Conversations Suite: 6 Complete Kits for Every Uncomfortable Client Moment",
+     "price": 8300,
+     "url": "https://simoabdel.gumroad.com/l/uwtfhs",
+     "summary": "6 complete kits: difficult conversations, scope guard, price objections, client exit, payment terms, invoice system."
+    },
+    {
+     "name": "The Client Acquisition to Kickoff Bundle: From First Call to First Day, Fully Scripted",
+     "price": 5300,
+     "url": "https://simoabdel.gumroad.com/l/client-acquisition-to-kickoff-bundle",
+     "summary": ""
+    }
+   ]
+  }
  },
  {
   "name": "The Client Acquisition to Kickoff Bundle: From First Call to First Day, Fully Scripted",
@@ -611,7 +1882,38 @@
    "tier system",
    "kickoff template",
    "sales pipeline"
-  ]
+  ],
+  "crosssell": {
+   "lane": "client",
+   "siblings": [
+    "WCPw2MQMrux_qjbYP0IF8A==",
+    "J-6oLNUkBh4bc85oB71i8g==",
+    "xMJaXnOYIJutYv9STpDU8A=="
+   ],
+   "bundle_or_cross": "bundle-client",
+   "member_sku": "client-member",
+   "status": "staged",
+   "sibling_objects": [
+    {
+     "name": "Difficult Client Conversations - Scripts & Frameworks",
+     "price": 2700,
+     "url": "https://simoabdel.gumroad.com/l/ohltf",
+     "summary": "Difficult Client Conversations - 7 frameworks + 20 ready-to-adapt scripts."
+    },
+    {
+     "name": "The Hard Conversations Suite: 6 Complete Kits for Every Uncomfortable Client Moment",
+     "price": 8300,
+     "url": "https://simoabdel.gumroad.com/l/uwtfhs",
+     "summary": "6 complete kits: difficult conversations, scope guard, price objections, client exit, payment terms, invoice system."
+    },
+    {
+     "name": "The Client Relationship Ops Bundle: Keep Clients Informed, On-Track, and Buying More",
+     "price": 3400,
+     "url": "https://simoabdel.gumroad.com/l/client-relationship-ops-bundle",
+     "summary": ""
+    }
+   ]
+  }
  },
  {
   "name": "The AI Toolkit Vault: 5 Ready-to-Use AI Prompt & Template Systems Across 5 Industries",
@@ -626,7 +1928,38 @@
    "airbnb automation",
    "ia pour pme",
    "job search ai"
-  ]
+  ],
+  "crosssell": {
+   "lane": "business_os",
+   "siblings": [
+    "1Jiaav2Y3Si55xqkzhaHhQ==",
+    "gi1DJ3eBN724xJzVDx5ZWg==",
+    "EvHU3txVE6_hFuqdX-rIhQ=="
+   ],
+   "bundle_or_cross": "bundle-business_os",
+   "member_sku": "business_os-member",
+   "status": "staged",
+   "sibling_objects": [
+    {
+     "name": "Seasonal Revenue Planning System - Smooth Income Swings",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/xmylu",
+     "summary": "Seasonal Revenue Planning System - forecast patterns, plan cash flow, price to smooth revenue."
+    },
+    {
+     "name": "Rate Increase Playbook - Templates & Scripts for Announcing Price Raises",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/hofnhx",
+     "summary": "Rate Increase Playbook - announcement frameworks, objection handlers and grandfathering scripts."
+    },
+    {
+     "name": "Burnout & Workload Rebalancing System",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/yoqxur",
+     "summary": "Burnout & Workload Rebalancing System - assessment, calculator, scripts and action plan."
+    }
+   ]
+  }
  },
  {
   "name": "SaaS Pricing Calculator Kit — Model, Compare and Raise Your Prices Without Guessing",
@@ -641,7 +1974,38 @@
    "monetization",
    "price optimization",
    "saas"
-  ]
+  ],
+  "crosssell": {
+   "lane": "pricing_sales",
+   "siblings": [
+    "D66IcR-X5Ai4VJbThNTfCA==",
+    "NkWqMqyj2PzKipBEzTv_IA==",
+    "vaqx6vJSZAX2WJCVMVZgJA=="
+   ],
+   "bundle_or_cross": "bundle-pricing_sales",
+   "member_sku": "pricing_sales-member",
+   "status": "staged",
+   "sibling_objects": [
+    {
+     "name": "Price Objection Scripts Kit",
+     "price": 2700,
+     "url": "https://simoabdel.gumroad.com/l/xrvtpz",
+     "summary": "Price Objection Scripts Kit - 8 complete response scripts, direct + collaborative."
+    },
+    {
+     "name": "45-Minute Offer & Pricing Teardown Call",
+     "price": 7900,
+     "url": "https://simoabdel.gumroad.com/l/offer-and-pricing-teardown-call",
+     "summary": "A 45-minute offer and pricing teardown call to fix packages, improve margins, and build a quoting system that holds."
+    },
+    {
+     "name": "The Local Service Price Sheet: 24 Jobs, Real Rates, Ready to Quote",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/local-service-price-sheet",
+     "summary": ""
+    }
+   ]
+  }
  },
  {
   "name": "Coach OS — The Notion CRM That Runs Your Coaching Business (7 Databases, Ready to Duplicate)",
@@ -656,7 +2020,38 @@
    "client management",
    "notion crm",
    "coach"
-  ]
+  ],
+  "crosssell": {
+   "lane": "business_os",
+   "siblings": [
+    "1Jiaav2Y3Si55xqkzhaHhQ==",
+    "gi1DJ3eBN724xJzVDx5ZWg==",
+    "EvHU3txVE6_hFuqdX-rIhQ=="
+   ],
+   "bundle_or_cross": "bundle-business_os",
+   "member_sku": "business_os-member",
+   "status": "staged",
+   "sibling_objects": [
+    {
+     "name": "Seasonal Revenue Planning System - Smooth Income Swings",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/xmylu",
+     "summary": "Seasonal Revenue Planning System - forecast patterns, plan cash flow, price to smooth revenue."
+    },
+    {
+     "name": "Rate Increase Playbook - Templates & Scripts for Announcing Price Raises",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/hofnhx",
+     "summary": "Rate Increase Playbook - announcement frameworks, objection handlers and grandfathering scripts."
+    },
+    {
+     "name": "Burnout & Workload Rebalancing System",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/yoqxur",
+     "summary": "Burnout & Workload Rebalancing System - assessment, calculator, scripts and action plan."
+    }
+   ]
+  }
  },
  {
   "name": "Digital Product Launch Kit — The 14-Day Launch System That Actually Sells",
@@ -670,7 +2065,38 @@
    "affiliate marketing",
    "launch plan",
    "gumroad launch"
-  ]
+  ],
+  "crosssell": {
+   "lane": "business_os",
+   "siblings": [
+    "1Jiaav2Y3Si55xqkzhaHhQ==",
+    "gi1DJ3eBN724xJzVDx5ZWg==",
+    "EvHU3txVE6_hFuqdX-rIhQ=="
+   ],
+   "bundle_or_cross": "bundle-business_os",
+   "member_sku": "business_os-member",
+   "status": "staged",
+   "sibling_objects": [
+    {
+     "name": "Seasonal Revenue Planning System - Smooth Income Swings",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/xmylu",
+     "summary": "Seasonal Revenue Planning System - forecast patterns, plan cash flow, price to smooth revenue."
+    },
+    {
+     "name": "Rate Increase Playbook - Templates & Scripts for Announcing Price Raises",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/hofnhx",
+     "summary": "Rate Increase Playbook - announcement frameworks, objection handlers and grandfathering scripts."
+    },
+    {
+     "name": "Burnout & Workload Rebalancing System",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/yoqxur",
+     "summary": "Burnout & Workload Rebalancing System - assessment, calculator, scripts and action plan."
+    }
+   ]
+  }
  },
  {
   "name": "AI Automation Agency Starter Kit — 5 Ready-to-Import Workflows, Pricing System and Client Docs",
@@ -685,7 +2111,38 @@
    "lead generation",
    "ai agency",
    "workflow templates"
-  ]
+  ],
+  "crosssell": {
+   "lane": "business_os",
+   "siblings": [
+    "1Jiaav2Y3Si55xqkzhaHhQ==",
+    "gi1DJ3eBN724xJzVDx5ZWg==",
+    "EvHU3txVE6_hFuqdX-rIhQ=="
+   ],
+   "bundle_or_cross": "bundle-business_os",
+   "member_sku": "business_os-member",
+   "status": "staged",
+   "sibling_objects": [
+    {
+     "name": "Seasonal Revenue Planning System - Smooth Income Swings",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/xmylu",
+     "summary": "Seasonal Revenue Planning System - forecast patterns, plan cash flow, price to smooth revenue."
+    },
+    {
+     "name": "Rate Increase Playbook - Templates & Scripts for Announcing Price Raises",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/hofnhx",
+     "summary": "Rate Increase Playbook - announcement frameworks, objection handlers and grandfathering scripts."
+    },
+    {
+     "name": "Burnout & Workload Rebalancing System",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/yoqxur",
+     "summary": "Burnout & Workload Rebalancing System - assessment, calculator, scripts and action plan."
+    }
+   ]
+  }
  },
  {
   "name": "AI Content Repurposing Pack — Turn 1 Blog Post Into 12+ Pieces in 10 Minutes",
@@ -700,7 +2157,38 @@
    "social media",
    "content marketing",
    "blog to social"
-  ]
+  ],
+  "crosssell": {
+   "lane": "business_os",
+   "siblings": [
+    "1Jiaav2Y3Si55xqkzhaHhQ==",
+    "gi1DJ3eBN724xJzVDx5ZWg==",
+    "EvHU3txVE6_hFuqdX-rIhQ=="
+   ],
+   "bundle_or_cross": "bundle-business_os",
+   "member_sku": "business_os-member",
+   "status": "staged",
+   "sibling_objects": [
+    {
+     "name": "Seasonal Revenue Planning System - Smooth Income Swings",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/xmylu",
+     "summary": "Seasonal Revenue Planning System - forecast patterns, plan cash flow, price to smooth revenue."
+    },
+    {
+     "name": "Rate Increase Playbook - Templates & Scripts for Announcing Price Raises",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/hofnhx",
+     "summary": "Rate Increase Playbook - announcement frameworks, objection handlers and grandfathering scripts."
+    },
+    {
+     "name": "Burnout & Workload Rebalancing System",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/yoqxur",
+     "summary": "Burnout & Workload Rebalancing System - assessment, calculator, scripts and action plan."
+    }
+   ]
+  }
  },
  {
   "name": "Freelancer Freedom OS",
@@ -715,7 +2203,38 @@
    "templates",
    "digital products",
    "business templates"
-  ]
+  ],
+  "crosssell": {
+   "lane": "business_os",
+   "siblings": [
+    "1Jiaav2Y3Si55xqkzhaHhQ==",
+    "gi1DJ3eBN724xJzVDx5ZWg==",
+    "EvHU3txVE6_hFuqdX-rIhQ=="
+   ],
+   "bundle_or_cross": "bundle-business_os",
+   "member_sku": "business_os-member",
+   "status": "staged",
+   "sibling_objects": [
+    {
+     "name": "Seasonal Revenue Planning System - Smooth Income Swings",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/xmylu",
+     "summary": "Seasonal Revenue Planning System - forecast patterns, plan cash flow, price to smooth revenue."
+    },
+    {
+     "name": "Rate Increase Playbook - Templates & Scripts for Announcing Price Raises",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/hofnhx",
+     "summary": "Rate Increase Playbook - announcement frameworks, objection handlers and grandfathering scripts."
+    },
+    {
+     "name": "Burnout & Workload Rebalancing System",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/yoqxur",
+     "summary": "Burnout & Workload Rebalancing System - assessment, calculator, scripts and action plan."
+    }
+   ]
+  }
  },
  {
   "name": "AI Workflow Pack for Fitness Coaches | 10 Ready-to-Use Automation Templates",
@@ -730,7 +2249,38 @@
    "ai prompts",
    "client communication",
    "whatsapp coaching"
-  ]
+  ],
+  "crosssell": {
+   "lane": "ai_skills",
+   "siblings": [
+    "jMr8b0bRNPa2bgwr7AWqcw==",
+    "nN132GFkMyxBoY-7uj_NWQ==",
+    "p2RWGlk1oUyRL0RYjz5-gw=="
+   ],
+   "bundle_or_cross": "bundle-ai_skills",
+   "member_sku": "ai_skills-member",
+   "status": "staged",
+   "sibling_objects": [
+    {
+     "name": "The Solo Operator Capacity & Sustainability Bundle: Know Your Limits, Protect Your Time",
+     "price": 6400,
+     "url": "https://simoabdel.gumroad.com/l/gkjiq",
+     "summary": "5 complete kits: burnout rebalancing, time and rate audit, seasonal revenue planning, waitlist management, subcontractor delegation."
+    },
+    {
+     "name": "The Freelancer Second Brain — Your Entire Solo Business in One Notion Workspace (5 Databases, Pre-Loaded)",
+     "price": 2900,
+     "url": "https://simoabdel.gumroad.com/l/freelancer-second-brain-notion",
+     "summary": "Five connected Notion databases for clients, projects, invoices, pipeline and daily log that run your entire solo business from one workspace."
+    },
+    {
+     "name": "Marketing Skills Vault — Installable AI Marketing Skills for Claude (MIT-licensed collection, curated)",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/marketing-skills-vault",
+     "summary": "A curated vault of installable AI marketing skills for Claude Code with validation scripts — content strategy, SEO, copywriting, analytics and campaign planning in one pack."
+    }
+   ]
+  }
  },
  {
   "name": "Claude Code Freelancer Skills — 5 Free AI Agent Skills",
@@ -745,7 +2295,38 @@
    "invoicing",
    "proposals",
    "client onboarding"
-  ]
+  ],
+  "crosssell": {
+   "lane": "ai_skills",
+   "siblings": [
+    "jMr8b0bRNPa2bgwr7AWqcw==",
+    "nN132GFkMyxBoY-7uj_NWQ==",
+    "p2RWGlk1oUyRL0RYjz5-gw=="
+   ],
+   "bundle_or_cross": "bundle-ai_skills",
+   "member_sku": "ai_skills-member",
+   "status": "staged",
+   "sibling_objects": [
+    {
+     "name": "The Solo Operator Capacity & Sustainability Bundle: Know Your Limits, Protect Your Time",
+     "price": 6400,
+     "url": "https://simoabdel.gumroad.com/l/gkjiq",
+     "summary": "5 complete kits: burnout rebalancing, time and rate audit, seasonal revenue planning, waitlist management, subcontractor delegation."
+    },
+    {
+     "name": "The Freelancer Second Brain — Your Entire Solo Business in One Notion Workspace (5 Databases, Pre-Loaded)",
+     "price": 2900,
+     "url": "https://simoabdel.gumroad.com/l/freelancer-second-brain-notion",
+     "summary": "Five connected Notion databases for clients, projects, invoices, pipeline and daily log that run your entire solo business from one workspace."
+    },
+    {
+     "name": "Marketing Skills Vault — Installable AI Marketing Skills for Claude (MIT-licensed collection, curated)",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/marketing-skills-vault",
+     "summary": "A curated vault of installable AI marketing skills for Claude Code with validation scripts — content strategy, SEO, copywriting, analytics and campaign planning in one pack."
+    }
+   ]
+  }
  },
  {
   "name": "Freelancer Income Tracker — Baseline Salary, Tax Buffer & Runway",
@@ -760,7 +2341,38 @@
    "income tracker",
    "self employed",
    "tax planning"
-  ]
+  ],
+  "crosssell": {
+   "lane": "general",
+   "siblings": [
+    "fpoHyOvFNqKj0iWwMDKXhQ==",
+    "UjLNR0S7QiWPgy4zxkmOAw==",
+    "XkZ9FcXq0P--pSpmXg6ouQ=="
+   ],
+   "bundle_or_cross": "fpoHyOvFNqKj0iWwMDKXhQ==",
+   "member_sku": null,
+   "status": "staged",
+   "sibling_objects": [
+    {
+     "name": "Scope Guard - Prevent Creep & Protect Profit",
+     "price": 2900,
+     "url": "https://simoabdel.gumroad.com/l/utglcg",
+     "summary": "Scope Guard - define scope, run change requests, stop unpaid labor."
+    },
+    {
+     "name": "Time Tracking & Rate Audit Kit",
+     "price": 2900,
+     "url": "https://simoabdel.gumroad.com/l/lnfyja",
+     "summary": "Time Tracking & Rate Audit Kit - track hours, audit rates, price on data."
+    },
+    {
+     "name": "Emergency Coverage Handoff Kit - Be Covered Before Crisis Hits",
+     "price": 2900,
+     "url": "https://simoabdel.gumroad.com/l/wyegdp",
+     "summary": "Emergency Coverage Handoff Kit - ready-to-use templates for solo operators."
+    }
+   ]
+  }
  },
  {
   "name": "ADHD Freelancer Daily Dashboard — Daily Planner, Weekly Reset & Client Scripts",
@@ -775,7 +2387,38 @@
    "daily planner",
    "weekly reset",
    "adhd productivity"
-  ]
+  ],
+  "crosssell": {
+   "lane": "ai_skills",
+   "siblings": [
+    "jMr8b0bRNPa2bgwr7AWqcw==",
+    "nN132GFkMyxBoY-7uj_NWQ==",
+    "p2RWGlk1oUyRL0RYjz5-gw=="
+   ],
+   "bundle_or_cross": "bundle-ai_skills",
+   "member_sku": "ai_skills-member",
+   "status": "staged",
+   "sibling_objects": [
+    {
+     "name": "The Solo Operator Capacity & Sustainability Bundle: Know Your Limits, Protect Your Time",
+     "price": 6400,
+     "url": "https://simoabdel.gumroad.com/l/gkjiq",
+     "summary": "5 complete kits: burnout rebalancing, time and rate audit, seasonal revenue planning, waitlist management, subcontractor delegation."
+    },
+    {
+     "name": "The Freelancer Second Brain — Your Entire Solo Business in One Notion Workspace (5 Databases, Pre-Loaded)",
+     "price": 2900,
+     "url": "https://simoabdel.gumroad.com/l/freelancer-second-brain-notion",
+     "summary": "Five connected Notion databases for clients, projects, invoices, pipeline and daily log that run your entire solo business from one workspace."
+    },
+    {
+     "name": "Marketing Skills Vault — Installable AI Marketing Skills for Claude (MIT-licensed collection, curated)",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/marketing-skills-vault",
+     "summary": "A curated vault of installable AI marketing skills for Claude Code with validation scripts — content strategy, SEO, copywriting, analytics and campaign planning in one pack."
+    }
+   ]
+  }
  },
  {
   "name": "Contract Renewal Playbook",
@@ -790,7 +2433,38 @@
    "renewal negotiation",
    "retainer renewal",
    "service contract"
-  ]
+  ],
+  "crosssell": {
+   "lane": "business_os",
+   "siblings": [
+    "1Jiaav2Y3Si55xqkzhaHhQ==",
+    "gi1DJ3eBN724xJzVDx5ZWg==",
+    "EvHU3txVE6_hFuqdX-rIhQ=="
+   ],
+   "bundle_or_cross": "bundle-business_os",
+   "member_sku": "business_os-member",
+   "status": "staged",
+   "sibling_objects": [
+    {
+     "name": "Seasonal Revenue Planning System - Smooth Income Swings",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/xmylu",
+     "summary": "Seasonal Revenue Planning System - forecast patterns, plan cash flow, price to smooth revenue."
+    },
+    {
+     "name": "Rate Increase Playbook - Templates & Scripts for Announcing Price Raises",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/hofnhx",
+     "summary": "Rate Increase Playbook - announcement frameworks, objection handlers and grandfathering scripts."
+    },
+    {
+     "name": "Burnout & Workload Rebalancing System",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/yoqxur",
+     "summary": "Burnout & Workload Rebalancing System - assessment, calculator, scripts and action plan."
+    }
+   ]
+  }
  },
  {
   "name": "Cold Outreach Vault — 50+ Email & DM Templates That Actually Get Responses",
@@ -805,7 +2479,38 @@
    "cold outreach",
    "b2b cold email",
    "sales follow-up"
-  ]
+  ],
+  "crosssell": {
+   "lane": "ai_skills",
+   "siblings": [
+    "jMr8b0bRNPa2bgwr7AWqcw==",
+    "nN132GFkMyxBoY-7uj_NWQ==",
+    "p2RWGlk1oUyRL0RYjz5-gw=="
+   ],
+   "bundle_or_cross": "bundle-ai_skills",
+   "member_sku": "ai_skills-member",
+   "status": "staged",
+   "sibling_objects": [
+    {
+     "name": "The Solo Operator Capacity & Sustainability Bundle: Know Your Limits, Protect Your Time",
+     "price": 6400,
+     "url": "https://simoabdel.gumroad.com/l/gkjiq",
+     "summary": "5 complete kits: burnout rebalancing, time and rate audit, seasonal revenue planning, waitlist management, subcontractor delegation."
+    },
+    {
+     "name": "The Freelancer Second Brain — Your Entire Solo Business in One Notion Workspace (5 Databases, Pre-Loaded)",
+     "price": 2900,
+     "url": "https://simoabdel.gumroad.com/l/freelancer-second-brain-notion",
+     "summary": "Five connected Notion databases for clients, projects, invoices, pipeline and daily log that run your entire solo business from one workspace."
+    },
+    {
+     "name": "Marketing Skills Vault — Installable AI Marketing Skills for Claude (MIT-licensed collection, curated)",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/marketing-skills-vault",
+     "summary": "A curated vault of installable AI marketing skills for Claude Code with validation scripts — content strategy, SEO, copywriting, analytics and campaign planning in one pack."
+    }
+   ]
+  }
  },
  {
   "name": "Client Value Audit & Tier Management System",
@@ -820,7 +2525,38 @@
    "client roster",
    "a b c client tiers",
    "client retention"
-  ]
+  ],
+  "crosssell": {
+   "lane": "business_os",
+   "siblings": [
+    "1Jiaav2Y3Si55xqkzhaHhQ==",
+    "gi1DJ3eBN724xJzVDx5ZWg==",
+    "EvHU3txVE6_hFuqdX-rIhQ=="
+   ],
+   "bundle_or_cross": "bundle-business_os",
+   "member_sku": "business_os-member",
+   "status": "staged",
+   "sibling_objects": [
+    {
+     "name": "Seasonal Revenue Planning System - Smooth Income Swings",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/xmylu",
+     "summary": "Seasonal Revenue Planning System - forecast patterns, plan cash flow, price to smooth revenue."
+    },
+    {
+     "name": "Rate Increase Playbook - Templates & Scripts for Announcing Price Raises",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/hofnhx",
+     "summary": "Rate Increase Playbook - announcement frameworks, objection handlers and grandfathering scripts."
+    },
+    {
+     "name": "Burnout & Workload Rebalancing System",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/yoqxur",
+     "summary": "Burnout & Workload Rebalancing System - assessment, calculator, scripts and action plan."
+    }
+   ]
+  }
  },
  {
   "name": "Upsell & Cross-Sell Conversation Scripts for Solo Providers",
@@ -835,7 +2571,38 @@
    "freelancer pricing",
    "objection handling",
    "service business"
-  ]
+  ],
+  "crosssell": {
+   "lane": "business_os",
+   "siblings": [
+    "1Jiaav2Y3Si55xqkzhaHhQ==",
+    "gi1DJ3eBN724xJzVDx5ZWg==",
+    "EvHU3txVE6_hFuqdX-rIhQ=="
+   ],
+   "bundle_or_cross": "bundle-business_os",
+   "member_sku": "business_os-member",
+   "status": "staged",
+   "sibling_objects": [
+    {
+     "name": "Seasonal Revenue Planning System - Smooth Income Swings",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/xmylu",
+     "summary": "Seasonal Revenue Planning System - forecast patterns, plan cash flow, price to smooth revenue."
+    },
+    {
+     "name": "Rate Increase Playbook - Templates & Scripts for Announcing Price Raises",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/hofnhx",
+     "summary": "Rate Increase Playbook - announcement frameworks, objection handlers and grandfathering scripts."
+    },
+    {
+     "name": "Burnout & Workload Rebalancing System",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/yoqxur",
+     "summary": "Burnout & Workload Rebalancing System - assessment, calculator, scripts and action plan."
+    }
+   ]
+  }
  },
  {
   "name": "Client Status Update Templates & Communication Cadence Kit",
@@ -850,7 +2617,38 @@
    "milestone update",
    "client check-in",
    "project handoff"
-  ]
+  ],
+  "crosssell": {
+   "lane": "client",
+   "siblings": [
+    "WCPw2MQMrux_qjbYP0IF8A==",
+    "J-6oLNUkBh4bc85oB71i8g==",
+    "xMJaXnOYIJutYv9STpDU8A=="
+   ],
+   "bundle_or_cross": "bundle-client",
+   "member_sku": "client-member",
+   "status": "staged",
+   "sibling_objects": [
+    {
+     "name": "Difficult Client Conversations - Scripts & Frameworks",
+     "price": 2700,
+     "url": "https://simoabdel.gumroad.com/l/ohltf",
+     "summary": "Difficult Client Conversations - 7 frameworks + 20 ready-to-adapt scripts."
+    },
+    {
+     "name": "The Hard Conversations Suite: 6 Complete Kits for Every Uncomfortable Client Moment",
+     "price": 8300,
+     "url": "https://simoabdel.gumroad.com/l/uwtfhs",
+     "summary": "6 complete kits: difficult conversations, scope guard, price objections, client exit, payment terms, invoice system."
+    },
+    {
+     "name": "The Client Relationship Ops Bundle: Keep Clients Informed, On-Track, and Buying More",
+     "price": 3400,
+     "url": "https://simoabdel.gumroad.com/l/client-relationship-ops-bundle",
+     "summary": ""
+    }
+   ]
+  }
  },
  {
   "name": "Client Goals & Progress Tracking System",
@@ -865,7 +2663,38 @@
    "client check-in",
    "coach client",
    "obstacle log"
-  ]
+  ],
+  "crosssell": {
+   "lane": "business_os",
+   "siblings": [
+    "1Jiaav2Y3Si55xqkzhaHhQ==",
+    "gi1DJ3eBN724xJzVDx5ZWg==",
+    "EvHU3txVE6_hFuqdX-rIhQ=="
+   ],
+   "bundle_or_cross": "bundle-business_os",
+   "member_sku": "business_os-member",
+   "status": "staged",
+   "sibling_objects": [
+    {
+     "name": "Seasonal Revenue Planning System - Smooth Income Swings",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/xmylu",
+     "summary": "Seasonal Revenue Planning System - forecast patterns, plan cash flow, price to smooth revenue."
+    },
+    {
+     "name": "Rate Increase Playbook - Templates & Scripts for Announcing Price Raises",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/hofnhx",
+     "summary": "Rate Increase Playbook - announcement frameworks, objection handlers and grandfathering scripts."
+    },
+    {
+     "name": "Burnout & Workload Rebalancing System",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/yoqxur",
+     "summary": "Burnout & Workload Rebalancing System - assessment, calculator, scripts and action plan."
+    }
+   ]
+  }
  },
  {
   "name": "Client Feedback & Review Collection Kit",
@@ -880,7 +2709,38 @@
    "review collection",
    "freelancer social",
    "video testimonial"
-  ]
+  ],
+  "crosssell": {
+   "lane": "client",
+   "siblings": [
+    "WCPw2MQMrux_qjbYP0IF8A==",
+    "J-6oLNUkBh4bc85oB71i8g==",
+    "xMJaXnOYIJutYv9STpDU8A=="
+   ],
+   "bundle_or_cross": "bundle-client",
+   "member_sku": "client-member",
+   "status": "staged",
+   "sibling_objects": [
+    {
+     "name": "Difficult Client Conversations - Scripts & Frameworks",
+     "price": 2700,
+     "url": "https://simoabdel.gumroad.com/l/ohltf",
+     "summary": "Difficult Client Conversations - 7 frameworks + 20 ready-to-adapt scripts."
+    },
+    {
+     "name": "The Hard Conversations Suite: 6 Complete Kits for Every Uncomfortable Client Moment",
+     "price": 8300,
+     "url": "https://simoabdel.gumroad.com/l/uwtfhs",
+     "summary": "6 complete kits: difficult conversations, scope guard, price objections, client exit, payment terms, invoice system."
+    },
+    {
+     "name": "The Client Relationship Ops Bundle: Keep Clients Informed, On-Track, and Buying More",
+     "price": 3400,
+     "url": "https://simoabdel.gumroad.com/l/client-relationship-ops-bundle",
+     "summary": ""
+    }
+   ]
+  }
  },
  {
   "name": "Client Exit Playbook: How to End Relationships Professionally",
@@ -895,7 +2755,38 @@
    "freelancer",
    "client offboarding",
    "difficult client"
-  ]
+  ],
+  "crosssell": {
+   "lane": "business_os",
+   "siblings": [
+    "1Jiaav2Y3Si55xqkzhaHhQ==",
+    "gi1DJ3eBN724xJzVDx5ZWg==",
+    "EvHU3txVE6_hFuqdX-rIhQ=="
+   ],
+   "bundle_or_cross": "bundle-business_os",
+   "member_sku": "business_os-member",
+   "status": "staged",
+   "sibling_objects": [
+    {
+     "name": "Seasonal Revenue Planning System - Smooth Income Swings",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/xmylu",
+     "summary": "Seasonal Revenue Planning System - forecast patterns, plan cash flow, price to smooth revenue."
+    },
+    {
+     "name": "Rate Increase Playbook - Templates & Scripts for Announcing Price Raises",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/hofnhx",
+     "summary": "Rate Increase Playbook - announcement frameworks, objection handlers and grandfathering scripts."
+    },
+    {
+     "name": "Burnout & Workload Rebalancing System",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/yoqxur",
+     "summary": "Burnout & Workload Rebalancing System - assessment, calculator, scripts and action plan."
+    }
+   ]
+  }
  },
  {
   "name": "Client Capacity & Waitlist Management Playbook",
@@ -910,7 +2801,38 @@
    "service business",
    "fully booked client",
    "waitlist to upsell"
-  ]
+  ],
+  "crosssell": {
+   "lane": "business_os",
+   "siblings": [
+    "1Jiaav2Y3Si55xqkzhaHhQ==",
+    "gi1DJ3eBN724xJzVDx5ZWg==",
+    "EvHU3txVE6_hFuqdX-rIhQ=="
+   ],
+   "bundle_or_cross": "bundle-business_os",
+   "member_sku": "business_os-member",
+   "status": "staged",
+   "sibling_objects": [
+    {
+     "name": "Seasonal Revenue Planning System - Smooth Income Swings",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/xmylu",
+     "summary": "Seasonal Revenue Planning System - forecast patterns, plan cash flow, price to smooth revenue."
+    },
+    {
+     "name": "Rate Increase Playbook - Templates & Scripts for Announcing Price Raises",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/hofnhx",
+     "summary": "Rate Increase Playbook - announcement frameworks, objection handlers and grandfathering scripts."
+    },
+    {
+     "name": "Burnout & Workload Rebalancing System",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/yoqxur",
+     "summary": "Burnout & Workload Rebalancing System - assessment, calculator, scripts and action plan."
+    }
+   ]
+  }
  },
  {
   "name": "Authority & Expert Positioning Kit for Service Businesses",
@@ -925,7 +2847,38 @@
    "freelancer",
    "authority marketing",
    "premium pricing"
-  ]
+  ],
+  "crosssell": {
+   "lane": "business_os",
+   "siblings": [
+    "1Jiaav2Y3Si55xqkzhaHhQ==",
+    "gi1DJ3eBN724xJzVDx5ZWg==",
+    "EvHU3txVE6_hFuqdX-rIhQ=="
+   ],
+   "bundle_or_cross": "bundle-business_os",
+   "member_sku": "business_os-member",
+   "status": "staged",
+   "sibling_objects": [
+    {
+     "name": "Seasonal Revenue Planning System - Smooth Income Swings",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/xmylu",
+     "summary": "Seasonal Revenue Planning System - forecast patterns, plan cash flow, price to smooth revenue."
+    },
+    {
+     "name": "Rate Increase Playbook - Templates & Scripts for Announcing Price Raises",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/hofnhx",
+     "summary": "Rate Increase Playbook - announcement frameworks, objection handlers and grandfathering scripts."
+    },
+    {
+     "name": "Burnout & Workload Rebalancing System",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/yoqxur",
+     "summary": "Burnout & Workload Rebalancing System - assessment, calculator, scripts and action plan."
+    }
+   ]
+  }
  },
  {
   "name": "Airbnb Host Automation Kit | Short-Term Rental Guest Communication System",
@@ -940,7 +2893,38 @@
    "airbnb message",
    "vacation rental",
    "superhost tips"
-  ]
+  ],
+  "crosssell": {
+   "lane": "business_os",
+   "siblings": [
+    "1Jiaav2Y3Si55xqkzhaHhQ==",
+    "gi1DJ3eBN724xJzVDx5ZWg==",
+    "EvHU3txVE6_hFuqdX-rIhQ=="
+   ],
+   "bundle_or_cross": "bundle-business_os",
+   "member_sku": "business_os-member",
+   "status": "staged",
+   "sibling_objects": [
+    {
+     "name": "Seasonal Revenue Planning System - Smooth Income Swings",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/xmylu",
+     "summary": "Seasonal Revenue Planning System - forecast patterns, plan cash flow, price to smooth revenue."
+    },
+    {
+     "name": "Rate Increase Playbook - Templates & Scripts for Announcing Price Raises",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/hofnhx",
+     "summary": "Rate Increase Playbook - announcement frameworks, objection handlers and grandfathering scripts."
+    },
+    {
+     "name": "Burnout & Workload Rebalancing System",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/yoqxur",
+     "summary": "Burnout & Workload Rebalancing System - assessment, calculator, scripts and action plan."
+    }
+   ]
+  }
  },
  {
   "name": "Cold Email Templates for Freelancers - Free Starter Pack",
@@ -953,7 +2937,38 @@
    "freelance",
    "lead generation",
    "templates"
-  ]
+  ],
+  "crosssell": {
+   "lane": "ai_skills",
+   "siblings": [
+    "jMr8b0bRNPa2bgwr7AWqcw==",
+    "nN132GFkMyxBoY-7uj_NWQ==",
+    "p2RWGlk1oUyRL0RYjz5-gw=="
+   ],
+   "bundle_or_cross": "bundle-ai_skills",
+   "member_sku": "ai_skills-member",
+   "status": "staged",
+   "sibling_objects": [
+    {
+     "name": "The Solo Operator Capacity & Sustainability Bundle: Know Your Limits, Protect Your Time",
+     "price": 6400,
+     "url": "https://simoabdel.gumroad.com/l/gkjiq",
+     "summary": "5 complete kits: burnout rebalancing, time and rate audit, seasonal revenue planning, waitlist management, subcontractor delegation."
+    },
+    {
+     "name": "The Freelancer Second Brain — Your Entire Solo Business in One Notion Workspace (5 Databases, Pre-Loaded)",
+     "price": 2900,
+     "url": "https://simoabdel.gumroad.com/l/freelancer-second-brain-notion",
+     "summary": "Five connected Notion databases for clients, projects, invoices, pipeline and daily log that run your entire solo business from one workspace."
+    },
+    {
+     "name": "Marketing Skills Vault — Installable AI Marketing Skills for Claude (MIT-licensed collection, curated)",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/marketing-skills-vault",
+     "summary": "A curated vault of installable AI marketing skills for Claude Code with validation scripts — content strategy, SEO, copywriting, analytics and campaign planning in one pack."
+    }
+   ]
+  }
  },
  {
   "name": "Client Boundary Scripts for Freelancers - Say No Without Losing the Client",
@@ -966,7 +2981,38 @@
    "client management",
    "scripts",
    "consulting"
-  ]
+  ],
+  "crosssell": {
+   "lane": "business_os",
+   "siblings": [
+    "1Jiaav2Y3Si55xqkzhaHhQ==",
+    "gi1DJ3eBN724xJzVDx5ZWg==",
+    "EvHU3txVE6_hFuqdX-rIhQ=="
+   ],
+   "bundle_or_cross": "bundle-business_os",
+   "member_sku": "business_os-member",
+   "status": "staged",
+   "sibling_objects": [
+    {
+     "name": "Seasonal Revenue Planning System - Smooth Income Swings",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/xmylu",
+     "summary": "Seasonal Revenue Planning System - forecast patterns, plan cash flow, price to smooth revenue."
+    },
+    {
+     "name": "Rate Increase Playbook - Templates & Scripts for Announcing Price Raises",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/hofnhx",
+     "summary": "Rate Increase Playbook - announcement frameworks, objection handlers and grandfathering scripts."
+    },
+    {
+     "name": "Burnout & Workload Rebalancing System",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/yoqxur",
+     "summary": "Burnout & Workload Rebalancing System - assessment, calculator, scripts and action plan."
+    }
+   ]
+  }
  },
  {
   "name": "Client Onboarding Templates for Freelancers - Free Starter Kit",
@@ -979,7 +3025,38 @@
    "client onboarding",
    "templates",
    "consulting"
-  ]
+  ],
+  "crosssell": {
+   "lane": "client",
+   "siblings": [
+    "WCPw2MQMrux_qjbYP0IF8A==",
+    "J-6oLNUkBh4bc85oB71i8g==",
+    "xMJaXnOYIJutYv9STpDU8A=="
+   ],
+   "bundle_or_cross": "bundle-client",
+   "member_sku": "client-member",
+   "status": "staged",
+   "sibling_objects": [
+    {
+     "name": "Difficult Client Conversations - Scripts & Frameworks",
+     "price": 2700,
+     "url": "https://simoabdel.gumroad.com/l/ohltf",
+     "summary": "Difficult Client Conversations - 7 frameworks + 20 ready-to-adapt scripts."
+    },
+    {
+     "name": "The Hard Conversations Suite: 6 Complete Kits for Every Uncomfortable Client Moment",
+     "price": 8300,
+     "url": "https://simoabdel.gumroad.com/l/uwtfhs",
+     "summary": "6 complete kits: difficult conversations, scope guard, price objections, client exit, payment terms, invoice system."
+    },
+    {
+     "name": "The Client Relationship Ops Bundle: Keep Clients Informed, On-Track, and Buying More",
+     "price": 3400,
+     "url": "https://simoabdel.gumroad.com/l/client-relationship-ops-bundle",
+     "summary": ""
+    }
+   ]
+  }
  },
  {
   "name": "Freelance Invoice Templates & Payment Terms - Get Paid Faster",
@@ -992,7 +3069,38 @@
    "invoicing",
    "templates",
    "small business"
-  ]
+  ],
+  "crosssell": {
+   "lane": "ai_skills",
+   "siblings": [
+    "jMr8b0bRNPa2bgwr7AWqcw==",
+    "nN132GFkMyxBoY-7uj_NWQ==",
+    "p2RWGlk1oUyRL0RYjz5-gw=="
+   ],
+   "bundle_or_cross": "bundle-ai_skills",
+   "member_sku": "ai_skills-member",
+   "status": "staged",
+   "sibling_objects": [
+    {
+     "name": "The Solo Operator Capacity & Sustainability Bundle: Know Your Limits, Protect Your Time",
+     "price": 6400,
+     "url": "https://simoabdel.gumroad.com/l/gkjiq",
+     "summary": "5 complete kits: burnout rebalancing, time and rate audit, seasonal revenue planning, waitlist management, subcontractor delegation."
+    },
+    {
+     "name": "The Freelancer Second Brain — Your Entire Solo Business in One Notion Workspace (5 Databases, Pre-Loaded)",
+     "price": 2900,
+     "url": "https://simoabdel.gumroad.com/l/freelancer-second-brain-notion",
+     "summary": "Five connected Notion databases for clients, projects, invoices, pipeline and daily log that run your entire solo business from one workspace."
+    },
+    {
+     "name": "Marketing Skills Vault — Installable AI Marketing Skills for Claude (MIT-licensed collection, curated)",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/marketing-skills-vault",
+     "summary": "A curated vault of installable AI marketing skills for Claude Code with validation scripts — content strategy, SEO, copywriting, analytics and campaign planning in one pack."
+    }
+   ]
+  }
  },
  {
   "name": "Airbnb Message Templates for Hosts | 42 Guest Scripts, Booking to Checkout",
@@ -1007,7 +3115,38 @@
    "vacation rental",
    "message templates",
    "guest communication"
-  ]
+  ],
+  "crosssell": {
+   "lane": "business_os",
+   "siblings": [
+    "1Jiaav2Y3Si55xqkzhaHhQ==",
+    "gi1DJ3eBN724xJzVDx5ZWg==",
+    "EvHU3txVE6_hFuqdX-rIhQ=="
+   ],
+   "bundle_or_cross": "bundle-business_os",
+   "member_sku": "business_os-member",
+   "status": "staged",
+   "sibling_objects": [
+    {
+     "name": "Seasonal Revenue Planning System - Smooth Income Swings",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/xmylu",
+     "summary": "Seasonal Revenue Planning System - forecast patterns, plan cash flow, price to smooth revenue."
+    },
+    {
+     "name": "Rate Increase Playbook - Templates & Scripts for Announcing Price Raises",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/hofnhx",
+     "summary": "Rate Increase Playbook - announcement frameworks, objection handlers and grandfathering scripts."
+    },
+    {
+     "name": "Burnout & Workload Rebalancing System",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/yoqxur",
+     "summary": "Burnout & Workload Rebalancing System - assessment, calculator, scripts and action plan."
+    }
+   ]
+  }
  },
  {
   "name": "Personal Brand Positioning Workbook for Consultants & Freelancers",
@@ -1021,7 +3160,38 @@
    "freelance authority",
    "service business",
    "consultant branding"
-  ]
+  ],
+  "crosssell": {
+   "lane": "business_os",
+   "siblings": [
+    "1Jiaav2Y3Si55xqkzhaHhQ==",
+    "gi1DJ3eBN724xJzVDx5ZWg==",
+    "EvHU3txVE6_hFuqdX-rIhQ=="
+   ],
+   "bundle_or_cross": "bundle-business_os",
+   "member_sku": "business_os-member",
+   "status": "staged",
+   "sibling_objects": [
+    {
+     "name": "Seasonal Revenue Planning System - Smooth Income Swings",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/xmylu",
+     "summary": "Seasonal Revenue Planning System - forecast patterns, plan cash flow, price to smooth revenue."
+    },
+    {
+     "name": "Rate Increase Playbook - Templates & Scripts for Announcing Price Raises",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/hofnhx",
+     "summary": "Rate Increase Playbook - announcement frameworks, objection handlers and grandfathering scripts."
+    },
+    {
+     "name": "Burnout & Workload Rebalancing System",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/yoqxur",
+     "summary": "Burnout & Workload Rebalancing System - assessment, calculator, scripts and action plan."
+    }
+   ]
+  }
  },
  {
   "name": "Real Estate Agent AI Prompts, Lead Tracker & TikTok Scripts",
@@ -1035,7 +3205,38 @@
    "lead tracker",
    "chatgpt prompts",
    "tiktok scripts"
-  ]
+  ],
+  "crosssell": {
+   "lane": "ai_skills",
+   "siblings": [
+    "jMr8b0bRNPa2bgwr7AWqcw==",
+    "nN132GFkMyxBoY-7uj_NWQ==",
+    "p2RWGlk1oUyRL0RYjz5-gw=="
+   ],
+   "bundle_or_cross": "bundle-ai_skills",
+   "member_sku": "ai_skills-member",
+   "status": "staged",
+   "sibling_objects": [
+    {
+     "name": "The Solo Operator Capacity & Sustainability Bundle: Know Your Limits, Protect Your Time",
+     "price": 6400,
+     "url": "https://simoabdel.gumroad.com/l/gkjiq",
+     "summary": "5 complete kits: burnout rebalancing, time and rate audit, seasonal revenue planning, waitlist management, subcontractor delegation."
+    },
+    {
+     "name": "The Freelancer Second Brain — Your Entire Solo Business in One Notion Workspace (5 Databases, Pre-Loaded)",
+     "price": 2900,
+     "url": "https://simoabdel.gumroad.com/l/freelancer-second-brain-notion",
+     "summary": "Five connected Notion databases for clients, projects, invoices, pipeline and daily log that run your entire solo business from one workspace."
+    },
+    {
+     "name": "Marketing Skills Vault — Installable AI Marketing Skills for Claude (MIT-licensed collection, curated)",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/marketing-skills-vault",
+     "summary": "A curated vault of installable AI marketing skills for Claude Code with validation scripts — content strategy, SEO, copywriting, analytics and campaign planning in one pack."
+    }
+   ]
+  }
  },
  {
   "name": "High-Ticket Outreach System — A Repeatable Process for Landing Larger Clients",
@@ -1050,7 +3251,38 @@
    "email sequences",
    "b2b sales",
    "lead generation"
-  ]
+  ],
+  "crosssell": {
+   "lane": "business_os",
+   "siblings": [
+    "1Jiaav2Y3Si55xqkzhaHhQ==",
+    "gi1DJ3eBN724xJzVDx5ZWg==",
+    "EvHU3txVE6_hFuqdX-rIhQ=="
+   ],
+   "bundle_or_cross": "bundle-business_os",
+   "member_sku": "business_os-member",
+   "status": "staged",
+   "sibling_objects": [
+    {
+     "name": "Seasonal Revenue Planning System - Smooth Income Swings",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/xmylu",
+     "summary": "Seasonal Revenue Planning System - forecast patterns, plan cash flow, price to smooth revenue."
+    },
+    {
+     "name": "Rate Increase Playbook - Templates & Scripts for Announcing Price Raises",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/hofnhx",
+     "summary": "Rate Increase Playbook - announcement frameworks, objection handlers and grandfathering scripts."
+    },
+    {
+     "name": "Burnout & Workload Rebalancing System",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/yoqxur",
+     "summary": "Burnout & Workload Rebalancing System - assessment, calculator, scripts and action plan."
+    }
+   ]
+  }
  },
  {
   "name": "AI Prompt Templates for Business | ChatGPT & Claude Prompt Library",
@@ -1065,7 +3297,38 @@
    "prompt library",
    "business prompt",
    "notion prompt"
-  ]
+  ],
+  "crosssell": {
+   "lane": "ai_skills",
+   "siblings": [
+    "jMr8b0bRNPa2bgwr7AWqcw==",
+    "nN132GFkMyxBoY-7uj_NWQ==",
+    "p2RWGlk1oUyRL0RYjz5-gw=="
+   ],
+   "bundle_or_cross": "bundle-ai_skills",
+   "member_sku": "ai_skills-member",
+   "status": "staged",
+   "sibling_objects": [
+    {
+     "name": "The Solo Operator Capacity & Sustainability Bundle: Know Your Limits, Protect Your Time",
+     "price": 6400,
+     "url": "https://simoabdel.gumroad.com/l/gkjiq",
+     "summary": "5 complete kits: burnout rebalancing, time and rate audit, seasonal revenue planning, waitlist management, subcontractor delegation."
+    },
+    {
+     "name": "The Freelancer Second Brain — Your Entire Solo Business in One Notion Workspace (5 Databases, Pre-Loaded)",
+     "price": 2900,
+     "url": "https://simoabdel.gumroad.com/l/freelancer-second-brain-notion",
+     "summary": "Five connected Notion databases for clients, projects, invoices, pipeline and daily log that run your entire solo business from one workspace."
+    },
+    {
+     "name": "Marketing Skills Vault — Installable AI Marketing Skills for Claude (MIT-licensed collection, curated)",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/marketing-skills-vault",
+     "summary": "A curated vault of installable AI marketing skills for Claude Code with validation scripts — content strategy, SEO, copywriting, analytics and campaign planning in one pack."
+    }
+   ]
+  }
  },
  {
   "name": "AI Job Search Kit | ChatGPT Resume, Cover Letter & LinkedIn Prompts",
@@ -1080,7 +3343,38 @@
    "linkedin profile",
    "interview prep ai",
    "chatgpt job search"
-  ]
+  ],
+  "crosssell": {
+   "lane": "ai_skills",
+   "siblings": [
+    "jMr8b0bRNPa2bgwr7AWqcw==",
+    "nN132GFkMyxBoY-7uj_NWQ==",
+    "p2RWGlk1oUyRL0RYjz5-gw=="
+   ],
+   "bundle_or_cross": "bundle-ai_skills",
+   "member_sku": "ai_skills-member",
+   "status": "staged",
+   "sibling_objects": [
+    {
+     "name": "The Solo Operator Capacity & Sustainability Bundle: Know Your Limits, Protect Your Time",
+     "price": 6400,
+     "url": "https://simoabdel.gumroad.com/l/gkjiq",
+     "summary": "5 complete kits: burnout rebalancing, time and rate audit, seasonal revenue planning, waitlist management, subcontractor delegation."
+    },
+    {
+     "name": "The Freelancer Second Brain — Your Entire Solo Business in One Notion Workspace (5 Databases, Pre-Loaded)",
+     "price": 2900,
+     "url": "https://simoabdel.gumroad.com/l/freelancer-second-brain-notion",
+     "summary": "Five connected Notion databases for clients, projects, invoices, pipeline and daily log that run your entire solo business from one workspace."
+    },
+    {
+     "name": "Marketing Skills Vault — Installable AI Marketing Skills for Claude (MIT-licensed collection, curated)",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/marketing-skills-vault",
+     "summary": "A curated vault of installable AI marketing skills for Claude Code with validation scripts — content strategy, SEO, copywriting, analytics and campaign planning in one pack."
+    }
+   ]
+  }
  },
  {
   "name": "Annual Business Planning Workbook | Yearly Goals & Quarterly Milestones",
@@ -1095,7 +3389,38 @@
    "solo business",
    "quarterly milestone",
    "service business"
-  ]
+  ],
+  "crosssell": {
+   "lane": "general",
+   "siblings": [
+    "fpoHyOvFNqKj0iWwMDKXhQ==",
+    "UjLNR0S7QiWPgy4zxkmOAw==",
+    "XkZ9FcXq0P--pSpmXg6ouQ=="
+   ],
+   "bundle_or_cross": "fpoHyOvFNqKj0iWwMDKXhQ==",
+   "member_sku": null,
+   "status": "staged",
+   "sibling_objects": [
+    {
+     "name": "Scope Guard - Prevent Creep & Protect Profit",
+     "price": 2900,
+     "url": "https://simoabdel.gumroad.com/l/utglcg",
+     "summary": "Scope Guard - define scope, run change requests, stop unpaid labor."
+    },
+    {
+     "name": "Time Tracking & Rate Audit Kit",
+     "price": 2900,
+     "url": "https://simoabdel.gumroad.com/l/lnfyja",
+     "summary": "Time Tracking & Rate Audit Kit - track hours, audit rates, price on data."
+    },
+    {
+     "name": "Emergency Coverage Handoff Kit - Be Covered Before Crisis Hits",
+     "price": 2900,
+     "url": "https://simoabdel.gumroad.com/l/wyegdp",
+     "summary": "Emergency Coverage Handoff Kit - ready-to-use templates for solo operators."
+    }
+   ]
+  }
  },
  {
   "name": "Subcontractor Hiring & Delegation SOPs for Service Businesses",
@@ -1109,7 +3434,38 @@
    "freelance hiring",
    "service business",
    "outsourcing"
-  ]
+  ],
+  "crosssell": {
+   "lane": "general",
+   "siblings": [
+    "fpoHyOvFNqKj0iWwMDKXhQ==",
+    "UjLNR0S7QiWPgy4zxkmOAw==",
+    "XkZ9FcXq0P--pSpmXg6ouQ=="
+   ],
+   "bundle_or_cross": "fpoHyOvFNqKj0iWwMDKXhQ==",
+   "member_sku": null,
+   "status": "staged",
+   "sibling_objects": [
+    {
+     "name": "Scope Guard - Prevent Creep & Protect Profit",
+     "price": 2900,
+     "url": "https://simoabdel.gumroad.com/l/utglcg",
+     "summary": "Scope Guard - define scope, run change requests, stop unpaid labor."
+    },
+    {
+     "name": "Time Tracking & Rate Audit Kit",
+     "price": 2900,
+     "url": "https://simoabdel.gumroad.com/l/lnfyja",
+     "summary": "Time Tracking & Rate Audit Kit - track hours, audit rates, price on data."
+    },
+    {
+     "name": "Emergency Coverage Handoff Kit - Be Covered Before Crisis Hits",
+     "price": 2900,
+     "url": "https://simoabdel.gumroad.com/l/wyegdp",
+     "summary": "Emergency Coverage Handoff Kit - ready-to-use templates for solo operators."
+    }
+   ]
+  }
  },
  {
   "name": "Freelance Contract Templates | Client Agreement & Scope of Work",
@@ -1123,7 +3479,38 @@
    "freelance legal",
    "scope of work",
    "contract template"
-  ]
+  ],
+  "crosssell": {
+   "lane": "client",
+   "siblings": [
+    "WCPw2MQMrux_qjbYP0IF8A==",
+    "J-6oLNUkBh4bc85oB71i8g==",
+    "xMJaXnOYIJutYv9STpDU8A=="
+   ],
+   "bundle_or_cross": "bundle-client",
+   "member_sku": "client-member",
+   "status": "staged",
+   "sibling_objects": [
+    {
+     "name": "Difficult Client Conversations - Scripts & Frameworks",
+     "price": 2700,
+     "url": "https://simoabdel.gumroad.com/l/ohltf",
+     "summary": "Difficult Client Conversations - 7 frameworks + 20 ready-to-adapt scripts."
+    },
+    {
+     "name": "The Hard Conversations Suite: 6 Complete Kits for Every Uncomfortable Client Moment",
+     "price": 8300,
+     "url": "https://simoabdel.gumroad.com/l/uwtfhs",
+     "summary": "6 complete kits: difficult conversations, scope guard, price objections, client exit, payment terms, invoice system."
+    },
+    {
+     "name": "The Client Relationship Ops Bundle: Keep Clients Informed, On-Track, and Buying More",
+     "price": 3400,
+     "url": "https://simoabdel.gumroad.com/l/client-relationship-ops-bundle",
+     "summary": ""
+    }
+   ]
+  }
  },
  {
   "name": "Retainer Proposal Templates | Turn Project Clients Into Recurring Revenue",
@@ -1137,7 +3524,38 @@
    "client retention",
    "freelance pricing",
    "service business"
-  ]
+  ],
+  "crosssell": {
+   "lane": "business_os",
+   "siblings": [
+    "1Jiaav2Y3Si55xqkzhaHhQ==",
+    "gi1DJ3eBN724xJzVDx5ZWg==",
+    "EvHU3txVE6_hFuqdX-rIhQ=="
+   ],
+   "bundle_or_cross": "bundle-business_os",
+   "member_sku": "business_os-member",
+   "status": "staged",
+   "sibling_objects": [
+    {
+     "name": "Seasonal Revenue Planning System - Smooth Income Swings",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/xmylu",
+     "summary": "Seasonal Revenue Planning System - forecast patterns, plan cash flow, price to smooth revenue."
+    },
+    {
+     "name": "Rate Increase Playbook - Templates & Scripts for Announcing Price Raises",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/hofnhx",
+     "summary": "Rate Increase Playbook - announcement frameworks, objection handlers and grandfathering scripts."
+    },
+    {
+     "name": "Burnout & Workload Rebalancing System",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/yoqxur",
+     "summary": "Burnout & Workload Rebalancing System - assessment, calculator, scripts and action plan."
+    }
+   ]
+  }
  },
  {
   "name": "Client Referral System & Referral Request Email Templates",
@@ -1151,7 +3569,38 @@
    "referral program",
    "freelance leads",
    "solo business"
-  ]
+  ],
+  "crosssell": {
+   "lane": "business_os",
+   "siblings": [
+    "1Jiaav2Y3Si55xqkzhaHhQ==",
+    "gi1DJ3eBN724xJzVDx5ZWg==",
+    "EvHU3txVE6_hFuqdX-rIhQ=="
+   ],
+   "bundle_or_cross": "bundle-business_os",
+   "member_sku": "business_os-member",
+   "status": "staged",
+   "sibling_objects": [
+    {
+     "name": "Seasonal Revenue Planning System - Smooth Income Swings",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/xmylu",
+     "summary": "Seasonal Revenue Planning System - forecast patterns, plan cash flow, price to smooth revenue."
+    },
+    {
+     "name": "Rate Increase Playbook - Templates & Scripts for Announcing Price Raises",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/hofnhx",
+     "summary": "Rate Increase Playbook - announcement frameworks, objection handlers and grandfathering scripts."
+    },
+    {
+     "name": "Burnout & Workload Rebalancing System",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/yoqxur",
+     "summary": "Burnout & Workload Rebalancing System - assessment, calculator, scripts and action plan."
+    }
+   ]
+  }
  },
  {
   "name": "Client Kickoff Meeting Agenda & Scope of Work Templates",
@@ -1165,7 +3614,38 @@
    "client onboarding",
    "project management",
    "freelance systems"
-  ]
+  ],
+  "crosssell": {
+   "lane": "client",
+   "siblings": [
+    "WCPw2MQMrux_qjbYP0IF8A==",
+    "J-6oLNUkBh4bc85oB71i8g==",
+    "xMJaXnOYIJutYv9STpDU8A=="
+   ],
+   "bundle_or_cross": "bundle-client",
+   "member_sku": "client-member",
+   "status": "staged",
+   "sibling_objects": [
+    {
+     "name": "Difficult Client Conversations - Scripts & Frameworks",
+     "price": 2700,
+     "url": "https://simoabdel.gumroad.com/l/ohltf",
+     "summary": "Difficult Client Conversations - 7 frameworks + 20 ready-to-adapt scripts."
+    },
+    {
+     "name": "The Hard Conversations Suite: 6 Complete Kits for Every Uncomfortable Client Moment",
+     "price": 8300,
+     "url": "https://simoabdel.gumroad.com/l/uwtfhs",
+     "summary": "6 complete kits: difficult conversations, scope guard, price objections, client exit, payment terms, invoice system."
+    },
+    {
+     "name": "The Client Relationship Ops Bundle: Keep Clients Informed, On-Track, and Buying More",
+     "price": 3400,
+     "url": "https://simoabdel.gumroad.com/l/client-relationship-ops-bundle",
+     "summary": ""
+    }
+   ]
+  }
  },
  {
   "name": "Freelancer Workload Audit & Capacity Planning Workbook",
@@ -1179,7 +3659,38 @@
    "revenue per hour",
    "client priority",
    "solo biz capacity"
-  ]
+  ],
+  "crosssell": {
+   "lane": "general",
+   "siblings": [
+    "fpoHyOvFNqKj0iWwMDKXhQ==",
+    "UjLNR0S7QiWPgy4zxkmOAw==",
+    "XkZ9FcXq0P--pSpmXg6ouQ=="
+   ],
+   "bundle_or_cross": "fpoHyOvFNqKj0iWwMDKXhQ==",
+   "member_sku": null,
+   "status": "staged",
+   "sibling_objects": [
+    {
+     "name": "Scope Guard - Prevent Creep & Protect Profit",
+     "price": 2900,
+     "url": "https://simoabdel.gumroad.com/l/utglcg",
+     "summary": "Scope Guard - define scope, run change requests, stop unpaid labor."
+    },
+    {
+     "name": "Time Tracking & Rate Audit Kit",
+     "price": 2900,
+     "url": "https://simoabdel.gumroad.com/l/lnfyja",
+     "summary": "Time Tracking & Rate Audit Kit - track hours, audit rates, price on data."
+    },
+    {
+     "name": "Emergency Coverage Handoff Kit - Be Covered Before Crisis Hits",
+     "price": 2900,
+     "url": "https://simoabdel.gumroad.com/l/wyegdp",
+     "summary": "Emergency Coverage Handoff Kit - ready-to-use templates for solo operators."
+    }
+   ]
+  }
  },
  {
   "name": "Content Repurposing System | Turn One Hour Into 30 Days of Posts",
@@ -1193,7 +3704,38 @@
    "content templates",
    "personal brand",
    "social media content"
-  ]
+  ],
+  "crosssell": {
+   "lane": "business_os",
+   "siblings": [
+    "1Jiaav2Y3Si55xqkzhaHhQ==",
+    "gi1DJ3eBN724xJzVDx5ZWg==",
+    "EvHU3txVE6_hFuqdX-rIhQ=="
+   ],
+   "bundle_or_cross": "bundle-business_os",
+   "member_sku": "business_os-member",
+   "status": "staged",
+   "sibling_objects": [
+    {
+     "name": "Seasonal Revenue Planning System - Smooth Income Swings",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/xmylu",
+     "summary": "Seasonal Revenue Planning System - forecast patterns, plan cash flow, price to smooth revenue."
+    },
+    {
+     "name": "Rate Increase Playbook - Templates & Scripts for Announcing Price Raises",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/hofnhx",
+     "summary": "Rate Increase Playbook - announcement frameworks, objection handlers and grandfathering scripts."
+    },
+    {
+     "name": "Burnout & Workload Rebalancing System",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/yoqxur",
+     "summary": "Burnout & Workload Rebalancing System - assessment, calculator, scripts and action plan."
+    }
+   ]
+  }
  },
  {
   "name": "Solopreneur Business System | Complete Freelance Operations Bundle",
@@ -1207,7 +3749,38 @@
    "solo business",
    "operating system",
    "systems"
-  ]
+  ],
+  "crosssell": {
+   "lane": "business_os",
+   "siblings": [
+    "1Jiaav2Y3Si55xqkzhaHhQ==",
+    "gi1DJ3eBN724xJzVDx5ZWg==",
+    "EvHU3txVE6_hFuqdX-rIhQ=="
+   ],
+   "bundle_or_cross": "bundle-business_os",
+   "member_sku": "business_os-member",
+   "status": "staged",
+   "sibling_objects": [
+    {
+     "name": "Seasonal Revenue Planning System - Smooth Income Swings",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/xmylu",
+     "summary": "Seasonal Revenue Planning System - forecast patterns, plan cash flow, price to smooth revenue."
+    },
+    {
+     "name": "Rate Increase Playbook - Templates & Scripts for Announcing Price Raises",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/hofnhx",
+     "summary": "Rate Increase Playbook - announcement frameworks, objection handlers and grandfathering scripts."
+    },
+    {
+     "name": "Burnout & Workload Rebalancing System",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/yoqxur",
+     "summary": "Burnout & Workload Rebalancing System - assessment, calculator, scripts and action plan."
+    }
+   ]
+  }
  },
  {
   "name": "ChatGPT & Claude AI Prompt Vault (105 Business Prompts)",
@@ -1221,7 +3794,38 @@
    "prompt vault",
    "chatgpt",
    "claude"
-  ]
+  ],
+  "crosssell": {
+   "lane": "ai_skills",
+   "siblings": [
+    "jMr8b0bRNPa2bgwr7AWqcw==",
+    "nN132GFkMyxBoY-7uj_NWQ==",
+    "p2RWGlk1oUyRL0RYjz5-gw=="
+   ],
+   "bundle_or_cross": "bundle-ai_skills",
+   "member_sku": "ai_skills-member",
+   "status": "staged",
+   "sibling_objects": [
+    {
+     "name": "The Solo Operator Capacity & Sustainability Bundle: Know Your Limits, Protect Your Time",
+     "price": 6400,
+     "url": "https://simoabdel.gumroad.com/l/gkjiq",
+     "summary": "5 complete kits: burnout rebalancing, time and rate audit, seasonal revenue planning, waitlist management, subcontractor delegation."
+    },
+    {
+     "name": "The Freelancer Second Brain — Your Entire Solo Business in One Notion Workspace (5 Databases, Pre-Loaded)",
+     "price": 2900,
+     "url": "https://simoabdel.gumroad.com/l/freelancer-second-brain-notion",
+     "summary": "Five connected Notion databases for clients, projects, invoices, pipeline and daily log that run your entire solo business from one workspace."
+    },
+    {
+     "name": "Marketing Skills Vault — Installable AI Marketing Skills for Claude (MIT-licensed collection, curated)",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/marketing-skills-vault",
+     "summary": "A curated vault of installable AI marketing skills for Claude Code with validation scripts — content strategy, SEO, copywriting, analytics and campaign planning in one pack."
+    }
+   ]
+  }
  },
  {
   "name": "Freelancer Client Operations Bundle | Invoicing, Onboarding & Proposals",
@@ -1235,7 +3839,38 @@
    "freelance bundle",
    "client ops",
    "proposals"
-  ]
+  ],
+  "crosssell": {
+   "lane": "business_os",
+   "siblings": [
+    "1Jiaav2Y3Si55xqkzhaHhQ==",
+    "gi1DJ3eBN724xJzVDx5ZWg==",
+    "EvHU3txVE6_hFuqdX-rIhQ=="
+   ],
+   "bundle_or_cross": "bundle-business_os",
+   "member_sku": "business_os-member",
+   "status": "staged",
+   "sibling_objects": [
+    {
+     "name": "Seasonal Revenue Planning System - Smooth Income Swings",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/xmylu",
+     "summary": "Seasonal Revenue Planning System - forecast patterns, plan cash flow, price to smooth revenue."
+    },
+    {
+     "name": "Rate Increase Playbook - Templates & Scripts for Announcing Price Raises",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/hofnhx",
+     "summary": "Rate Increase Playbook - announcement frameworks, objection handlers and grandfathering scripts."
+    },
+    {
+     "name": "Burnout & Workload Rebalancing System",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/yoqxur",
+     "summary": "Burnout & Workload Rebalancing System - assessment, calculator, scripts and action plan."
+    }
+   ]
+  }
  },
  {
   "name": "Sales Pipeline Tracker & Lead Qualification Framework",
@@ -1249,7 +3884,38 @@
    "freelancing",
    "cold outreach",
    "consulting"
-  ]
+  ],
+  "crosssell": {
+   "lane": "pricing_sales",
+   "siblings": [
+    "D66IcR-X5Ai4VJbThNTfCA==",
+    "NkWqMqyj2PzKipBEzTv_IA==",
+    "vaqx6vJSZAX2WJCVMVZgJA=="
+   ],
+   "bundle_or_cross": "bundle-pricing_sales",
+   "member_sku": "pricing_sales-member",
+   "status": "staged",
+   "sibling_objects": [
+    {
+     "name": "Price Objection Scripts Kit",
+     "price": 2700,
+     "url": "https://simoabdel.gumroad.com/l/xrvtpz",
+     "summary": "Price Objection Scripts Kit - 8 complete response scripts, direct + collaborative."
+    },
+    {
+     "name": "45-Minute Offer & Pricing Teardown Call",
+     "price": 7900,
+     "url": "https://simoabdel.gumroad.com/l/offer-and-pricing-teardown-call",
+     "summary": "A 45-minute offer and pricing teardown call to fix packages, improve margins, and build a quoting system that holds."
+    },
+    {
+     "name": "The Local Service Price Sheet: 24 Jobs, Real Rates, Ready to Quote",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/local-service-price-sheet",
+     "summary": ""
+    }
+   ]
+  }
  },
  {
   "name": "AI WhatsApp Coach for Small Business | Automated Client Follow-Ups on WhatsApp",
@@ -1263,7 +3929,38 @@
    "client followup tool",
    "whatsapp business ai",
    "auto messaging"
-  ]
+  ],
+  "crosssell": {
+   "lane": "ai_skills",
+   "siblings": [
+    "jMr8b0bRNPa2bgwr7AWqcw==",
+    "nN132GFkMyxBoY-7uj_NWQ==",
+    "p2RWGlk1oUyRL0RYjz5-gw=="
+   ],
+   "bundle_or_cross": "bundle-ai_skills",
+   "member_sku": "ai_skills-member",
+   "status": "staged",
+   "sibling_objects": [
+    {
+     "name": "The Solo Operator Capacity & Sustainability Bundle: Know Your Limits, Protect Your Time",
+     "price": 6400,
+     "url": "https://simoabdel.gumroad.com/l/gkjiq",
+     "summary": "5 complete kits: burnout rebalancing, time and rate audit, seasonal revenue planning, waitlist management, subcontractor delegation."
+    },
+    {
+     "name": "The Freelancer Second Brain — Your Entire Solo Business in One Notion Workspace (5 Databases, Pre-Loaded)",
+     "price": 2900,
+     "url": "https://simoabdel.gumroad.com/l/freelancer-second-brain-notion",
+     "summary": "Five connected Notion databases for clients, projects, invoices, pipeline and daily log that run your entire solo business from one workspace."
+    },
+    {
+     "name": "Marketing Skills Vault — Installable AI Marketing Skills for Claude (MIT-licensed collection, curated)",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/marketing-skills-vault",
+     "summary": "A curated vault of installable AI marketing skills for Claude Code with validation scripts — content strategy, SEO, copywriting, analytics and campaign planning in one pack."
+    }
+   ]
+  }
  },
  {
   "name": "Personal Trainer Templates | Workout Programs & Macro Calculator",
@@ -1277,7 +3974,38 @@
    "macro calculator",
    "coaching",
    "program design"
-  ]
+  ],
+  "crosssell": {
+   "lane": "ai_skills",
+   "siblings": [
+    "jMr8b0bRNPa2bgwr7AWqcw==",
+    "nN132GFkMyxBoY-7uj_NWQ==",
+    "p2RWGlk1oUyRL0RYjz5-gw=="
+   ],
+   "bundle_or_cross": "bundle-ai_skills",
+   "member_sku": "ai_skills-member",
+   "status": "staged",
+   "sibling_objects": [
+    {
+     "name": "The Solo Operator Capacity & Sustainability Bundle: Know Your Limits, Protect Your Time",
+     "price": 6400,
+     "url": "https://simoabdel.gumroad.com/l/gkjiq",
+     "summary": "5 complete kits: burnout rebalancing, time and rate audit, seasonal revenue planning, waitlist management, subcontractor delegation."
+    },
+    {
+     "name": "The Freelancer Second Brain — Your Entire Solo Business in One Notion Workspace (5 Databases, Pre-Loaded)",
+     "price": 2900,
+     "url": "https://simoabdel.gumroad.com/l/freelancer-second-brain-notion",
+     "summary": "Five connected Notion databases for clients, projects, invoices, pipeline and daily log that run your entire solo business from one workspace."
+    },
+    {
+     "name": "Marketing Skills Vault — Installable AI Marketing Skills for Claude (MIT-licensed collection, curated)",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/marketing-skills-vault",
+     "summary": "A curated vault of installable AI marketing skills for Claude Code with validation scripts — content strategy, SEO, copywriting, analytics and campaign planning in one pack."
+    }
+   ]
+  }
  },
  {
   "name": "AI Fitness Coaching Business Bundle | Sales Kit, Contracts & Assessments",
@@ -1291,7 +4019,38 @@
    "bundle",
    "coaching business",
    "assessment"
-  ]
+  ],
+  "crosssell": {
+   "lane": "pricing_sales",
+   "siblings": [
+    "D66IcR-X5Ai4VJbThNTfCA==",
+    "NkWqMqyj2PzKipBEzTv_IA==",
+    "vaqx6vJSZAX2WJCVMVZgJA=="
+   ],
+   "bundle_or_cross": "bundle-pricing_sales",
+   "member_sku": "pricing_sales-member",
+   "status": "staged",
+   "sibling_objects": [
+    {
+     "name": "Price Objection Scripts Kit",
+     "price": 2700,
+     "url": "https://simoabdel.gumroad.com/l/xrvtpz",
+     "summary": "Price Objection Scripts Kit - 8 complete response scripts, direct + collaborative."
+    },
+    {
+     "name": "45-Minute Offer & Pricing Teardown Call",
+     "price": 7900,
+     "url": "https://simoabdel.gumroad.com/l/offer-and-pricing-teardown-call",
+     "summary": "A 45-minute offer and pricing teardown call to fix packages, improve margins, and build a quoting system that holds."
+    },
+    {
+     "name": "The Local Service Price Sheet: 24 Jobs, Real Rates, Ready to Quote",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/local-service-price-sheet",
+     "summary": ""
+    }
+   ]
+  }
  },
  {
   "name": "Fitness Coaching Sales Kit | Pitch Deck, Contracts & Client Onboarding",
@@ -1305,7 +4064,38 @@
    "coaching business",
    "contracts",
    "client onboarding"
-  ]
+  ],
+  "crosssell": {
+   "lane": "pricing_sales",
+   "siblings": [
+    "D66IcR-X5Ai4VJbThNTfCA==",
+    "NkWqMqyj2PzKipBEzTv_IA==",
+    "vaqx6vJSZAX2WJCVMVZgJA=="
+   ],
+   "bundle_or_cross": "bundle-pricing_sales",
+   "member_sku": "pricing_sales-member",
+   "status": "staged",
+   "sibling_objects": [
+    {
+     "name": "Price Objection Scripts Kit",
+     "price": 2700,
+     "url": "https://simoabdel.gumroad.com/l/xrvtpz",
+     "summary": "Price Objection Scripts Kit - 8 complete response scripts, direct + collaborative."
+    },
+    {
+     "name": "45-Minute Offer & Pricing Teardown Call",
+     "price": 7900,
+     "url": "https://simoabdel.gumroad.com/l/offer-and-pricing-teardown-call",
+     "summary": "A 45-minute offer and pricing teardown call to fix packages, improve margins, and build a quoting system that holds."
+    },
+    {
+     "name": "The Local Service Price Sheet: 24 Jobs, Real Rates, Ready to Quote",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/local-service-price-sheet",
+     "summary": ""
+    }
+   ]
+  }
  },
  {
   "name": "AI WhatsApp Coach for Fitness Businesses | Client Retention & Booking Automation",
@@ -1319,7 +4109,38 @@
    "whatsapp bot",
    "client retention",
    "automation"
-  ]
+  ],
+  "crosssell": {
+   "lane": "pricing_sales",
+   "siblings": [
+    "D66IcR-X5Ai4VJbThNTfCA==",
+    "NkWqMqyj2PzKipBEzTv_IA==",
+    "vaqx6vJSZAX2WJCVMVZgJA=="
+   ],
+   "bundle_or_cross": "bundle-pricing_sales",
+   "member_sku": "pricing_sales-member",
+   "status": "staged",
+   "sibling_objects": [
+    {
+     "name": "Price Objection Scripts Kit",
+     "price": 2700,
+     "url": "https://simoabdel.gumroad.com/l/xrvtpz",
+     "summary": "Price Objection Scripts Kit - 8 complete response scripts, direct + collaborative."
+    },
+    {
+     "name": "45-Minute Offer & Pricing Teardown Call",
+     "price": 7900,
+     "url": "https://simoabdel.gumroad.com/l/offer-and-pricing-teardown-call",
+     "summary": "A 45-minute offer and pricing teardown call to fix packages, improve margins, and build a quoting system that holds."
+    },
+    {
+     "name": "The Local Service Price Sheet: 24 Jobs, Real Rates, Ready to Quote",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/local-service-price-sheet",
+     "summary": ""
+    }
+   ]
+  }
  },
  {
   "name": "Free ChatGPT Prompts | Find Profit Leaks in Your Business",
@@ -1333,7 +4154,38 @@
    "free",
    "ai prompts",
    "lead magnet"
-  ]
+  ],
+  "crosssell": {
+   "lane": "general",
+   "siblings": [
+    "fpoHyOvFNqKj0iWwMDKXhQ==",
+    "UjLNR0S7QiWPgy4zxkmOAw==",
+    "XkZ9FcXq0P--pSpmXg6ouQ=="
+   ],
+   "bundle_or_cross": "fpoHyOvFNqKj0iWwMDKXhQ==",
+   "member_sku": null,
+   "status": "staged",
+   "sibling_objects": [
+    {
+     "name": "Scope Guard - Prevent Creep & Protect Profit",
+     "price": 2900,
+     "url": "https://simoabdel.gumroad.com/l/utglcg",
+     "summary": "Scope Guard - define scope, run change requests, stop unpaid labor."
+    },
+    {
+     "name": "Time Tracking & Rate Audit Kit",
+     "price": 2900,
+     "url": "https://simoabdel.gumroad.com/l/lnfyja",
+     "summary": "Time Tracking & Rate Audit Kit - track hours, audit rates, price on data."
+    },
+    {
+     "name": "Emergency Coverage Handoff Kit - Be Covered Before Crisis Hits",
+     "price": 2900,
+     "url": "https://simoabdel.gumroad.com/l/wyegdp",
+     "summary": "Emergency Coverage Handoff Kit - ready-to-use templates for solo operators."
+    }
+   ]
+  }
  },
  {
   "name": "Custom AI Fitness Coach App | Done-For-You WhatsApp Coaching Bot",
@@ -1347,7 +4199,38 @@
    "coaching software",
    "done for you",
    "whatsapp"
-  ]
+  ],
+  "crosssell": {
+   "lane": "ai_skills",
+   "siblings": [
+    "jMr8b0bRNPa2bgwr7AWqcw==",
+    "nN132GFkMyxBoY-7uj_NWQ==",
+    "p2RWGlk1oUyRL0RYjz5-gw=="
+   ],
+   "bundle_or_cross": "bundle-ai_skills",
+   "member_sku": "ai_skills-member",
+   "status": "staged",
+   "sibling_objects": [
+    {
+     "name": "The Solo Operator Capacity & Sustainability Bundle: Know Your Limits, Protect Your Time",
+     "price": 6400,
+     "url": "https://simoabdel.gumroad.com/l/gkjiq",
+     "summary": "5 complete kits: burnout rebalancing, time and rate audit, seasonal revenue planning, waitlist management, subcontractor delegation."
+    },
+    {
+     "name": "The Freelancer Second Brain — Your Entire Solo Business in One Notion Workspace (5 Databases, Pre-Loaded)",
+     "price": 2900,
+     "url": "https://simoabdel.gumroad.com/l/freelancer-second-brain-notion",
+     "summary": "Five connected Notion databases for clients, projects, invoices, pipeline and daily log that run your entire solo business from one workspace."
+    },
+    {
+     "name": "Marketing Skills Vault — Installable AI Marketing Skills for Claude (MIT-licensed collection, curated)",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/marketing-skills-vault",
+     "summary": "A curated vault of installable AI marketing skills for Claude Code with validation scripts — content strategy, SEO, copywriting, analytics and campaign planning in one pack."
+    }
+   ]
+  }
  },
  {
   "name": "Prompts ChatGPT en Français | Modèles IA Prêts à l'Emploi pour Entrepreneurs",
@@ -1361,7 +4244,38 @@
    "ia business",
    "productivité ia",
    "chatgpt france"
-  ]
+  ],
+  "crosssell": {
+   "lane": "ai_skills",
+   "siblings": [
+    "jMr8b0bRNPa2bgwr7AWqcw==",
+    "nN132GFkMyxBoY-7uj_NWQ==",
+    "p2RWGlk1oUyRL0RYjz5-gw=="
+   ],
+   "bundle_or_cross": "bundle-ai_skills",
+   "member_sku": "ai_skills-member",
+   "status": "staged",
+   "sibling_objects": [
+    {
+     "name": "The Solo Operator Capacity & Sustainability Bundle: Know Your Limits, Protect Your Time",
+     "price": 6400,
+     "url": "https://simoabdel.gumroad.com/l/gkjiq",
+     "summary": "5 complete kits: burnout rebalancing, time and rate audit, seasonal revenue planning, waitlist management, subcontractor delegation."
+    },
+    {
+     "name": "The Freelancer Second Brain — Your Entire Solo Business in One Notion Workspace (5 Databases, Pre-Loaded)",
+     "price": 2900,
+     "url": "https://simoabdel.gumroad.com/l/freelancer-second-brain-notion",
+     "summary": "Five connected Notion databases for clients, projects, invoices, pipeline and daily log that run your entire solo business from one workspace."
+    },
+    {
+     "name": "Marketing Skills Vault — Installable AI Marketing Skills for Claude (MIT-licensed collection, curated)",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/marketing-skills-vault",
+     "summary": "A curated vault of installable AI marketing skills for Claude Code with validation scripts — content strategy, SEO, copywriting, analytics and campaign planning in one pack."
+    }
+   ]
+  }
  },
  {
   "name": "Job Application Tracker & Resume Tailoring System",
@@ -1375,7 +4289,38 @@
    "cover letter",
    "applications",
    "interviews"
-  ]
+  ],
+  "crosssell": {
+   "lane": "business_os",
+   "siblings": [
+    "1Jiaav2Y3Si55xqkzhaHhQ==",
+    "gi1DJ3eBN724xJzVDx5ZWg==",
+    "EvHU3txVE6_hFuqdX-rIhQ=="
+   ],
+   "bundle_or_cross": "bundle-business_os",
+   "member_sku": "business_os-member",
+   "status": "staged",
+   "sibling_objects": [
+    {
+     "name": "Seasonal Revenue Planning System - Smooth Income Swings",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/xmylu",
+     "summary": "Seasonal Revenue Planning System - forecast patterns, plan cash flow, price to smooth revenue."
+    },
+    {
+     "name": "Rate Increase Playbook - Templates & Scripts for Announcing Price Raises",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/hofnhx",
+     "summary": "Rate Increase Playbook - announcement frameworks, objection handlers and grandfathering scripts."
+    },
+    {
+     "name": "Burnout & Workload Rebalancing System",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/yoqxur",
+     "summary": "Burnout & Workload Rebalancing System - assessment, calculator, scripts and action plan."
+    }
+   ]
+  }
  },
  {
   "name": "Cold Outreach Scripts for Freelancers | Client Acquisition Email Templates",
@@ -1389,7 +4334,38 @@
    "sales",
    "outreach templates",
    "client acquisition"
-  ]
+  ],
+  "crosssell": {
+   "lane": "ai_skills",
+   "siblings": [
+    "jMr8b0bRNPa2bgwr7AWqcw==",
+    "nN132GFkMyxBoY-7uj_NWQ==",
+    "p2RWGlk1oUyRL0RYjz5-gw=="
+   ],
+   "bundle_or_cross": "bundle-ai_skills",
+   "member_sku": "ai_skills-member",
+   "status": "staged",
+   "sibling_objects": [
+    {
+     "name": "The Solo Operator Capacity & Sustainability Bundle: Know Your Limits, Protect Your Time",
+     "price": 6400,
+     "url": "https://simoabdel.gumroad.com/l/gkjiq",
+     "summary": "5 complete kits: burnout rebalancing, time and rate audit, seasonal revenue planning, waitlist management, subcontractor delegation."
+    },
+    {
+     "name": "The Freelancer Second Brain — Your Entire Solo Business in One Notion Workspace (5 Databases, Pre-Loaded)",
+     "price": 2900,
+     "url": "https://simoabdel.gumroad.com/l/freelancer-second-brain-notion",
+     "summary": "Five connected Notion databases for clients, projects, invoices, pipeline and daily log that run your entire solo business from one workspace."
+    },
+    {
+     "name": "Marketing Skills Vault — Installable AI Marketing Skills for Claude (MIT-licensed collection, curated)",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/marketing-skills-vault",
+     "summary": "A curated vault of installable AI marketing skills for Claude Code with validation scripts — content strategy, SEO, copywriting, analytics and campaign planning in one pack."
+    }
+   ]
+  }
  },
  {
   "name": "Client Brief Templates & Project Intake Questionnaire",
@@ -1403,7 +4379,38 @@
    "client onboarding",
    "scope creep",
    "briefs"
-  ]
+  ],
+  "crosssell": {
+   "lane": "ai_skills",
+   "siblings": [
+    "jMr8b0bRNPa2bgwr7AWqcw==",
+    "nN132GFkMyxBoY-7uj_NWQ==",
+    "p2RWGlk1oUyRL0RYjz5-gw=="
+   ],
+   "bundle_or_cross": "bundle-ai_skills",
+   "member_sku": "ai_skills-member",
+   "status": "staged",
+   "sibling_objects": [
+    {
+     "name": "The Solo Operator Capacity & Sustainability Bundle: Know Your Limits, Protect Your Time",
+     "price": 6400,
+     "url": "https://simoabdel.gumroad.com/l/gkjiq",
+     "summary": "5 complete kits: burnout rebalancing, time and rate audit, seasonal revenue planning, waitlist management, subcontractor delegation."
+    },
+    {
+     "name": "The Freelancer Second Brain — Your Entire Solo Business in One Notion Workspace (5 Databases, Pre-Loaded)",
+     "price": 2900,
+     "url": "https://simoabdel.gumroad.com/l/freelancer-second-brain-notion",
+     "summary": "Five connected Notion databases for clients, projects, invoices, pipeline and daily log that run your entire solo business from one workspace."
+    },
+    {
+     "name": "Marketing Skills Vault — Installable AI Marketing Skills for Claude (MIT-licensed collection, curated)",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/marketing-skills-vault",
+     "summary": "A curated vault of installable AI marketing skills for Claude Code with validation scripts — content strategy, SEO, copywriting, analytics and campaign planning in one pack."
+    }
+   ]
+  }
  },
  {
   "name": "Freelance Invoicing & Bookkeeping System | Payment Follow-Up Templates",
@@ -1417,7 +4424,38 @@
    "freelance taxes",
    "payments",
    "solopreneur"
-  ]
+  ],
+  "crosssell": {
+   "lane": "business_os",
+   "siblings": [
+    "1Jiaav2Y3Si55xqkzhaHhQ==",
+    "gi1DJ3eBN724xJzVDx5ZWg==",
+    "EvHU3txVE6_hFuqdX-rIhQ=="
+   ],
+   "bundle_or_cross": "bundle-business_os",
+   "member_sku": "business_os-member",
+   "status": "staged",
+   "sibling_objects": [
+    {
+     "name": "Seasonal Revenue Planning System - Smooth Income Swings",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/xmylu",
+     "summary": "Seasonal Revenue Planning System - forecast patterns, plan cash flow, price to smooth revenue."
+    },
+    {
+     "name": "Rate Increase Playbook - Templates & Scripts for Announcing Price Raises",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/hofnhx",
+     "summary": "Rate Increase Playbook - announcement frameworks, objection handlers and grandfathering scripts."
+    },
+    {
+     "name": "Burnout & Workload Rebalancing System",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/yoqxur",
+     "summary": "Burnout & Workload Rebalancing System - assessment, calculator, scripts and action plan."
+    }
+   ]
+  }
  },
  {
   "name": "Podcast to Shorts Repurposing System | Faceless True Crime Video Kit",
@@ -1431,7 +4469,38 @@
    "content repurposing",
    "faceless",
    "shorts"
-  ]
+  ],
+  "crosssell": {
+   "lane": "business_os",
+   "siblings": [
+    "1Jiaav2Y3Si55xqkzhaHhQ==",
+    "gi1DJ3eBN724xJzVDx5ZWg==",
+    "EvHU3txVE6_hFuqdX-rIhQ=="
+   ],
+   "bundle_or_cross": "bundle-business_os",
+   "member_sku": "business_os-member",
+   "status": "staged",
+   "sibling_objects": [
+    {
+     "name": "Seasonal Revenue Planning System - Smooth Income Swings",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/xmylu",
+     "summary": "Seasonal Revenue Planning System - forecast patterns, plan cash flow, price to smooth revenue."
+    },
+    {
+     "name": "Rate Increase Playbook - Templates & Scripts for Announcing Price Raises",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/hofnhx",
+     "summary": "Rate Increase Playbook - announcement frameworks, objection handlers and grandfathering scripts."
+    },
+    {
+     "name": "Burnout & Workload Rebalancing System",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/yoqxur",
+     "summary": "Burnout & Workload Rebalancing System - assessment, calculator, scripts and action plan."
+    }
+   ]
+  }
  },
  {
   "name": "30-Day Goal Journal Printable | Daily Affirmation & Mindset Planner",
@@ -1445,7 +4514,38 @@
    "mindset",
    "30 day challenge",
    "ai"
-  ]
+  ],
+  "crosssell": {
+   "lane": "trading",
+   "siblings": [
+    "B0GgpVww7_pP7aBcLg8W7Q==",
+    "1Jiaav2Y3Si55xqkzhaHhQ==",
+    "gi1DJ3eBN724xJzVDx5ZWg=="
+   ],
+   "bundle_or_cross": "B0GgpVww7_pP7aBcLg8W7Q==",
+   "member_sku": "trading-member",
+   "status": "staged",
+   "sibling_objects": [
+    {
+     "name": "The Trading Plan Architect — Write the Plan Your Future Self Cannot Argue With (Template Kit)",
+     "price": 4900,
+     "url": "https://simoabdel.gumroad.com/l/trading-plan-architect",
+     "summary": "A one-page trading plan kit with pre-market checklist, risk contract and trade scorecard that turns every session into a repeatable, documented process."
+    },
+    {
+     "name": "Seasonal Revenue Planning System - Smooth Income Swings",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/xmylu",
+     "summary": "Seasonal Revenue Planning System - forecast patterns, plan cash flow, price to smooth revenue."
+    },
+    {
+     "name": "Rate Increase Playbook - Templates & Scripts for Announcing Price Raises",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/hofnhx",
+     "summary": "Rate Increase Playbook - announcement frameworks, objection handlers and grandfathering scripts."
+    }
+   ]
+  }
  },
  {
   "name": "HVAC Service Agreement Templates & Renewal Tracker",
@@ -1459,7 +4559,38 @@
    "home services",
    "customer retention",
    "automation"
-  ]
+  ],
+  "crosssell": {
+   "lane": "general",
+   "siblings": [
+    "fpoHyOvFNqKj0iWwMDKXhQ==",
+    "UjLNR0S7QiWPgy4zxkmOAw==",
+    "XkZ9FcXq0P--pSpmXg6ouQ=="
+   ],
+   "bundle_or_cross": "fpoHyOvFNqKj0iWwMDKXhQ==",
+   "member_sku": null,
+   "status": "staged",
+   "sibling_objects": [
+    {
+     "name": "Scope Guard - Prevent Creep & Protect Profit",
+     "price": 2900,
+     "url": "https://simoabdel.gumroad.com/l/utglcg",
+     "summary": "Scope Guard - define scope, run change requests, stop unpaid labor."
+    },
+    {
+     "name": "Time Tracking & Rate Audit Kit",
+     "price": 2900,
+     "url": "https://simoabdel.gumroad.com/l/lnfyja",
+     "summary": "Time Tracking & Rate Audit Kit - track hours, audit rates, price on data."
+    },
+    {
+     "name": "Emergency Coverage Handoff Kit - Be Covered Before Crisis Hits",
+     "price": 2900,
+     "url": "https://simoabdel.gumroad.com/l/wyegdp",
+     "summary": "Emergency Coverage Handoff Kit - ready-to-use templates for solo operators."
+    }
+   ]
+  }
  },
  {
   "name": "Print Shop Management Notion Template | Screen Printing Production Tracker",
@@ -1473,7 +4604,38 @@
    "notion",
    "production system",
    "operations"
-  ]
+  ],
+  "crosssell": {
+   "lane": "general",
+   "siblings": [
+    "fpoHyOvFNqKj0iWwMDKXhQ==",
+    "UjLNR0S7QiWPgy4zxkmOAw==",
+    "XkZ9FcXq0P--pSpmXg6ouQ=="
+   ],
+   "bundle_or_cross": "fpoHyOvFNqKj0iWwMDKXhQ==",
+   "member_sku": null,
+   "status": "staged",
+   "sibling_objects": [
+    {
+     "name": "Scope Guard - Prevent Creep & Protect Profit",
+     "price": 2900,
+     "url": "https://simoabdel.gumroad.com/l/utglcg",
+     "summary": "Scope Guard - define scope, run change requests, stop unpaid labor."
+    },
+    {
+     "name": "Time Tracking & Rate Audit Kit",
+     "price": 2900,
+     "url": "https://simoabdel.gumroad.com/l/lnfyja",
+     "summary": "Time Tracking & Rate Audit Kit - track hours, audit rates, price on data."
+    },
+    {
+     "name": "Emergency Coverage Handoff Kit - Be Covered Before Crisis Hits",
+     "price": 2900,
+     "url": "https://simoabdel.gumroad.com/l/wyegdp",
+     "summary": "Emergency Coverage Handoff Kit - ready-to-use templates for solo operators."
+    }
+   ]
+  }
  },
  {
   "name": "Notion Business Dashboard Template — All-in-One CRM & Ops OS",
@@ -1487,7 +4649,38 @@
    "operations",
    "business dashboard",
    "all in one"
-  ]
+  ],
+  "crosssell": {
+   "lane": "business_os",
+   "siblings": [
+    "1Jiaav2Y3Si55xqkzhaHhQ==",
+    "gi1DJ3eBN724xJzVDx5ZWg==",
+    "EvHU3txVE6_hFuqdX-rIhQ=="
+   ],
+   "bundle_or_cross": "bundle-business_os",
+   "member_sku": "business_os-member",
+   "status": "staged",
+   "sibling_objects": [
+    {
+     "name": "Seasonal Revenue Planning System - Smooth Income Swings",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/xmylu",
+     "summary": "Seasonal Revenue Planning System - forecast patterns, plan cash flow, price to smooth revenue."
+    },
+    {
+     "name": "Rate Increase Playbook - Templates & Scripts for Announcing Price Raises",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/hofnhx",
+     "summary": "Rate Increase Playbook - announcement frameworks, objection handlers and grandfathering scripts."
+    },
+    {
+     "name": "Burnout & Workload Rebalancing System",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/yoqxur",
+     "summary": "Burnout & Workload Rebalancing System - assessment, calculator, scripts and action plan."
+    }
+   ]
+  }
  },
  {
   "name": "Real Estate Agent Email Templates & AI Prompts (200+ Scripts)",
@@ -1501,7 +4694,38 @@
    "email templates",
    "lead follow up",
    "listings"
-  ]
+  ],
+  "crosssell": {
+   "lane": "ai_skills",
+   "siblings": [
+    "jMr8b0bRNPa2bgwr7AWqcw==",
+    "nN132GFkMyxBoY-7uj_NWQ==",
+    "p2RWGlk1oUyRL0RYjz5-gw=="
+   ],
+   "bundle_or_cross": "bundle-ai_skills",
+   "member_sku": "ai_skills-member",
+   "status": "staged",
+   "sibling_objects": [
+    {
+     "name": "The Solo Operator Capacity & Sustainability Bundle: Know Your Limits, Protect Your Time",
+     "price": 6400,
+     "url": "https://simoabdel.gumroad.com/l/gkjiq",
+     "summary": "5 complete kits: burnout rebalancing, time and rate audit, seasonal revenue planning, waitlist management, subcontractor delegation."
+    },
+    {
+     "name": "The Freelancer Second Brain — Your Entire Solo Business in One Notion Workspace (5 Databases, Pre-Loaded)",
+     "price": 2900,
+     "url": "https://simoabdel.gumroad.com/l/freelancer-second-brain-notion",
+     "summary": "Five connected Notion databases for clients, projects, invoices, pipeline and daily log that run your entire solo business from one workspace."
+    },
+    {
+     "name": "Marketing Skills Vault — Installable AI Marketing Skills for Claude (MIT-licensed collection, curated)",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/marketing-skills-vault",
+     "summary": "A curated vault of installable AI marketing skills for Claude Code with validation scripts — content strategy, SEO, copywriting, analytics and campaign planning in one pack."
+    }
+   ]
+  }
  },
  {
   "name": "ADHD Planner & Energy-Based Task System",
@@ -1515,7 +4739,38 @@
    "neurodivergent",
    "task system",
    "adhd planner"
-  ]
+  ],
+  "crosssell": {
+   "lane": "business_os",
+   "siblings": [
+    "1Jiaav2Y3Si55xqkzhaHhQ==",
+    "gi1DJ3eBN724xJzVDx5ZWg==",
+    "EvHU3txVE6_hFuqdX-rIhQ=="
+   ],
+   "bundle_or_cross": "bundle-business_os",
+   "member_sku": "business_os-member",
+   "status": "staged",
+   "sibling_objects": [
+    {
+     "name": "Seasonal Revenue Planning System - Smooth Income Swings",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/xmylu",
+     "summary": "Seasonal Revenue Planning System - forecast patterns, plan cash flow, price to smooth revenue."
+    },
+    {
+     "name": "Rate Increase Playbook - Templates & Scripts for Announcing Price Raises",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/hofnhx",
+     "summary": "Rate Increase Playbook - announcement frameworks, objection handlers and grandfathering scripts."
+    },
+    {
+     "name": "Burnout & Workload Rebalancing System",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/yoqxur",
+     "summary": "Burnout & Workload Rebalancing System - assessment, calculator, scripts and action plan."
+    }
+   ]
+  }
  },
  {
   "name": "Therapist SOAP Note Templates & Private Practice Documentation System",
@@ -1529,7 +4784,38 @@
    "private practice",
    "practice management",
    "billing templates"
-  ]
+  ],
+  "crosssell": {
+   "lane": "business_os",
+   "siblings": [
+    "1Jiaav2Y3Si55xqkzhaHhQ==",
+    "gi1DJ3eBN724xJzVDx5ZWg==",
+    "EvHU3txVE6_hFuqdX-rIhQ=="
+   ],
+   "bundle_or_cross": "bundle-business_os",
+   "member_sku": "business_os-member",
+   "status": "staged",
+   "sibling_objects": [
+    {
+     "name": "Seasonal Revenue Planning System - Smooth Income Swings",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/xmylu",
+     "summary": "Seasonal Revenue Planning System - forecast patterns, plan cash flow, price to smooth revenue."
+    },
+    {
+     "name": "Rate Increase Playbook - Templates & Scripts for Announcing Price Raises",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/hofnhx",
+     "summary": "Rate Increase Playbook - announcement frameworks, objection handlers and grandfathering scripts."
+    },
+    {
+     "name": "Burnout & Workload Rebalancing System",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/yoqxur",
+     "summary": "Burnout & Workload Rebalancing System - assessment, calculator, scripts and action plan."
+    }
+   ]
+  }
  },
  {
   "name": "ChatGPT Prompt Pack for Business | Reusable AI Prompt Templates",
@@ -1543,7 +4829,38 @@
    "chatgpt prompts",
    "business prompts",
    "prompt pack"
-  ]
+  ],
+  "crosssell": {
+   "lane": "ai_skills",
+   "siblings": [
+    "jMr8b0bRNPa2bgwr7AWqcw==",
+    "nN132GFkMyxBoY-7uj_NWQ==",
+    "p2RWGlk1oUyRL0RYjz5-gw=="
+   ],
+   "bundle_or_cross": "bundle-ai_skills",
+   "member_sku": "ai_skills-member",
+   "status": "staged",
+   "sibling_objects": [
+    {
+     "name": "The Solo Operator Capacity & Sustainability Bundle: Know Your Limits, Protect Your Time",
+     "price": 6400,
+     "url": "https://simoabdel.gumroad.com/l/gkjiq",
+     "summary": "5 complete kits: burnout rebalancing, time and rate audit, seasonal revenue planning, waitlist management, subcontractor delegation."
+    },
+    {
+     "name": "The Freelancer Second Brain — Your Entire Solo Business in One Notion Workspace (5 Databases, Pre-Loaded)",
+     "price": 2900,
+     "url": "https://simoabdel.gumroad.com/l/freelancer-second-brain-notion",
+     "summary": "Five connected Notion databases for clients, projects, invoices, pipeline and daily log that run your entire solo business from one workspace."
+    },
+    {
+     "name": "Marketing Skills Vault — Installable AI Marketing Skills for Claude (MIT-licensed collection, curated)",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/marketing-skills-vault",
+     "summary": "A curated vault of installable AI marketing skills for Claude Code with validation scripts — content strategy, SEO, copywriting, analytics and campaign planning in one pack."
+    }
+   ]
+  }
  },
  {
   "name": "Claude Code Slash Commands | 50 Business Automation Workflows",
@@ -1557,6 +4874,37 @@
    "ai workflows",
    "freelance",
    "automation"
-  ]
+  ],
+  "crosssell": {
+   "lane": "ai_skills",
+   "siblings": [
+    "jMr8b0bRNPa2bgwr7AWqcw==",
+    "nN132GFkMyxBoY-7uj_NWQ==",
+    "p2RWGlk1oUyRL0RYjz5-gw=="
+   ],
+   "bundle_or_cross": "bundle-ai_skills",
+   "member_sku": "ai_skills-member",
+   "status": "staged",
+   "sibling_objects": [
+    {
+     "name": "The Solo Operator Capacity & Sustainability Bundle: Know Your Limits, Protect Your Time",
+     "price": 6400,
+     "url": "https://simoabdel.gumroad.com/l/gkjiq",
+     "summary": "5 complete kits: burnout rebalancing, time and rate audit, seasonal revenue planning, waitlist management, subcontractor delegation."
+    },
+    {
+     "name": "The Freelancer Second Brain — Your Entire Solo Business in One Notion Workspace (5 Databases, Pre-Loaded)",
+     "price": 2900,
+     "url": "https://simoabdel.gumroad.com/l/freelancer-second-brain-notion",
+     "summary": "Five connected Notion databases for clients, projects, invoices, pipeline and daily log that run your entire solo business from one workspace."
+    },
+    {
+     "name": "Marketing Skills Vault — Installable AI Marketing Skills for Claude (MIT-licensed collection, curated)",
+     "price": 1900,
+     "url": "https://simoabdel.gumroad.com/l/marketing-skills-vault",
+     "summary": "A curated vault of installable AI marketing skills for Claude Code with validation scripts — content strategy, SEO, copywriting, analytics and campaign planning in one pack."
+    }
+   ]
+  }
  }
 ]
