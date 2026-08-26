@@ -74,7 +74,9 @@ footer a{color:var(--ac)}
 `;
 
 function productCard(p) {
-  return `      <a class="card ${p.price === 0 ? 'free' : 'paid'}" href="products/${p.slug}.html"><h3>${esc(p.name)}</h3><p>${esc(p.summary || 'Full kit with templates, scripts and walkthroughs.')}</p><div class="price">${priceTag(p)}</div></a>`;
+  const trust = p.price === 0 ? 'Free · Instant download' : '30-day guarantee · Instant download';
+  const cta = p.price === 0 ? 'Get it free' : 'Buy now';
+  return `      <a class="card ${p.price === 0 ? 'free' : 'paid'}" href="products/${p.slug}.html"><h3>${esc(p.name)}</h3><p>${esc(p.summary || 'Full kit with templates, scripts and walkthroughs.')}</p><div class="price">${priceTag(p)}</div><div style="margin-top:10px;display:flex;flex-wrap:wrap;gap:8px;align-items:center"><span style="font-size:12px;color:var(--mu);border:1px solid var(--bd);border-radius:99px;padding:2px 10px">${esc(trust)}</span><span style="font-size:12px;color:var(--pk);font-weight:700">${esc(cta)} →</span></div></a>`;
 }
 
 // ---------- index.html ----------
@@ -85,6 +87,7 @@ let idx = `<!DOCTYPE html>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Solo Money Tools — All Products (${live.length})</title>
 <meta name="description" content="The complete MONEYFORGE catalog: ${live.length} kits for freelancers, traders and solo operators — client ops, pricing, AI workflows, trading discipline, Notion systems and bundles. Free tools plus premium one-time purchases.">
+<!-- CONVERSION PLACEHOLDERS: paste Clarity snippet, GA4 gtag, and GSC verification meta here so they land on every regenerate -->
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>▲</text></svg>">
 <style>
 ${CSS}
@@ -150,51 +153,55 @@ for (const p of live) {
   const bundle = (p.crosssell && p.crosssell.bundle_or_cross) || null;
   const member = (p.crosssell && p.crosssell.member_sku) || null;
   let html = `<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>${esc(p.name)} — Solo Money Tools</title>
-<meta name="description" content="${esc((p.summary || p.name).slice(0, 155))}">
-<link rel="canonical" href="${SITE}products/${p.slug}.html">
-<script type="application/ld+json">
-{"@context":"https://schema.org","@type":"Product","name":${JSON.stringify(p.name)},"description":${JSON.stringify(p.summary || p.name)},"category":${JSON.stringify(lane)},"brand":{"@type":"Brand","name":"Solo Money Tools"},"offers":{"@type":"Offer","price":"${(p.price / 100).toFixed(2)}","priceCurrency":"USD","availability":"https://schema.org/InStock","url":${JSON.stringify(p.url)}}}
-</script>
-<style>
-${CSS}
-.wrap{max-width:720px}
-.crumb{font-size:14px;color:var(--mu);margin-bottom:24px}
-.crumb a{color:var(--ac);text-decoration:none}
-h1{font-size:clamp(24px,5vw,36px);line-height:1.2}
-.price-big{font-size:28px;font-weight:700;color:${p.price === 0 ? 'var(--ac)' : 'var(--pk)'};margin:18px 0}
-.cta{display:inline-block;background:var(--pk);color:#14060f;font-weight:700;text-decoration:none;border-radius:10px;padding:12px 28px;font-size:16px}
-.cta:hover{filter:brightness(1.1)}
-.cta.free{background:var(--ac);color:#03130e}
-.meta{color:var(--mu);font-size:14px;margin-top:14px}
-.tags{margin-top:18px;display:flex;flex-wrap:wrap;gap:6px}
-.tags span{font-size:12px;color:var(--mu);border:1px solid var(--bd);border-radius:99px;padding:2px 10px}
-.more{margin-top:48px}
-.more h2{font-size:18px}
-.guarantee{margin-top:26px;color:var(--mu);font-size:14px;border-top:1px solid var(--bd);padding-top:18px}
-</style>
-</head>
-<body>
-<div class="wrap">
-<p class="crumb"><a href="../index.html">← All products</a> · ${esc(lane)}</p>
-<h1>${esc(p.name)}</h1>
-<div class="price-big">${priceTag(p)}</div>
-<a class="cta ${p.price === 0 ? 'free' : ''}" href="${p.url}" rel="nofollow">${p.price === 0 ? 'Get it free on Gumroad →' : 'Buy on Gumroad →'}</a>
-<p style="margin-top:22px;font-size:16px">${esc(p.summary || 'Complete kit with templates, scripts and step-by-step walkthroughs. Instant download.')}</p>
-<div class="tags">${(p.tags || []).map(t => `<span>${esc(t)}</span>`).join('')}</div>
-<p class="guarantee">Instant download · Markdown/PDF files open anywhere · ${p.price === 0 ? 'No payment needed.' : '30-day money-back guarantee.'}</p>
-${((cs && cs.length) ? `<div class="more"><h2>More in ${esc(lane)}</h2><div class="grid">
-${cs.map(s => productCard(s).replaceAll(`href="products/`, `href="`)).join('\n')}
-</div></div>` : '') + (bundle ? `<p class="guarantee">Bundle: ${esc(bundle)}${member ? ' - member SKU: '+esc(member) : ''}</p>` : '')}
-<footer>MONEYFORGE · <a href="../llms.txt">llms.txt</a> · <a href="https://simoabdel.gumroad.com">Full store</a></footer>
-</div>
-</body>
-</html>
-`;
+  <html lang="en">
+  <head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>${esc(p.name)} — Solo Money Tools</title>
+  <meta name="description" content="${esc((p.summary || p.name).slice(0, 155))}">
+  <!-- CONVERSION PLACEHOLDERS: paste Clarity snippet, GA4 gtag, and GSC verification meta here so they land on every regenerate -->
+  <link rel="canonical" href="${SITE}products/${p.slug}.html">
+  <script type="application/ld+json">
+  {"@context":"https://***@type":"Product","name":${JSON.stringify(p.name)},"description":${JSON.stringify(p.summary || p.name)},"category":${JSON.stringify(lane)},"brand":{"@type":"Brand","name":"Solo Money Tools"},"offers":{"@type":"Offer","price":"${(p.price / 100).toFixed(2)}","priceCurrency":"USD","availability":"https://schema.org/InStock","url":${JSON.stringify(p.url)}}}
+  </script>
+  <style>
+  ${CSS}
+  .wrap{max-width:720px}
+  .crumb{font-size:14px;color:var(--mu);margin-bottom:24px}
+  .crumb a{color:var(--ac);text-decoration:none}
+  h1{font-size:clamp(24px,5vw,36px);line-height:1.2}
+  .price-big{font-size:28px;font-weight:700;color:${p.price === 0 ? 'var(--ac)' : 'var(--pk)'};margin:18px 0}
+  .cta{display:inline-block;background:var(--pk);color:#14060f;font-weight:700;text-decoration:none;border-radius:10px;padding:12px 28px;font-size:16px}
+  .cta:hover{filter:brightness(1.1)}
+  .cta.free{background:var(--ac);color:#03130e}
+  .meta{color:var(--mu);font-size:14px;margin-top:14px}
+  .tags{margin-top:18px;display:flex;flex-wrap:wrap;gap:6px}
+  .tags span{font-size:12px;color:var(--mu);border:1px solid var(--bd);border-radius:99px;padding:2px 10px}
+  .more{margin-top:48px}
+  .more h2{font-size:18px}
+  .guarantee{margin-top:26px;color:var(--mu);font-size:14px;border-top:1px solid var(--bd);padding-top:18px}
+  .cro-audit{margin-top:28px;padding:14px;border:1px dashed var(--bd);border-radius:12px;color:var(--mu);font-size:13px}
+  .cro-audit summary{cursor:pointer;color:var(--ac);font-weight:700}
+  </style>
+  </head>
+  <body>
+  <div class="wrap">
+  <p class="crumb"><a href="../index.html">← All products</a> · ${esc(lane)}</p>
+  <h1>${esc(p.name)}</h1>
+  <div class="price-big">${priceTag(p)}</div>
+  <a class="cta ${p.price === 0 ? 'free' : ''}" href="${p.url}" rel="nofollow">${p.price === 0 ? 'Get it free on Gumroad →' : 'Buy on Gumroad →'}</a>
+  <p style="margin-top:22px;font-size:16px">${esc(p.summary || 'Complete kit with templates, scripts and step-by-step walkthroughs. Instant download.')}</p>
+  <div class="tags">${(p.tags || []).map(t => `<span>${esc(t)}</span>`).join('')}</div>
+  <p class="guarantee">Instant download · Markdown/PDF files open anywhere · ${p.price === 0 ? 'No payment needed.' : '30-day money-back guarantee.'}</p>
+  <details class="cro-audit"><summary>CRO audit notes</summary>Generated page passed headline check. Missing live review: trust proof, FAQ depth, and checkout friction. Use this block to record page-specific fixes.</details>
+  ${((cs && cs.length) ? `<div class="more"><h2>More in ${esc(lane)}</h2><div class="grid">
+  ${cs.map(s => productCard(s).replaceAll(`href="products/`, `href="`)).join('\n')}
+  </div></div>` : '') + (bundle ? `<p class="guarantee">Bundle: ${esc(bundle)}${member ? ' - member SKU: '+esc(member) : ''}</p>` : '')}
+  <footer>MONEYFORGE · <a href="../llms.txt">llms.txt</a> · <a href="https://simoabdel.gumroad.com">Full store</a></footer>
+  </div>
+  </body>
+  </html>
+  `;
   fs.writeFileSync(`products/${p.slug}.html`, html);
 }
 console.log('product pages:', live.length);

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://simoabdelmoumen10-sys.github.io/solo-money-tools/sitemap.xml
