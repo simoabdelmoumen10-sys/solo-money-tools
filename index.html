@@ -34,6 +34,19 @@ footer a{color:var(--ac)}
 .lanenav a{font-size:13px;color:var(--mu);text-decoration:none;border:1px solid var(--bd);border-radius:99px;padding:4px 12px}
 .lanenav a:hover{color:var(--ac);border-color:var(--ac)}
 .count{color:var(--mu);font-weight:400;font-size:14px;margin-left:auto}
+.hero-actions{display:flex;flex-wrap:wrap;gap:10px;justify-content:center;margin-top:24px}
+.btn{display:inline-block;border-radius:10px;padding:11px 16px;text-decoration:none;font-weight:700;font-size:14px;border:1px solid var(--bd)}
+.btn.primary{background:var(--ac);color:#07120f;border-color:var(--ac)}
+.btn.secondary{color:var(--tx);background:var(--card)}
+.start-here{margin-top:34px;background:linear-gradient(135deg,#111b2a,#101722);border:1px solid var(--bd);border-radius:18px;padding:24px}
+.start-here h2{margin-top:0;font-size:20px}
+.start-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:12px;margin-top:14px}
+.start-card{display:flex;flex-direction:column;gap:7px;background:#0c121c;border:1px solid var(--bd);border-radius:12px;padding:16px;color:var(--tx);text-decoration:none}
+.start-card:hover{border-color:var(--ac);transform:translateY(-2px)}
+.start-card strong{font-size:15px}
+.start-card span{color:var(--mu);font-size:13px}
+.start-card em{font-style:normal;color:var(--ac);font-size:13px;font-weight:700;margin-top:auto}
+@media (max-width:640px){.wrap{padding-left:14px;padding-right:14px}.start-here{padding:18px}.btn{width:100%;text-align:center}}
 
 </style>
 </head>
@@ -41,8 +54,12 @@ footer a{color:var(--ac)}
 <div class="wrap">
 <header>
   <div class="kicker">MONEYFORGE · Solo Money Tools</div>
-  <h1>The complete catalog.</h1>
-  <p class="sub">Every kit we ship, in one place: 108 products across 11 lanes — built by a one-person company running on AI agents. Offline-first files, no accounts, no tracking, 30-day guarantee on everything paid.</p>
+  <h1>Practical systems to win clients, get paid faster, and run cleaner.</h1>
+  <p class="sub">108 offline-first tools for freelancers, solo operators, traders, and local-service owners. Start with a free tool, solve one bottleneck, or run the whole stack—no account, no tracking, 30-day guarantee on paid kits.</p>
+  <div class="hero-actions">
+    <a class="btn primary" href="#free-apps">Start with 9 free tools</a>
+    <a class="btn secondary" href="https://simoabdel.gumroad.com">Browse paid kits ↗</a>
+  </div>
   <nav class="lanenav">
     <a href="#freelance-client-ops">Freelance &amp; Client Ops</a>
     <a href="#pricing-money">Pricing &amp; Money</a>
@@ -57,6 +74,14 @@ footer a{color:var(--ac)}
     <a href="#planning-life-ops">Planning &amp; Life Ops</a>
   </nav>
 </header>
+<section class="start-here" aria-labelledby="start-here-title">
+  <h2 id="start-here-title">Choose your starting point</h2>
+  <div class="start-grid">
+    <a class="start-card" href="#free-apps"><strong>Start free</strong><span>Try the 9 offline tools before you buy anything.</span><em>Explore free tools →</em></a>
+    <a class="start-card" href="#freelance-client-ops"><strong>Fix one bottleneck</strong><span>Pick a focused system for clients, pricing, outreach, or operations.</span><em>Browse focused kits →</em></a>
+    <a class="start-card" href="#bundles"><strong>Run the whole stack</strong><span>Choose a bundle when you want the complete workflow in one place.</span><em>See bundles →</em></a>
+  </div>
+</section>
 <h2 id="free-apps">Free installable apps <span class="tag">PWA · OFFLINE</span> <span class="count">9 apps</span></h2>
 <div class="grid">
   <a class="card free" href="traders-risk-journal/"><h3>Trader's Risk & Journal OS</h3><p>Position sizer, trade journal, equity curve, profit-factor stats. Your data never leaves your device.</p><div class="price">FREE → $79 full kit</div></a>
