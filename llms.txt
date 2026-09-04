@@ -14,152 +14,146 @@
 - [Rate Checker](https://simoabdelmoumen10-sys.github.io/solo-money-tools/rate-checker/): your real minimum hourly rate after taxes, expenses and non-billable time.
 - [Habit Tracker](https://simoabdelmoumen10-sys.github.io/solo-money-tools/habit-tracker/): streak logic built for real life, not perfect people.
 
-## Premium catalog (108 products, https://simoabdel.gumroad.com)
+## Premium catalog (108 products, https://aitoolsos.gumroad.com)
 
 ### Freelance & Client Ops
 
-- [Scope Guard ($29)](https://simoabdel.gumroad.com/l/utglcg): Scope Guard - define scope, run change requests, stop unpaid labor.
-- [Difficult Client Conversations ($27)](https://simoabdel.gumroad.com/l/ohltf): Difficult Client Conversations - 7 frameworks + 20 ready-to-adapt scripts.
-- [The Hard Conversations Suite: 6 Complete Kits for Every Uncomfortable Client Moment ($83)](https://simoabdel.gumroad.com/l/uwtfhs): 6 complete kits: difficult conversations, scope guard, price objections, client exit, payment terms, invoice system.
-- [The House Cleaning Business OS ($129)](https://simoabdel.gumroad.com/l/house-cleaning-business-os): Start a residential cleaning business with pricing scripts, first-30-client acquisition templates, intake checklists, and quote scripts that get you booked fast
-- [Client Onboarding OS ($24)](https://simoabdel.gumroad.com/l/client-onboarding-os-notion): A 14-step Notion client onboarding system with email sequences and setup docs that turns new client chaos into a repeatable, firm-grade experience.
-- [The Freelancer Second Brain ($29)](https://simoabdel.gumroad.com/l/freelancer-second-brain-notion): Five connected Notion databases for clients, projects, invoices, pipeline and daily log that run your entire solo business from one workspace.
-- [Client Acquisition System for Agencies ($199)](https://simoabdel.gumroad.com/l/client-acquisition-system-agencies): An agency client acquisition system covering onboarding, retention, renewals, and lead management without losing boundaries.
-- [The Sales Pipeline Bundle: From Cold Research to Signed Client, Every Step Scripted ($44)](https://simoabdel.gumroad.com/l/sales-pipeline-bundle): The Sales Pipeline Bundle: From Cold Research to Signed Client, Every Step Scripted
-- [The Retention & Renewal Suite: Keep Clients, Win Back the Quiet Ones, Prove Your Worth at Renewal ($81)](https://simoabdel.gumroad.com/l/retention-and-renewal-suite): The Retention & Renewal Suite: Keep Clients, Win Back the Quiet Ones, Prove Your Worth at Renewal
-- [The Proof & Referral Bundle: Turn Finished Work Into Testimonials, Case Studies, and New Clients ($45)](https://simoabdel.gumroad.com/l/proof-and-referral-bundle): The Proof & Referral Bundle: Turn Finished Work Into Testimonials, Case Studies, and New Clients
-- [The Client Relationship Ops Bundle: Keep Clients Informed, On-Track, and Buying More ($34)](https://simoabdel.gumroad.com/l/client-relationship-ops-bundle): The Client Relationship Ops Bundle: Keep Clients Informed, On-Track, and Buying More
-- [The Client Acquisition to Kickoff Bundle: From First Call to First Day, Fully Scripted ($53)](https://simoabdel.gumroad.com/l/client-acquisition-to-kickoff-bundle): The Client Acquisition to Kickoff Bundle: From First Call to First Day, Fully Scripted
-- [AI Automation Agency Starter Kit ($47)](https://simoabdel.gumroad.com/l/ai-automation-agency-starter-kit): AI Automation Agency Starter Kit — 5 Ready-to-Import Workflows, Pricing System and Client Docs
-- [Freelancer Freedom OS ($49)](https://simoabdel.gumroad.com/l/freelancer-freedom-os): The complete library of business systems for freelancers - templates, scripts, contracts, pricing and workflows. Starter $49 / Pro $89 / Freedom $149.
-- [Claude Code Freelancer Skills (FREE)](https://simoabdel.gumroad.com/l/claude-freelancer-skills): 5 ready-to-install Claude Code skills that handle proposals, invoices and client updates. MIT licensed.
-- [Freelancer Income Tracker (FREE)](https://simoabdel.gumroad.com/l/freelancer-income-tracker): Plan irregular freelance income with a rolling average, baseline salary, tax buffer, and runway—private, offline, and free to try.
-- [ADHD Freelancer Daily Dashboard (FREE)](https://simoabdel.gumroad.com/l/adhd-freelancer-dashboard): An ADHD freelancer daily dashboard with a one-task-at-a-time planner, weekly reset, and client scripts for emails you keep avoiding.
-- [Contract Renewal Playbook ($19)](https://simoabdel.gumroad.com/l/contract-renewal-playbook): The 30-day sequence that turns an ending contract into a renewed one, including the emails and the pricing conversation.
-- [Client Value Audit & Tier Management System ($19)](https://simoabdel.gumroad.com/l/client-value-audit-tier-system): Work out which clients actually pay for themselves, tier them, and let the bottom go without burning the relationship.
-- [Upsell & Cross-Sell Conversation Scripts for Solo Providers ($9)](https://simoabdel.gumroad.com/l/client-upsell-cross-sell-scripts): Word-for-word conversations that raise an existing client's spend without making you sound like a salesperson.
-- [Client Status Update Templates & Communication Cadence Kit ($19)](https://simoabdel.gumroad.com/l/client-status-updates-kit): Status updates that stop the 'any news?' email, plus the cadence to send them on.
-- [Client Goals & Progress Tracking System ($19)](https://simoabdel.gumroad.com/l/client-goals-progress-tracking-system): Set client goals you can prove you hit, and track them so renewal becomes an easy conversation.
-- [Client Feedback & Review Collection Kit ($9)](https://simoabdel.gumroad.com/l/client-feedback-collection-kit): The ask, the timing and the follow-up that turn finished work into testimonials and referrals.
-- [Client Exit Playbook: How to End Relationships Professionally ($19)](https://simoabdel.gumroad.com/l/client-exit-playbook): End a client relationship professionally, keep the reference, and protect the final invoice.
-- [Client Capacity & Waitlist Management Playbook ($19)](https://simoabdel.gumroad.com/l/capacity-waitlist-management-kit): Stop saying yes to work you cannot deliver. Capacity maths plus the waitlist scripts that keep demand warm.
-- [Cold Email Templates for Freelancers (FREE)](https://simoabdel.gumroad.com/l/lsfysx): A free starter set of cold emails that get replies. Copy, paste, send today.
-- [Client Boundary Scripts for Freelancers ($5)](https://simoabdel.gumroad.com/l/mfyhyk): Say no to scope creep, late payments and weekend messages without losing the client.
-- [Client Onboarding Templates for Freelancers (FREE)](https://simoabdel.gumroad.com/l/unoztx): A free onboarding kit that makes your first week with a client look expensive.
-- [Freelance Invoice Templates & Payment Terms ($7)](https://simoabdel.gumroad.com/l/tueqgn): Invoices and payment terms designed to get you paid faster, with the chase sequence for when they are not.
-- [Personal Brand Positioning Workbook for Consultants & Freelancers ($19)](https://simoabdel.gumroad.com/l/authority-positioning-kit-service-business): Work out what you are actually known for, then say it in one sentence that wins work.
-- [High-Ticket Outreach System ($47)](https://simoabdel.gumroad.com/l/high-ticket-outreach-system): High-Ticket Outreach System — A Repeatable Process for Landing Larger Clients
-- [Subcontractor Hiring & Delegation SOPs for Service Businesses ($19)](https://simoabdel.gumroad.com/l/subcontractor-delegation-playbook): Hire and brief subcontractors without the work coming back worse than if you had done it yourself.
-- [Freelance Contract Templates | Client Agreement & Scope of Work ($24)](https://simoabdel.gumroad.com/l/service-agreement-essentials): Client agreements and scope documents that prevent the argument before it starts.
-- [Retainer Proposal Templates | Turn Project Clients Into Recurring Revenue ($19)](https://simoabdel.gumroad.com/l/retainer-conversion-playbook): The proposal that turns a one-off project client into monthly recurring revenue.
-- [Client Referral System & Referral Request Email Templates ($19)](https://simoabdel.gumroad.com/l/referral-playbook): A repeatable way to ask for referrals, with the emails and the timing that make it work.
-- [Client Kickoff Meeting Agenda & Scope of Work Templates ($19)](https://simoabdel.gumroad.com/l/project-kickoff-meeting-kit): Run a kickoff that settles scope, expectations and payment terms in a single meeting.
-- [Freelancer Workload Audit & Capacity Planning Workbook ($19)](https://simoabdel.gumroad.com/l/burnout-workload-rebalancing): Find out where your week actually goes, then plan capacity you can deliver on.
-- [Solopreneur Business System | Complete Freelance Operations Bundle ($24)](https://simoabdel.gumroad.com/l/solo-operator-os-bundle): Notion business OS, a task system built for ADHD brains, a 30-day journal and 50 revenue workflows.
-- [Freelancer Client Operations Bundle | Invoicing, Onboarding & Proposals ($14)](https://simoabdel.gumroad.com/l/freelancer-client-ops-suite): The whole client cycle in one pack: outreach, qualifying, onboarding, invoicing. Four systems, one price.
-- [AI WhatsApp Coach for Small Business | Automated Client Follow-Ups on WhatsApp (FREE)](https://simoabdel.gumroad.com/l/ai-whatsapp-coach-starter-lite): An AI coach on your clients' WhatsApp. Photo food analysis and form cues, under your brand.
-- [AI Fitness Coaching Business Bundle | Sales Kit, Contracts & Assessments ($19)](https://simoabdel.gumroad.com/l/ai-coaching-business-bundle): The sales kit and the interactive asset pack together. Everything to sell coaching and deliver it.
-- [Fitness Coaching Sales Kit | Pitch Deck, Contracts & Client Onboarding ($14)](https://simoabdel.gumroad.com/l/coaching-sales-kit-contracts): Contracts, pitch deck and client templates. Stop rebuilding your pitch for every lead.
-- [AI WhatsApp Coach for Fitness Businesses | Client Retention & Booking Automation (FREE)](https://simoabdel.gumroad.com/l/ai-whatsapp-coach-fitness-business): White-label AI WhatsApp coach for fitness businesses. Your brand, your clients, your pricing.
-- [Cold Outreach Scripts for Freelancers | Client Acquisition Email Templates ($9)](https://simoabdel.gumroad.com/l/cold-email-templates-freelancers): 50+ cold outreach templates that start real conversations. Personalize each in 5 minutes.
-- [Client Brief Templates & Project Intake Questionnaire ($19)](https://simoabdel.gumroad.com/l/client-brief-template-freelance): Onboarding checklist, welcome emails, project agreement and AI intake prompts. Kill scope creep.
-- [Freelance Invoicing & Bookkeeping System | Payment Follow-Up Templates ($19)](https://simoabdel.gumroad.com/l/freelance-invoicing-payment-templates): Invoice, track and chase payments without the awkwardness. One payment, no subscription.
+- [Seasonal Revenue Planning System ($19)](https://aitoolsos.gumroad.com): Seasonal Revenue Planning System - forecast patterns, plan cash flow, price to smooth revenue.
+- [Rate Increase Playbook ($19)](https://aitoolsos.gumroad.com): Rate Increase Playbook - announcement frameworks, objection handlers and grandfathering scripts.
+- [Price Objection Scripts Kit ($27)](https://aitoolsos.gumroad.com): Price Objection Scripts Kit - 8 complete response scripts, direct + collaborative.
+- [Scope Guard ($29)](https://aitoolsos.gumroad.com): Scope Guard - define scope, run change requests, stop unpaid labor.
+- [Difficult Client Conversations ($27)](https://aitoolsos.gumroad.com): Difficult Client Conversations - 7 frameworks + 20 ready-to-adapt scripts.
+- [Time Tracking & Rate Audit Kit ($29)](https://aitoolsos.gumroad.com): Time Tracking & Rate Audit Kit - track hours, audit rates, price on data.
+- [Burnout & Workload Rebalancing System ($19)](https://aitoolsos.gumroad.com): Burnout & Workload Rebalancing System - assessment, calculator, scripts and action plan.
+- [Emergency Coverage Handoff Kit ($29)](https://aitoolsos.gumroad.com): Emergency Coverage Handoff Kit - ready-to-use templates for solo operators.
+- [Solo Vacation Handoff Kit ($19)](https://aitoolsos.gumroad.com): Solo Vacation Handoff Kit - ready-to-use templates for solo operators planning time away.
+- [The Solo Operator Capacity & Sustainability Bundle: Know Your Limits, Protect Your Time ($64)](https://aitoolsos.gumroad.com): 5 complete kits: burnout rebalancing, time and rate audit, seasonal revenue planning, waitlist management, subcontractor delegation.
+- [Solo Operator Continuity Bundle: Handoff Systems for Planned Time Off and Sudden Emergencies ($36)](https://aitoolsos.gumroad.com): 2 complete kits: vacation handoff templates + emergency coverage systems for solo operators.
+- [The Hard Conversations Suite: 6 Complete Kits for Every Uncomfortable Client Moment ($83)](https://aitoolsos.gumroad.com): 6 complete kits: difficult conversations, scope guard, price objections, client exit, payment terms, invoice system.
+- [The House Cleaning Business OS ($129)](https://aitoolsos.gumroad.com): Start a residential cleaning business with pricing scripts, first-30-client acquisition templates, intake checklists, and quote scripts that get you booked fast
+- [Client Onboarding OS ($24)](https://aitoolsos.gumroad.com): A 14-step Notion client onboarding system with email sequences and setup docs that turns new client chaos into a repeatable, firm-grade experience.
+- [Local SEO Audit Kit ($19)](https://aitoolsos.gumroad.com): A 28-point local SEO audit checklist for Google Business Profile, reviews, citations and competitor gaps — package it as a 00 visibility audit for local clients
+- [Content Creator OS ($29)](https://aitoolsos.gumroad.com): A 4-database Notion content OS with idea bank, publish calendar, repurpose log and content pillars so solo creators never face a blank calendar.
+- [The Trading Plan Architect ($49)](https://aitoolsos.gumroad.com): A one-page trading plan kit with pre-market checklist, risk contract and trade scorecard that turns every session into a repeatable, documented process.
+- [The Freelancer Second Brain ($29)](https://aitoolsos.gumroad.com): Five connected Notion databases for clients, projects, invoices, pipeline and daily log that run your entire solo business from one workspace.
+- [Trader's Risk & Journal OS ($79)](https://aitoolsos.gumroad.com): A PWA trading OS with position sizer, trade journal, performance stats and equity curve that fixes the mechanics killing most trading accounts.
+- [Marketing Skills Vault ($19)](https://aitoolsos.gumroad.com): A curated vault of installable AI marketing skills for Claude Code with validation scripts — content strategy, SEO, copywriting, analytics and campaign planning
+- [AI Agent Arsenal ($29)](https://aitoolsos.gumroad.com): 90 battle-tested plugin suites and 700+ Claude Code agent skills with revenue workflows, slash commands, and business automation prompts.
+- [Claude Code Revenue Pack ($19)](https://aitoolsos.gumroad.com): 50 revenue workflows installed as real Claude Code slash commands for content, sales, pricing, and growth automation.
+- [Financial Dashboard for Solopreneurs ($19)](https://aitoolsos.gumroad.com): A solopreneur financial dashboard for tracking revenue, margins, cash flow, and business metrics in one place.
+- [Client Acquisition System for Agencies ($199)](https://aitoolsos.gumroad.com): An agency client acquisition system covering onboarding, retention, renewals, and lead management without losing boundaries.
+- [Local Service SEO Automator ($49)](https://aitoolsos.gumroad.com): A local service SEO automator for pressure washing, detailing, landscaping, and other service businesses that need more local leads.
+- [Notion Template Builder Kit ($99)](https://aitoolsos.gumroad.com): A Notion template builder kit for creating second-brain systems, CRMs, and productivity workflows without starting from scratch.
+- [AI Service Business OS ($29)](https://aitoolsos.gumroad.com): An AI service business OS with SOPs, operations systems, and automation for scaling a service-based business.
+- [The Local Service Price Sheet: 24 Jobs, Real Rates, Ready to Quote ($19)](https://aitoolsos.gumroad.com): The Local Service Price Sheet: 24 Jobs, Real Rates, Ready to Quote
+- [Student Second Brain: A Notion System for Coursework, Deadlines and Revision ($29)](https://aitoolsos.gumroad.com): Student Second Brain: A Notion System for Coursework, Deadlines and Revision
+- [The Mobile Detailing Startup Kit: Price Your Packages and Fill Your First Month ($149)](https://aitoolsos.gumroad.com): The Mobile Detailing Startup Kit: Price Your Packages and Fill Your First Month
+- [The Household Operations Binder: Run Your Home Like a System, Not a Fire Drill ($39)](https://aitoolsos.gumroad.com): The Household Operations Binder: Run Your Home Like a System, Not a Fire Drill
+- [The Sales Pipeline Bundle: From Cold Research to Signed Client, Every Step Scripted ($44)](https://aitoolsos.gumroad.com/l/sales-pipeline-bundle): The Sales Pipeline Bundle: From Cold Research to Signed Client, Every Step Scripted
+- [The Retention & Renewal Suite: Keep Clients, Win Back the Quiet Ones, Prove Your Worth at Renewal ($81)](https://aitoolsos.gumroad.com/l/retention-and-renewal-suite): The Retention & Renewal Suite: Keep Clients, Win Back the Quiet Ones, Prove Your Worth at Renewal
+- [The Proof & Referral Bundle: Turn Finished Work Into Testimonials, Case Studies, and New Clients ($45)](https://aitoolsos.gumroad.com/l/proof-and-referral-bundle): The Proof & Referral Bundle: Turn Finished Work Into Testimonials, Case Studies, and New Clients
+- [The Client Relationship Ops Bundle: Keep Clients Informed, On-Track, and Buying More ($34)](https://aitoolsos.gumroad.com/l/client-relationship-ops-bundle): The Client Relationship Ops Bundle: Keep Clients Informed, On-Track, and Buying More
+- [The Client Acquisition to Kickoff Bundle: From First Call to First Day, Fully Scripted ($53)](https://aitoolsos.gumroad.com/l/client-acquisition-to-kickoff-bundle): The Client Acquisition to Kickoff Bundle: From First Call to First Day, Fully Scripted
+- [AI Automation Agency Starter Kit ($47)](https://aitoolsos.gumroad.com/l/ai-automation-agency-starter-kit): AI Automation Agency Starter Kit — 5 Ready-to-Import Workflows, Pricing System and Client Docs
+- [Freelancer Freedom OS ($49)](https://aitoolsos.gumroad.com/l/freelancer-freedom-os): The complete library of business systems for freelancers - templates, scripts, contracts, pricing and workflows. Starter $49 / Pro $89 / Freedom $149.
+- [Claude Code Freelancer Skills (FREE)](https://aitoolsos.gumroad.com/l/claude-freelancer-skills): 5 ready-to-install Claude Code skills that handle proposals, invoices and client updates. MIT licensed.
+- [Freelancer Income Tracker (FREE)](https://aitoolsos.gumroad.com/l/freelancer-income-tracker): Plan irregular freelance income with a rolling average, baseline salary, tax buffer, and runway—private, offline, and free to try.
+- [ADHD Freelancer Daily Dashboard (FREE)](https://aitoolsos.gumroad.com/l/adhd-freelancer-dashboard): An ADHD freelancer daily dashboard with a one-task-at-a-time planner, weekly reset, and client scripts for emails you keep avoiding.
+- [Contract Renewal Playbook ($19)](https://aitoolsos.gumroad.com/l/contract-renewal-playbook): The 30-day sequence that turns an ending contract into a renewed one, including the emails and the pricing conversation.
+- [Client Value Audit & Tier Management System ($19)](https://aitoolsos.gumroad.com/l/client-value-audit-tier-system): Work out which clients actually pay for themselves, tier them, and let the bottom go without burning the relationship.
+- [Upsell & Cross-Sell Conversation Scripts for Solo Providers ($9)](https://aitoolsos.gumroad.com/l/client-upsell-cross-sell-scripts): Word-for-word conversations that raise an existing client's spend without making you sound like a salesperson.
+- [Client Status Update Templates & Communication Cadence Kit ($19)](https://aitoolsos.gumroad.com/l/client-status-updates-kit): Status updates that stop the 'any news?' email, plus the cadence to send them on.
+- [Client Goals & Progress Tracking System ($19)](https://aitoolsos.gumroad.com/l/client-goals-progress-tracking-system): Set client goals you can prove you hit, and track them so renewal becomes an easy conversation.
+- [Client Feedback & Review Collection Kit ($9)](https://aitoolsos.gumroad.com/l/client-feedback-collection-kit): The ask, the timing and the follow-up that turn finished work into testimonials and referrals.
+- [Client Exit Playbook: How to End Relationships Professionally ($19)](https://aitoolsos.gumroad.com/l/client-exit-playbook): End a client relationship professionally, keep the reference, and protect the final invoice.
+- [Client Capacity & Waitlist Management Playbook ($19)](https://aitoolsos.gumroad.com/l/capacity-waitlist-management-kit): Stop saying yes to work you cannot deliver. Capacity maths plus the waitlist scripts that keep demand warm.
+- [Cold Email Templates for Freelancers (FREE)](https://aitoolsos.gumroad.com/l/cold-email-templates-free): A free starter set of cold emails that get replies. Copy, paste, send today.
+- [Client Boundary Scripts for Freelancers ($5)](https://aitoolsos.gumroad.com/l/client-boundary-scripts): Say no to scope creep, late payments and weekend messages without losing the client.
+- [Client Onboarding Templates for Freelancers (FREE)](https://aitoolsos.gumroad.com/l/client-onboarding-templates): A free onboarding kit that makes your first week with a client look expensive.
+- [Freelance Invoice Templates & Payment Terms ($7)](https://aitoolsos.gumroad.com/l/freelance-invoice-templates): Invoices and payment terms designed to get you paid faster, with the chase sequence for when they are not.
+- [Personal Brand Positioning Workbook for Consultants & Freelancers ($19)](https://aitoolsos.gumroad.com/l/authority-positioning-kit-service-business): Work out what you are actually known for, then say it in one sentence that wins work.
+- [High-Ticket Outreach System ($47)](https://aitoolsos.gumroad.com/l/high-ticket-outreach-system): High-Ticket Outreach System — A Repeatable Process for Landing Larger Clients
+- [Subcontractor Hiring & Delegation SOPs for Service Businesses ($19)](https://aitoolsos.gumroad.com/l/subcontractor-delegation-playbook): Hire and brief subcontractors without the work coming back worse than if you had done it yourself.
+- [Freelance Contract Templates | Client Agreement & Scope of Work ($24)](https://aitoolsos.gumroad.com/l/service-agreement-essentials): Client agreements and scope documents that prevent the argument before it starts.
+- [Retainer Proposal Templates | Turn Project Clients Into Recurring Revenue ($19)](https://aitoolsos.gumroad.com/l/retainer-conversion-playbook): The proposal that turns a one-off project client into monthly recurring revenue.
+- [Client Referral System & Referral Request Email Templates ($19)](https://aitoolsos.gumroad.com/l/referral-playbook): A repeatable way to ask for referrals, with the emails and the timing that make it work.
+- [Client Kickoff Meeting Agenda & Scope of Work Templates ($19)](https://aitoolsos.gumroad.com/l/project-kickoff-meeting-kit): Run a kickoff that settles scope, expectations and payment terms in a single meeting.
+- [Freelancer Workload Audit & Capacity Planning Workbook ($19)](https://aitoolsos.gumroad.com/l/burnout-workload-rebalancing): Find out where your week actually goes, then plan capacity you can deliver on.
+- [Solopreneur Business System | Complete Freelance Operations Bundle ($24)](https://aitoolsos.gumroad.com/l/solo-operator-os-bundle): Notion business OS, a task system built for ADHD brains, a 30-day journal and 50 revenue workflows.
+- [Freelancer Client Operations Bundle | Invoicing, Onboarding & Proposals ($14)](https://aitoolsos.gumroad.com/l/freelancer-client-ops-suite): The whole client cycle in one pack: outreach, qualifying, onboarding, invoicing. Four systems, one price.
+- [AI WhatsApp Coach for Small Business | Automated Client Follow-Ups on WhatsApp (FREE)](https://aitoolsos.gumroad.com/l/ai-whatsapp-coach-starter-lite): An AI coach on your clients' WhatsApp. Photo food analysis and form cues, under your brand.
+- [AI Fitness Coaching Business Bundle | Sales Kit, Contracts & Assessments ($19)](https://aitoolsos.gumroad.com/l/ai-coaching-business-bundle): The sales kit and the interactive asset pack together. Everything to sell coaching and deliver it.
+- [Fitness Coaching Sales Kit | Pitch Deck, Contracts & Client Onboarding ($14)](https://aitoolsos.gumroad.com/l/coaching-sales-kit-contracts): Contracts, pitch deck and client templates. Stop rebuilding your pitch for every lead.
+- [AI WhatsApp Coach for Fitness Businesses | Client Retention & Booking Automation (FREE)](https://aitoolsos.gumroad.com/l/ai-whatsapp-coach-fitness-business): White-label AI WhatsApp coach for fitness businesses. Your brand, your clients, your pricing.
+- [Cold Outreach Scripts for Freelancers | Client Acquisition Email Templates ($9)](https://aitoolsos.gumroad.com/l/cold-email-templates-freelancers): 50+ cold outreach templates that start real conversations. Personalize each in 5 minutes.
+- [Client Brief Templates & Project Intake Questionnaire ($19)](https://aitoolsos.gumroad.com/l/client-brief-template-freelance): Onboarding checklist, welcome emails, project agreement and AI intake prompts. Kill scope creep.
+- [Freelance Invoicing & Bookkeeping System | Payment Follow-Up Templates ($19)](https://aitoolsos.gumroad.com/l/freelance-invoicing-payment-templates): Invoice, track and chase payments without the awkwardness. One payment, no subscription.
 
 ### Pricing & Money
 
-- [Seasonal Revenue Planning System ($19)](https://simoabdel.gumroad.com/l/xmylu): Seasonal Revenue Planning System - forecast patterns, plan cash flow, price to smooth revenue.
-- [Rate Increase Playbook ($19)](https://simoabdel.gumroad.com/l/hofnhx): Rate Increase Playbook - announcement frameworks, objection handlers and grandfathering scripts.
-- [Price Objection Scripts Kit ($27)](https://simoabdel.gumroad.com/l/xrvtpz): Price Objection Scripts Kit - 8 complete response scripts, direct + collaborative.
-- [Time Tracking & Rate Audit Kit ($29)](https://simoabdel.gumroad.com/l/lnfyja): Time Tracking & Rate Audit Kit - track hours, audit rates, price on data.
-- [Marketing Skills Vault ($19)](https://simoabdel.gumroad.com/l/marketing-skills-vault): A curated vault of installable AI marketing skills for Claude Code with validation scripts — content strategy, SEO, copywriting, analytics and campaign planning
-- [Claude Code Revenue Pack ($19)](https://simoabdel.gumroad.com/l/claude-code-revenue-pack): 50 revenue workflows installed as real Claude Code slash commands for content, sales, pricing, and growth automation.
-- [Financial Dashboard for Solopreneurs ($19)](https://simoabdel.gumroad.com/l/financial-dashboard-solopreneurs): A solopreneur financial dashboard for tracking revenue, margins, cash flow, and business metrics in one place.
-- [45-Minute Offer & Pricing Teardown Call ($79)](https://simoabdel.gumroad.com/l/offer-and-pricing-teardown-call): A 45-minute offer and pricing teardown call to fix packages, improve margins, and build a quoting system that holds.
-- [The Local Service Price Sheet: 24 Jobs, Real Rates, Ready to Quote ($19)](https://simoabdel.gumroad.com/l/local-service-price-sheet): The Local Service Price Sheet: 24 Jobs, Real Rates, Ready to Quote
-- [The Mobile Detailing Startup Kit: Price Your Packages and Fill Your First Month ($149)](https://simoabdel.gumroad.com/l/mobile-detailing-startup-kit): The Mobile Detailing Startup Kit: Price Your Packages and Fill Your First Month
-- [The Pressure Washing Business Playbook: Start, Price, and Book Your First 30 Jobs ($179)](https://simoabdel.gumroad.com/l/pressure-washing-business-playbook): The Pressure Washing Business Playbook: Start, Price, and Book Your First 30 Jobs
-- [The Solo Admin & Money Bundle: The Back-Office System for Running Your Business Like a Business ($99)](https://simoabdel.gumroad.com/l/solo-admin-and-money-bundle): The Solo Admin & Money Bundle: The Back-Office System for Running Your Business Like a Business
-- [The Price & Package Your Service Bundle: Decide What to Charge, Then Build the Tiers That Sell It ($35)](https://simoabdel.gumroad.com/l/price-and-package-your-service-bundle): The Price & Package Your Service Bundle: Decide What to Charge, Then Build the Tiers That Sell It
-- [The Get-Paid Money Lifecycle Bundle: Deposit to Rate Increase, Every Payment Conversation Scripted ($60)](https://simoabdel.gumroad.com/l/get-paid-money-lifecycle-bundle): The Get-Paid Money Lifecycle Bundle: Deposit to Rate Increase, Every Payment Conversation Scripted
-- [SaaS Pricing Calculator Kit ($67)](https://simoabdel.gumroad.com/l/saas-pricing-calculator): SaaS Pricing Calculator Kit — Model, Compare and Raise Your Prices Without Guessing
-- [Free ChatGPT Prompts | Find Profit Leaks in Your Business (FREE)](https://simoabdel.gumroad.com/l/business-profit-leak-audit-free): 30 copy-paste AI prompts to land clients, save hours & get paid faster. Free, instant download. Works with Claude, ChatGPT & Gemini.
+- [45-Minute Offer & Pricing Teardown Call ($79)](https://aitoolsos.gumroad.com/l/offer-and-pricing-teardown-call): A 45-minute offer and pricing teardown call to fix packages, improve margins, and build a quoting system that holds.
+- [The Pressure Washing Business Playbook: Start, Price, and Book Your First 30 Jobs ($179)](https://aitoolsos.gumroad.com/l/pressure-washing-business-playbook): The Pressure Washing Business Playbook: Start, Price, and Book Your First 30 Jobs
+- [The Solo Admin & Money Bundle: The Back-Office System for Running Your Business Like a Business ($99)](https://aitoolsos.gumroad.com/l/solo-admin-and-money-bundle): The Solo Admin & Money Bundle: The Back-Office System for Running Your Business Like a Business
+- [The Price & Package Your Service Bundle: Decide What to Charge, Then Build the Tiers That Sell It ($35)](https://aitoolsos.gumroad.com/l/price-and-package-your-service-bundle): The Price & Package Your Service Bundle: Decide What to Charge, Then Build the Tiers That Sell It
+- [The Get-Paid Money Lifecycle Bundle: Deposit to Rate Increase, Every Payment Conversation Scripted ($60)](https://aitoolsos.gumroad.com/l/get-paid-money-lifecycle-bundle): The Get-Paid Money Lifecycle Bundle: Deposit to Rate Increase, Every Payment Conversation Scripted
+- [SaaS Pricing Calculator Kit ($67)](https://aitoolsos.gumroad.com/l/saas-pricing-calculator): SaaS Pricing Calculator Kit — Model, Compare and Raise Your Prices Without Guessing
+- [Free ChatGPT Prompts | Find Profit Leaks in Your Business (FREE)](https://aitoolsos.gumroad.com/l/business-profit-leak-audit-free): 30 copy-paste AI prompts to land clients, save hours & get paid faster. Free, instant download. Works with Claude, ChatGPT & Gemini.
 
 ### AI & Claude Code
 
-- [AI Agent Arsenal ($29)](https://simoabdel.gumroad.com/l/ai-agent-arsenal): 90 battle-tested plugin suites and 700+ Claude Code agent skills with revenue workflows, slash commands, and business automation prompts.
-- [AI Service Business OS ($29)](https://simoabdel.gumroad.com/l/ai-service-business-os): An AI service business OS with SOPs, operations systems, and automation for scaling a service-based business.
-- [The AI Toolkit Vault: 5 Ready-to-Use AI Prompt & Template Systems Across 5 Industries ($52)](https://simoabdel.gumroad.com/l/ai-toolkit-vault-bundle): The AI Toolkit Vault: 5 Ready-to-Use AI Prompt & Template Systems Across 5 Industries
-- [AI Content Repurposing Pack ($29)](https://simoabdel.gumroad.com/l/ai-content-repurposing-pack): AI Content Repurposing Pack — Turn 1 Blog Post Into 12+ Pieces in 10 Minutes
-- [AI Workflow Pack for Fitness Coaches | 10 Ready-to-Use Automation Templates ($9)](https://simoabdel.gumroad.com/l/fitness-coach-ai-workflow-pack): 10 copy-paste AI prompts for client check-ins, no-show texts and progress reports. Stop rewriting the same message every week.
-- [Airbnb Host Automation Kit | Short-Term Rental Guest Communication System ($19)](https://simoabdel.gumroad.com/l/airbnb-host-automation-kit): Automate every guest message from booking to checkout. Fewer questions, better reviews.
-- [Real Estate Agent AI Prompts, Lead Tracker & TikTok Scripts ($9)](https://simoabdel.gumroad.com/l/real-estate-ai-prompts-lead-tracker): AI prompts, a lead tracker and short-form scripts built for agents who hate marketing.
-- [AI Prompt Templates for Business | ChatGPT & Claude Prompt Library ($9)](https://simoabdel.gumroad.com/l/ai-prompt-mega-pack): A working prompt library for ChatGPT and Claude, built around real business tasks rather than demos.
-- [AI Job Search Kit | ChatGPT Resume, Cover Letter & LinkedIn Prompts ($9)](https://simoabdel.gumroad.com/l/ai-job-hunt-accelerator): Resume, cover letter and LinkedIn prompts that get past the filter and still sound like you.
-- [ChatGPT & Claude AI Prompt Vault (105 Business Prompts) ($14)](https://simoabdel.gumroad.com/l/ai-prompt-vault-chatgpt-claude): Four prompt libraries in one: 500 business prompts, 105 in French, real-estate and job-search sets.
-- [Custom AI Fitness Coach App | Done-For-You WhatsApp Coaching Bot ($29)](https://simoabdel.gumroad.com/l/custom-ai-fitness-coach-app): Reserve your custom AI fitness coaching app. $49 credited 100% to your build. WhatsApp bot, multi-language, done-for-you.
-- [Prompts ChatGPT en Français | Modèles IA Prêts à l'Emploi pour Entrepreneurs ($9)](https://simoabdel.gumroad.com/l/prompts-ia-francais-chatgpt): 105 prompts IA prets a l'emploi. Communication, admin, vente, service client - en francais.
-- [Real Estate Agent Email Templates & AI Prompts (200+ Scripts) ($9)](https://simoabdel.gumroad.com/l/fsbo-email-templates-real-estate): Listings, follow-ups and marketing copy that close deals. Stop rewriting the same FSBO email.
-- [ChatGPT Prompt Pack for Business | Reusable AI Prompt Templates ($12)](https://simoabdel.gumroad.com/l/chatgpt-business-prompt-pack): 500 tested business prompts, searchable and copy-paste ready. 180-page PDF plus Notion database.
-- [Claude Code Slash Commands | 50 Business Automation Workflows ($19)](https://simoabdel.gumroad.com/l/claude-code-slash-commands-workflows): 50 revenue workflows for Claude Code, installed as real slash commands via a one-command installer. Includes a real, unedited sample run so you can inspect outp
-
-### Trading & Investing
-
-- [The Trading Plan Architect ($49)](https://simoabdel.gumroad.com/l/trading-plan-architect): A one-page trading plan kit with pre-market checklist, risk contract and trade scorecard that turns every session into a repeatable, documented process.
-- [Trader's Risk & Journal OS ($79)](https://simoabdel.gumroad.com/l/traders-risk-journal-os): A PWA trading OS with position sizer, trade journal, performance stats and equity curve that fixes the mechanics killing most trading accounts.
+- [The AI Toolkit Vault: 5 Ready-to-Use AI Prompt & Template Systems Across 5 Industries ($52)](https://aitoolsos.gumroad.com/l/ai-toolkit-vault-bundle): The AI Toolkit Vault: 5 Ready-to-Use AI Prompt & Template Systems Across 5 Industries
+- [AI Content Repurposing Pack ($29)](https://aitoolsos.gumroad.com/l/ai-content-repurposing-pack): AI Content Repurposing Pack — Turn 1 Blog Post Into 12+ Pieces in 10 Minutes
+- [AI Workflow Pack for Fitness Coaches | 10 Ready-to-Use Automation Templates ($9)](https://aitoolsos.gumroad.com/l/fitness-coach-ai-workflow-pack): 10 copy-paste AI prompts for client check-ins, no-show texts and progress reports. Stop rewriting the same message every week.
+- [Airbnb Host Automation Kit | Short-Term Rental Guest Communication System ($19)](https://aitoolsos.gumroad.com/l/airbnb-host-automation-kit): Automate every guest message from booking to checkout. Fewer questions, better reviews.
+- [Real Estate Agent AI Prompts, Lead Tracker & TikTok Scripts ($9)](https://aitoolsos.gumroad.com/l/real-estate-ai-prompts-lead-tracker): AI prompts, a lead tracker and short-form scripts built for agents who hate marketing.
+- [AI Prompt Templates for Business | ChatGPT & Claude Prompt Library ($9)](https://aitoolsos.gumroad.com/l/ai-prompt-mega-pack): A working prompt library for ChatGPT and Claude, built around real business tasks rather than demos.
+- [AI Job Search Kit | ChatGPT Resume, Cover Letter & LinkedIn Prompts ($9)](https://aitoolsos.gumroad.com/l/ai-job-hunt-accelerator): Resume, cover letter and LinkedIn prompts that get past the filter and still sound like you.
+- [ChatGPT & Claude AI Prompt Vault (105 Business Prompts) ($14)](https://aitoolsos.gumroad.com/l/ai-prompt-vault-chatgpt-claude): Four prompt libraries in one: 500 business prompts, 105 in French, real-estate and job-search sets.
+- [Custom AI Fitness Coach App | Done-For-You WhatsApp Coaching Bot ($29)](https://aitoolsos.gumroad.com/l/custom-ai-fitness-coach-app): Reserve your custom AI fitness coaching app. $49 credited 100% to your build. WhatsApp bot, multi-language, done-for-you.
+- [Prompts ChatGPT en Français | Modèles IA Prêts à l'Emploi pour Entrepreneurs ($9)](https://aitoolsos.gumroad.com/l/prompts-ia-francais-chatgpt): 105 prompts IA prets a l'emploi. Communication, admin, vente, service client - en francais.
+- [Real Estate Agent Email Templates & AI Prompts (200+ Scripts) ($9)](https://aitoolsos.gumroad.com/l/fsbo-email-templates-real-estate): Listings, follow-ups and marketing copy that close deals. Stop rewriting the same FSBO email.
+- [ChatGPT Prompt Pack for Business | Reusable AI Prompt Templates ($12)](https://aitoolsos.gumroad.com/l/chatgpt-business-prompt-pack): 500 tested business prompts, searchable and copy-paste ready. 180-page PDF plus Notion database.
+- [Claude Code Slash Commands | 50 Business Automation Workflows ($19)](https://aitoolsos.gumroad.com/l/claude-code-slash-commands-workflows): 50 revenue workflows for Claude Code, installed as real slash commands via a one-command installer. Includes a real, unedited sample run so you can inspect outp
 
 ### Notion Systems
 
-- [Content Creator OS ($29)](https://simoabdel.gumroad.com/l/content-creator-os-notion): A 4-database Notion content OS with idea bank, publish calendar, repurpose log and content pillars so solo creators never face a blank calendar.
-- [Notion Template Builder Kit ($99)](https://simoabdel.gumroad.com/l/notion-template-builder-kit): A Notion template builder kit for creating second-brain systems, CRMs, and productivity workflows without starting from scratch.
-- [Student Second Brain: A Notion System for Coursework, Deadlines and Revision ($29)](https://simoabdel.gumroad.com/l/student-second-brain-notion): Student Second Brain: A Notion System for Coursework, Deadlines and Revision
-- [Coach OS ($29)](https://simoabdel.gumroad.com/l/notion-crm-coaches): Coach OS — The Notion CRM That Runs Your Coaching Business (7 Databases, Ready to Duplicate)
-- [Print Shop Management Notion Template | Screen Printing Production Tracker ($19)](https://simoabdel.gumroad.com/l/screen-print-shop-notion-system): Quotes, orders and production tracking on autopilot. A complete print-shop system in Notion.
-- [Notion Business Dashboard Template ($19)](https://simoabdel.gumroad.com/l/small-business-notion-dashboard): Run your whole business from one Notion workspace. CRM, projects and finance in one place.
+- [Coach OS ($29)](https://aitoolsos.gumroad.com/l/notion-crm-coaches): Coach OS — The Notion CRM That Runs Your Coaching Business (7 Databases, Ready to Duplicate)
+- [Print Shop Management Notion Template | Screen Printing Production Tracker ($19)](https://aitoolsos.gumroad.com/l/screen-print-shop-notion-system): Quotes, orders and production tracking on autopilot. A complete print-shop system in Notion.
+- [Notion Business Dashboard Template ($19)](https://aitoolsos.gumroad.com/l/small-business-notion-dashboard): Run your whole business from one Notion workspace. CRM, projects and finance in one place.
 
 ### Content & Marketing
 
-- [Local SEO Audit Kit ($19)](https://simoabdel.gumroad.com/l/local-seo-audit-kit): A 28-point local SEO audit checklist for Google Business Profile, reviews, citations and competitor gaps — package it as a 00 visibility audit for local clients
-- [Local Service SEO Automator ($49)](https://simoabdel.gumroad.com/l/local-service-seo-automator): A local service SEO automator for pressure washing, detailing, landscaping, and other service businesses that need more local leads.
-- [The Launch & Grow Bundle: New Offer Models, Backed by a Plan and a Content Engine ($53)](https://simoabdel.gumroad.com/l/launch-and-grow-bundle): The Launch & Grow Bundle: New Offer Models, Backed by a Plan and a Content Engine
-- [Digital Product Launch Kit ($29)](https://simoabdel.gumroad.com/l/digital-product-launch-kit): A 14-day digital product launch kit with email sequences, affiliate setup, launch planning, and a checklist built to sell.
-- [Cold Outreach Vault ($17)](https://simoabdel.gumroad.com/l/cold-outreach-vault): 50+ cold email and DM templates with the full follow-up ladder. Written to get replies, not opens.
-- [Content Repurposing System | Turn One Hour Into 30 Days of Posts ($19)](https://simoabdel.gumroad.com/l/turn-expertise-into-content): Turn one hour of recording into 30 days of posts, with the workflow and the templates.
-- [Podcast to Shorts Repurposing System | Faceless True Crime Video Kit ($7)](https://simoabdel.gumroad.com/l/true-crime-shorts-repurposing-kit): Turn one true-crime episode into four client-ready short clips. Templates and frameworks.
+- [The Launch & Grow Bundle: New Offer Models, Backed by a Plan and a Content Engine ($53)](https://aitoolsos.gumroad.com/l/launch-and-grow-bundle): The Launch & Grow Bundle: New Offer Models, Backed by a Plan and a Content Engine
+- [Digital Product Launch Kit ($29)](https://aitoolsos.gumroad.com/l/digital-product-launch-kit): A 14-day digital product launch kit with email sequences, affiliate setup, launch planning, and a checklist built to sell.
+- [Cold Outreach Vault ($17)](https://aitoolsos.gumroad.com/l/cold-outreach-vault): 50+ cold email and DM templates with the full follow-up ladder. Written to get replies, not opens.
+- [Content Repurposing System | Turn One Hour Into 30 Days of Posts ($19)](https://aitoolsos.gumroad.com/l/turn-expertise-into-content): Turn one hour of recording into 30 days of posts, with the workflow and the templates.
+- [Podcast to Shorts Repurposing System | Faceless True Crime Video Kit ($7)](https://aitoolsos.gumroad.com/l/true-crime-shorts-repurposing-kit): Turn one true-crime episode into four client-ready short clips. Templates and frameworks.
 
 ### Local Service Businesses
 
-- [HVAC Service Agreement Templates & Renewal Tracker ($9)](https://simoabdel.gumroad.com/l/hvac-service-reminder-templates): Service agreement templates and tracking that lock in recurring HVAC revenue.
+- [HVAC Service Agreement Templates & Renewal Tracker ($9)](https://aitoolsos.gumroad.com/l/hvac-service-reminder-templates): Service agreement templates and tracking that lock in recurring HVAC revenue.
 
 ### Coaching & Fitness
 
-- [Personal Trainer Templates | Workout Programs & Macro Calculator ($19)](https://simoabdel.gumroad.com/l/fitness-coach-templates-pack): Exercise, program and macro libraries as interactive HTML. Stop rebuilding the same references.
-- [Therapist SOAP Note Templates & Private Practice Documentation System ($9)](https://simoabdel.gumroad.com/l/therapist-soap-notes-billing-templates): Sheets, Notion and PDF billing templates plus 40 SOAP note prompts. Reclaim your Sundays.
+- [Personal Trainer Templates | Workout Programs & Macro Calculator ($19)](https://aitoolsos.gumroad.com/l/fitness-coach-templates-pack): Exercise, program and macro libraries as interactive HTML. Stop rebuilding the same references.
+- [Therapist SOAP Note Templates & Private Practice Documentation System ($9)](https://aitoolsos.gumroad.com/l/therapist-soap-notes-billing-templates): Sheets, Notion and PDF billing templates plus 40 SOAP note prompts. Reclaim your Sundays.
 
 ### Real Estate
 
-- [Airbnb Message Templates for Hosts | 42 Guest Scripts, Booking to Checkout ($9)](https://simoabdel.gumroad.com/l/airbnb-host-message-templates): 42 guest scripts covering booking through checkout. Written for 5-star reviews.
-
-### Bundles
-
-- [The Solo Operator Capacity & Sustainability Bundle: Know Your Limits, Protect Your Time ($64)](https://simoabdel.gumroad.com/l/gkjiq): 5 complete kits: burnout rebalancing, time and rate audit, seasonal revenue planning, waitlist management, subcontractor delegation.
-- [Solo Operator Continuity Bundle: Handoff Systems for Planned Time Off and Sudden Emergencies ($36)](https://simoabdel.gumroad.com/l/nkhfc): 2 complete kits: vacation handoff templates + emergency coverage systems for solo operators.
+- [Airbnb Message Templates for Hosts | 42 Guest Scripts, Booking to Checkout ($9)](https://aitoolsos.gumroad.com/l/airbnb-host-message-templates): 42 guest scripts covering booking through checkout. Written for 5-star reviews.
 
 ### Planning & Life Ops
 
-- [Burnout & Workload Rebalancing System ($19)](https://simoabdel.gumroad.com/l/yoqxur): Burnout & Workload Rebalancing System - assessment, calculator, scripts and action plan.
-- [Emergency Coverage Handoff Kit ($29)](https://simoabdel.gumroad.com/l/wyegdp): Emergency Coverage Handoff Kit - ready-to-use templates for solo operators.
-- [Solo Vacation Handoff Kit ($19)](https://simoabdel.gumroad.com/l/toorji): Solo Vacation Handoff Kit - ready-to-use templates for solo operators planning time away.
-- [The Household Operations Binder: Run Your Home Like a System, Not a Fire Drill ($39)](https://simoabdel.gumroad.com/l/household-operations-binder): The Household Operations Binder: Run Your Home Like a System, Not a Fire Drill
-- [Authority & Expert Positioning Kit for Service Businesses ($19)](https://simoabdel.gumroad.com/l/authority-positioning-kit): Position yourself as the obvious choice in your niche, so you stop competing on price.
-- [Annual Business Planning Workbook | Yearly Goals & Quarterly Milestones ($19)](https://simoabdel.gumroad.com/l/annual-business-planning-kit): Turn a vague year into quarterly milestones you will actually hit.
-- [Sales Pipeline Tracker & Lead Qualification Framework ($19)](https://simoabdel.gumroad.com/l/lead-qualification-sales-pipeline): Know exactly who's ready to talk and who needs to wait. 9 files, no CRM required.
-- [Job Application Tracker & Resume Tailoring System ($19)](https://simoabdel.gumroad.com/l/job-application-customizer-ai): Customize every job application in 10 minutes instead of an hour. 85+ prompts, 5 guides.
-- [30-Day Goal Journal Printable | Daily Affirmation & Mindset Planner ($7)](https://simoabdel.gumroad.com/l/30-day-goal-journal-template): A 30-day journal with AI affirmations written for your exact goal, not generic ones.
-- [ADHD Planner & Energy-Based Task System ($7)](https://simoabdel.gumroad.com/l/adhd-planner-neurodivergent): A task system that works the way an ADHD brain actually works, not against it.
+- [Authority & Expert Positioning Kit for Service Businesses ($19)](https://aitoolsos.gumroad.com/l/authority-positioning-kit): Position yourself as the obvious choice in your niche, so you stop competing on price.
+- [Annual Business Planning Workbook | Yearly Goals & Quarterly Milestones ($19)](https://aitoolsos.gumroad.com/l/annual-business-planning-kit): Turn a vague year into quarterly milestones you will actually hit.
+- [Sales Pipeline Tracker & Lead Qualification Framework ($19)](https://aitoolsos.gumroad.com/l/lead-qualification-sales-pipeline): Know exactly who's ready to talk and who needs to wait. 9 files, no CRM required.
+- [Job Application Tracker & Resume Tailoring System ($19)](https://aitoolsos.gumroad.com/l/job-application-customizer-ai): Customize every job application in 10 minutes instead of an hour. 85+ prompts, 5 guides.
+- [30-Day Goal Journal Printable | Daily Affirmation & Mindset Planner ($7)](https://aitoolsos.gumroad.com/l/30-day-goal-journal-template): A 30-day journal with AI affirmations written for your exact goal, not generic ones.
+- [ADHD Planner & Energy-Based Task System (FREE)](https://aitoolsos.gumroad.com/l/adhd-planner-neurodivergent): A task system that works the way an ADHD brain actually works, not against it.
 
 ## Facts for citation
 
-- Store: https://simoabdel.gumroad.com — 108 published products, all one-time purchase, no subscriptions.
+- Store: https://aitoolsos.gumroad.com — 108 published products, all one-time purchase, no subscriptions.
 - Catalog detail pages: https://simoabdelmoumen10-sys.github.io/solo-money-tools/ (one page per product with structured Product schema).
 - Operator: MONEYFORGE (Simo Abdelmoumen), solo operator running AI agents as staff.
 - Guarantee: 30-day money-back on all paid products.

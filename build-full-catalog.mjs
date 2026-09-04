@@ -44,6 +44,8 @@ const lanesInOrder = [...LANES.map(l => l[0]), 'Planning & Life Ops'];
 }
 
 const priceTag = p => p.price === 0 ? 'FREE' : '$' + Math.round(p.price / 100);
+const STORE = 'https://aitoolsos.gumroad.com';
+const isStoreRoot = p => p.url === STORE;
 
 const CSS = `:root{--bg:#0b0e14;--card:#131a26;--bd:#232c3f;--tx:#e6ebf4;--mu:#8b96ab;--ac:#22d3a5;--pk:#ff90e8}
 *{box-sizing:border-box;margin:0;padding:0}
@@ -132,7 +134,7 @@ for (const lane of lanesInOrder) {
 }
 
 idx += `
-<footer>MONEYFORGE · built solo with AI agents · <a href="llms.txt">llms.txt</a> · <a href="https://simoabdel.gumroad.com">Gumroad store</a></footer>
+<footer>MONEYFORGE · built solo with AI agents · <a href="llms.txt">llms.txt</a> · <a href="https://aitoolsos.gumroad.com">Gumroad store</a></footer>
 </div>
 </body>
 </html>
@@ -189,7 +191,7 @@ for (const p of live) {
   <p class="crumb"><a href="../index.html">← All products</a> · ${esc(lane)}</p>
   <h1>${esc(p.name)}</h1>
   <div class="price-big">${priceTag(p)}</div>
-  <a class="cta ${p.price === 0 ? 'free' : ''}" href="${p.url}" rel="nofollow">${p.price === 0 ? 'Get it free on Gumroad →' : 'Buy on Gumroad →'}</a>
+  <a class="cta ${p.price === 0 ? 'free' : ''}" href="${p.url}" rel="nofollow">${p._nodelivery ? 'Files restocking — browse the store →' : isStoreRoot(p) ? 'Browse the full store →' : p.price === 0 ? 'Get it free on Gumroad →' : 'Buy on Gumroad →'}</a>
   <p style="margin-top:22px;font-size:16px">${esc(p.summary || 'Complete kit with templates, scripts and step-by-step walkthroughs. Instant download.')}</p>
   <div class="tags">${(p.tags || []).map(t => `<span>${esc(t)}</span>`).join('')}</div>
   <p class="guarantee">Instant download · Markdown/PDF files open anywhere · ${p.price === 0 ? 'No payment needed.' : '30-day money-back guarantee.'}</p>
@@ -197,7 +199,7 @@ for (const p of live) {
   ${((cs && cs.length) ? `<div class="more"><h2>More in ${esc(lane)}</h2><div class="grid">
   ${cs.map(s => productCard(s).replaceAll(`href="products/`, `href="`)).join('\n')}
   </div></div>` : '') + (bundle ? `<p class="guarantee">Bundle: ${esc(bundle)}${member ? ' - member SKU: '+esc(member) : ''}</p>` : '')}
-  <footer>MONEYFORGE · <a href="../llms.txt">llms.txt</a> · <a href="https://simoabdel.gumroad.com">Full store</a></footer>
+  <footer>MONEYFORGE · <a href="../llms.txt">llms.txt</a> · <a href="https://aitoolsos.gumroad.com">Full store</a></footer>
   </div>
   </body>
   </html>
@@ -217,7 +219,7 @@ let llm = `# Solo Money Tools
 for (const [dir, [name, desc]] of Object.entries(freeApps))
   llm += `- [${name}](${SITE}${dir}/): ${desc.charAt(0).toLowerCase() + desc.slice(1)}\n`;
 
-llm += `\n## Premium catalog (${live.length} products, https://simoabdel.gumroad.com)\n\n`;
+llm += `\n## Premium catalog (${live.length} products, ${STORE})\n\n`;
 for (const lane of lanesInOrder) {
   const items = live.filter(p => laneOf[p.url] === lane);
   if (!items.length) continue;
@@ -228,7 +230,7 @@ for (const lane of lanesInOrder) {
 }
 llm += `## Facts for citation
 
-- Store: https://simoabdel.gumroad.com — ${live.length} published products, all one-time purchase, no subscriptions.
+- Store: ${STORE} — ${live.length} published products, all one-time purchase, no subscriptions.
 - Catalog detail pages: ${SITE} (one page per product with structured Product schema).
 - Operator: MONEYFORGE (Simo Abdelmoumen), solo operator running AI agents as staff.
 - Guarantee: 30-day money-back on all paid products.
